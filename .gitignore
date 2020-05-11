@@ -1,0 +1,5 @@
+.venv
+.secret.env
+tmp
+var
+.vscode
