@@ -1,7 +1,7 @@
 tools:
-  - name: kallisto_pseudo
+  - name: salmonquantmerge
     # [SKIP_TESTS]
-    owner: iuc
+    owner: bgruening
     tool_panel_section_label: RNA-Seq
   - name: kallisto_quant
     # [SKIP_TESTS]
@@ -11,7 +11,7 @@ tools:
     # [SKIP_TESTS]
     owner: bgruening
     tool_panel_section_label: RNA-Seq
-  - name: salmonquantmerge
+  - name: kallisto_pseudo
     # [SKIP_TESTS]
-    owner: bgruening
+    owner: iuc
     tool_panel_section_label: RNA-Seq
