@@ -1,0 +1,14 @@
+# Remove the wildcard to skip tests for this/these tool(s): [SKIP_TESTS]
+tools:
+  - name: kallisto_pseudo
+    owner: iuc
+    tool_panel_section_label: RNA-Seq
+  - name: kallisto_quant
+    owner: iuc
+    tool_panel_section_label: RNA-Seq
+  - name: salmon
+    owner: bgruening
+    tool_panel_section_label: RNA-Seq
+  - name: salmonquantmerge
+    owner: bgruening
+    tool_panel_section_label: RNA-Seq
