@@ -20,7 +20,7 @@ fi
 # locally or remotely at stages of development. If RUN_SCRIPT_ON_JENKINS is 0,
 # the script will only run where a .secret.env file is present. The .secret.env
 # file is necessary for loading the API keys outside of the jenkins environment
-RUN_SCRIPT_ON_JENKINS=0
+RUN_SCRIPT_ON_JENKINS=1
 SECRET_ENV_FILE=".secret.env"
 [ -f $SECRET_ENV_FILE ] && LOCAL_ENV=1 || LOCAL_ENV=0
 export LOCAL_ENV=$LOCAL_ENV
