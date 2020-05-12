@@ -15,8 +15,8 @@ install_tools() {
   echo "STAGING_TOOL_DIR = $STAGING_TOOL_DIR"
   echo "PRODUCTION_TOOL_DIR = $PRODUCTION_TOOL_DIR"
 
-  # Jenkins build number
-  echo "BUILD_NUMBER = $BUILD_NUMBER"
+  # GitHub Actions build number
+  echo "GITHUB_RUN_NUMBER = $GITHUB_RUN_NUMBER"
   echo "GIT_COMMIT = $GIT_COMMIT"
   echo "GIT_PREVIOUS_COMMIT = $GIT_PREVIOUS_COMMIT"
   echo -------------------------------
@@ -34,8 +34,8 @@ install_tools() {
 
   # check out master, get out of detached head (skip if running locally)
   if [ $LOCAL_ENV = 0 ]; then
-    git config --local user.name "galaxy-no-tools-jenkins-bot"
-    git config --local user.email "galaxynorwaytools@usegalaxy.no"
+    git config --local user.name "usegalaxy-no-tools-bot"
+    git config --local user.email "usegalaxy-no-tools@usegalaxy.no"
     git checkout master
     git pull
   fi
@@ -49,7 +49,7 @@ install_tools() {
   rm -f $ERROR_LOG ||:
   touch $ERROR_LOG
 
-  TOOL_FILE_PATH="$TMP/$BUILD_NUMBER"
+  TOOL_FILE_PATH="$TMP/$GITHUB_RUN_NUMBER"
   mkdir -p $TOOL_FILE_PATH
 
   if [ "$MODE" = "install" ]; then
@@ -162,7 +162,7 @@ install_tools() {
   git diff --staged | cat;
 
   echo -e "\nPushing Changes to github"
-  COMMIT_MESSAGE="Jenkins $MODE build $BUILD_NUMBER."
+  COMMIT_MESSAGE="GitHub Actions $MODE build $GITHUB_RUN_NUMBER."
   git commit "${COMMIT_FILES[@]}" -m "$COMMIT_MESSAGE"
   git push
 
@@ -171,7 +171,7 @@ install_tools() {
     COMMIT_PR_FILES=()
     echo "Opening new pull request for uninstalled tools:";
     echo "$(ls $TOOL_FILE_PATH )";
-    BRANCH_NAME="jenkins/uninstalled_tools_${MODE}_${BUILD_NUMBER}"
+    BRANCH_NAME="gha/uninstalled_tools_${MODE}_${GITHUB_RUN_NUMBER}"
     git checkout -b $BRANCH_NAME
     for TOOL_FILE in $TOOL_FILE_PATH/*; do
       PR_FILE="requests/$(basename $TOOL_FILE)"
@@ -179,13 +179,13 @@ install_tools() {
       git add $PR_FILE
       COMMIT_PR_FILES+=("$PR_FILE")
     done
-    git commit "${COMMIT_PR_FILES[@]}" -m "Jenkins $MODE build $BUILD_NUMBER errors"
+    git commit "${COMMIT_PR_FILES[@]}" -m "GitHub Actions $MODE build $GITHUB_RUN_NUMBER errors"
     git push --set-upstream origin $BRANCH_NAME
     # Use 'hub' command to open pull request
     # hub takes a text file where a blank line separates the PR title from
     # the PR description.
     PR_FILE="$TMP/hub_pull_request_file"
-    echo -e "Jenkins $MODE build $BUILD_NUMBER errors\n\n" > $PR_FILE
+    echo -e "GitHub Actions $MODE build $GITHUB_RUN_NUMBER errors\n\n" > $PR_FILE
     cat $ERROR_LOG >> $PR_FILE
     hub pull-request -F $PR_FILE
     rm $PR_FILE
@@ -372,7 +372,7 @@ test_tool() {
       log_row "Installed"
       exit_installation 0 ""
       # remove installation file in requests/pending.  Any files that remain in this folder will
-      # be added to a new PR opened by Jenkins
+      # be added to a new PR opened by GitHub Actions
       rm $TOOL_FILE;
       return 0
     fi
@@ -403,13 +403,13 @@ log_row() {
   # LOG_HEADER="Category\tBuild Num.\tDate (AEST)\tName\tNew Tool\tStatus\tOwner\tInstalled Revision\tRequested Revision\tFailing Step\tStaging tests passed\tProduction tests passed\tSection Label\tTool Shed URL\tLog Path"
   STATUS="$1"
   DATE=$(env TZ="Australia/Queensland" date "+%d/%m/%y %H:%M:%S")
-  LOG_ROW="$(title $MODE)\t$BUILD_NUMBER\t$DATE\t$TOOL_NAME\t$TOOL_IS_NEW\t$STATUS\t$OWNER\t$INSTALLED_REVISION\t$REQUESTED_REVISION\t$STEP\t$STAGING_TESTS_PASSED\t$PRODUCTION_TESTS_PASSED\t$SECTION_LABEL\t$TOOL_SHED_URL\t$LOG_FILE"
+  LOG_ROW="$(title $MODE)\t$GITHUB_RUN_NUMBER\t$DATE\t$TOOL_NAME\t$TOOL_IS_NEW\t$STATUS\t$OWNER\t$INSTALLED_REVISION\t$REQUESTED_REVISION\t$STEP\t$STAGING_TESTS_PASSED\t$PRODUCTION_TESTS_PASSED\t$SECTION_LABEL\t$TOOL_SHED_URL\t$LOG_FILE"
   echo -e $LOG_ROW >> $WORKING_INSTALLATION_LOG
 }
 
 log_error() {
   FILE=$(realpath "$1")
-  echo -e "Failed to install $TOOL_NAME on $URL\nSee log on Jenkins: $FILE\n\n" >> $ERROR_LOG
+  echo -e "Failed to install $TOOL_NAME on $URL\nSee log on GitHub Actions: $FILE\n\n" >> $ERROR_LOG
 }
 
 exit_installation() {

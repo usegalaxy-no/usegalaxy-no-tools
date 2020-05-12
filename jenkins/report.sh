@@ -1,14 +1,14 @@
 #! /bin/bash
 SECRET_ENV_FILE=".secret.env"; # todo: run this script from within main.sh
 [ -f $SECRET_ENV_FILE ] && LOCAL_ENV=1 || LOCAL_ENV=0
-[ $LOCAL_ENV = 0 ] && VENV_PATH="/var/lib/jenkins/jobs_common" || VENV_PATH=".."
+VENV_PATH=".."
 VIRTUALENV="$VENV_PATH/.venv3"
 # shellcheck source=../.venv/bin/activate
 . "$VIRTUALENV/bin/activate"
 
 REPORT_DATE=$(env TZ="Europe/Oslo" date "+%Y-%m-%d")
 REPORT_FILE="${REPORT_DATE}-tool-updates.md"
-BRANCH_NAME="jenkins/${REPORT_DATE}-tool-updates"
+BRANCH_NAME="gha/${REPORT_DATE}-tool-updates"
 
 command="python scripts/write_report_from_log.py -j $BUILD_NUMBER  -o $REPORT_FILE -d $REPORT_DATE"
 echo $command

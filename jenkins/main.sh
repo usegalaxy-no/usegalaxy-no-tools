@@ -34,7 +34,7 @@ if [ $LOCAL_ENV = 1 ]; then
     LOG_DIR="logs"
     echo "Script running in local enviroment";
 else
-    echo "Script running on jenkins server";
+    echo "Script running on GitHub Actions server";
     GIT_PREVIOUS_COMMIT=HEAD~1;
     GIT_COMMIT=HEAD;
     if [ $RUN_SCRIPT_ON_JENKINS = 0 ]; then
@@ -114,7 +114,7 @@ jenkins_tool_installation() {
 
   activate_virtualenv
   echo "Saving output to $LOG_FILE"
-  bash jenkins/install_tools.sh 2>&1 | tee $LOG_FILE
+  bash -x jenkins/install_tools.sh 2>&1 | tee $LOG_FILE
 }
 
 # Always run locally, if running on Jenkins run only when switched on (1)
