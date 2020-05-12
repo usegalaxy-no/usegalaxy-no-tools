@@ -7,7 +7,7 @@ FILE_ARGS=("${ARGS[@]:1}")
 LOG_DIR=~/galaxy_tool_automation
 BASH_V="$(echo ${BASH_VERSION} | head -c 1)" # this will be "4" if the bash version is 4.x, empty otherwise
 
-FORCE=0
+FORCE=1
 GIT_COMMIT_MESSAGE=$(git log --format=%B -n 1 $GIT_COMMIT | cat)
 [[ $GIT_COMMIT_MESSAGE == *"[FORCE]"* ]] && FORCE=1;
 

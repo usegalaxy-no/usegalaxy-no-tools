@@ -1,4 +1,3 @@
-# Remove the wildcard to skip tests for this/these tool(s): [SKIP_TEST*S]
 tools:
   - name: <tool name>
     owner: <tool owner>
