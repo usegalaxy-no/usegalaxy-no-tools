@@ -1,0 +1,4 @@
+Category	Build Num.	Date (AEST)	Name	New Tool	Status	Owner	Installed Revision	Requested Revision	Failing Step	Staging tests passed	Production tests passed	Section Label	Tool Shed URL	Log Path
+Install		12/05/20 18:45:01	error_log		Shed-tools error			error_log	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install		12/05/20 18:53:27	salmon	True	Tests failed	bgruening	e3d32471da11	latest	Staging Testing	5/7		RNA-Seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install		12/05/20 18:56:56	salmonquantmerge	True	Already Installed	bgruening	f6e3a10a88e5	latest	Production Installation	1/1		RNA-Seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
