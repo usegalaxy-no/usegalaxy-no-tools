@@ -1,5 +1,7 @@
 ## usegalaxy-no-tools
 
+![Add new tools](https://github.com/usegalaxy-no/usegalaxy-no-tools/workflows/Add%20new%20tools/badge.svg)
+
 This repository, which was blatantly copied from https://github.com/usegalaxy-au/usegalaxy-au-tools, thank you!, consists of .yml files or tools installed on usegalaxy.no and scripts for Travis CI and and the GitHub Actions automated tool installation process.  The .yml files are maintained by the GitHub Actions process and should not be edited directly.
 
 ### Requesting a tool on usegalaxy.no
