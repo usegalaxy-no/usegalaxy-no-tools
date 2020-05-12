@@ -1,9 +1,0 @@
-tools:
-  - name: salmonquantmerge
-    # [SKIP_TESTS]
-    owner: bgruening
-    tool_panel_section_label: RNA-Seq
-  - name: salmon
-    # [SKIP_TESTS]
-    owner: bgruening
-    tool_panel_section_label: RNA-Seq
