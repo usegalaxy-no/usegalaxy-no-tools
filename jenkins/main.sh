@@ -80,8 +80,8 @@ jenkins_tool_installation() {
   if [ $MODE = "install" ]; then
     # First check whether changed files are in the path of tool requests, that is within the requests folder but not within
     # any subfolders of requests.  If so, we run the install script.  If not we exit.
-    REQUESTS_DIFF=$(git diff --name-only $GIT_PREVIOUS_COMMIT $GIT_COMMIT | cat | grep "^requests\/[^\/]*$")
-    #REQUESTS_DIFF=$(ls requests/*yml requests/*yaml)
+    #REQUESTS_DIFF=$(git diff --name-only $GIT_PREVIOUS_COMMIT $GIT_COMMIT | cat | grep "^requests\/[^\/]*$")
+    REQUESTS_DIFF=$(ls requests/*\.y*ml)
 
     # Arrange git diff into string "file1 file2 .. fileN"
     REQUEST_FILES=$REQUESTS_DIFF

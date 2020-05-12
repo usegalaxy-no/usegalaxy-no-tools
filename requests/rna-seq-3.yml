@@ -3,16 +3,7 @@ tools:
     # [SKIP_TESTS]
     owner: bgruening
     tool_panel_section_label: RNA-Seq
-  - name: kallisto_quant
-    # [SKIP_TESTS]
-    owner: iuc
-    tool_panel_section_label: RNA-Seq
   - name: salmon
     # [SKIP_TESTS]
     owner: bgruening
     tool_panel_section_label: RNA-Seq
-  - name: kallisto_pseudo
-    # [SKIP_TESTS]
-    owner: iuc
-    tool_panel_section_label: RNA-Seq
-
