@@ -19,9 +19,15 @@ jobs:
         ssh-key: ${{ secrets.GHA_DEPLOY_KEY }}
         fetch-depth: '2'
     - name: Set up Python 3.8
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v2
       with:
         python-version: 3.8
+    - name: Cache .venv3
+      id: venv3
+      uses: actions/cache@v1
+      with:
+        path: .venv3
+        key: ${{ runner.os }}-venv3
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
