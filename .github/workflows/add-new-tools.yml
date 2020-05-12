@@ -1,8 +1,10 @@
 name: Add new tools
 
 on:
-  push:
-    branches: [ master ]
+  repository_dispatch:
+    types: add-new-tools
+#  push:
+#    branches: [ master ]
 #  pull_request:
 #    branches: [ master ]
 
