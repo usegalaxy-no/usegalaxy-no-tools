@@ -3,10 +3,10 @@ name: Add new tools
 on:
   repository_dispatch:
     types: add-new-tools
-#  push:
-#    branches: [ master ]
-#  pull_request:
-#    branches: [ master ]
+  push:
+    branches: [ master ]
+    paths:
+      - 'requests/**'
 
 jobs:
   build:
@@ -24,7 +24,7 @@ jobs:
         python-version: 3.8
     - name: Cache .venv3
       id: venv3
-      uses: actions/cache@v1
+      uses: actions/cache@v2
       with:
         path: .venv3
         key: ${{ runner.os }}-venv3
@@ -40,4 +40,4 @@ jobs:
       run: |
         git config --local user.email "github-actions@usegalaxy.no"
         git config --local user.name "usegalaxy.no actions"
-        bash -x jenkins/main.sh install
+        bash jenkins/main.sh install
