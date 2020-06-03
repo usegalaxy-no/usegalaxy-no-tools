@@ -1,35 +1,36 @@
-- name: bismark
-  owner: bgruening
-  revisions:
-  - ff6ee551b153
-  tool_shed_url: toolshed.g2.bx.psu.edu
-  tool_panel_section_label: Mapping
-- name: bowtie2
-  owner: devteam
-  revisions:
-  - 749c918495f7
-  tool_shed_url: toolshed.g2.bx.psu.edu
-  tool_panel_section_label: Mapping
-- name: bwa
-  owner: devteam
-  revisions:
-  - 01ac0a5fedc3
-  tool_shed_url: toolshed.g2.bx.psu.edu  
-  tool_panel_section_label: Mapping
-- name: samtools_phase
-  owner: devteam
-  revisions:
-  - b5c3b1856370
-  tool_shed_url: toolshed.g2.bx.psu.edu  
-- name: sam_to_bam
-  owner: devteam
-  revisions:
-  - cf1ffd88f895
-  tool_shed_url: toolshed.g2.bx.psu.edu  
-  tool_panel_section_label: SAM/BAM
-- name: hisat2
-  owner: kjetil
-  revisions:
-  - 1677e2ef8009
-  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
-  tool_panel_section_label: Mapping
+tools:
+  - name: bismark
+    owner: bgruening
+    revisions:
+    - ff6ee551b153
+    tool_shed_url: toolshed.g2.bx.psu.edu
+    tool_panel_section_label: Mapping
+  - name: bowtie2
+    owner: devteam
+    revisions:
+    - 749c918495f7
+    tool_shed_url: toolshed.g2.bx.psu.edu
+    tool_panel_section_label: Mapping
+  - name: bwa
+    owner: devteam
+    revisions:
+    - 01ac0a5fedc3
+    tool_shed_url: toolshed.g2.bx.psu.edu  
+    tool_panel_section_label: Mapping
+  - name: samtools_phase
+    owner: devteam
+    revisions:
+    - b5c3b1856370
+    tool_shed_url: toolshed.g2.bx.psu.edu  
+  - name: sam_to_bam
+    owner: devteam
+    revisions:
+    - cf1ffd88f895
+    tool_shed_url: toolshed.g2.bx.psu.edu  
+    tool_panel_section_label: SAM/BAM
+  - name: hisat2
+    owner: kjetil
+    revisions:
+    - 1677e2ef8009
+    tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+    tool_panel_section_label: Mapping
