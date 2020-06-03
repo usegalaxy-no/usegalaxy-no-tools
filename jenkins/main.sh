@@ -114,7 +114,7 @@ jenkins_tool_installation() {
 
   activate_virtualenv
   echo "Saving output to $LOG_FILE"
-  bash -x jenkins/install_tools.sh 2>&1 | tee $LOG_FILE
+  bash jenkins/install_tools.sh 2>&1 | tee $LOG_FILE
 }
 
 # Always run locally, if running on Jenkins run only when switched on (1)
