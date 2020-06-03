@@ -7,7 +7,7 @@ FILE_ARGS=("${ARGS[@]:1}")
 LOG_DIR=~/galaxy_tool_automation
 BASH_V="$(echo ${BASH_VERSION} | head -c 1)" # this will be "4" if the bash version is 4.x, empty otherwise
 
-FORCE=1
+FORCE=0
 GIT_COMMIT_MESSAGE=$(git log --format=%B -n 1 $GIT_COMMIT | cat)
 [[ $GIT_COMMIT_MESSAGE == *"[FORCE]"* ]] && FORCE=1;
 
@@ -114,7 +114,7 @@ jenkins_tool_installation() {
 
   activate_virtualenv
   echo "Saving output to $LOG_FILE"
-  bash jenkins/install_tools.sh 2>&1 | tee $LOG_FILE
+  bash -x jenkins/install_tools.sh 2>&1 | tee $LOG_FILE
 }
 
 # Always run locally, if running on Jenkins run only when switched on (1)
