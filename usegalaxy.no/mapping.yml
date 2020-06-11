@@ -13,10 +13,3 @@ tools:
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
-- name: minimap2
-  owner: iuc
-  revisions:
-  - 53c0b7a1a0c3
-  tool_panel_section_id: mapping
-  tool_panel_section_label: Mapping
-  tool_shed_url: toolshed.g2.bx.psu.edu

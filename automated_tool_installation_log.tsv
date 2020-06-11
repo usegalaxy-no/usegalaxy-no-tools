@@ -12,3 +12,8 @@ Install	16	11/06/20 18:47:21	bwa	True	Tests failed	devteam	3fe632431b68	latest	S
 Install	16	11/06/20 18:47:30	hisat2	True	Errored	kjetil	1677e2ef8009	latest	Staging Installation			Mapping	galaxy-ntnu.bioinfo.no/toolshed_nels	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	16	11/06/20 18:50:30	sam_to_bam	True	Tests failed	devteam	cf1ffd88f895	latest	Staging Testing	0/3		SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	16	11/06/20 18:50:35	samtools_phase	True	Script error	devteam		latest	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	18	11/06/20 19:08:35	bismark	True	Errored	bgruening	ff6ee551b153	latest	Production Installation			Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	18	11/06/20 19:10:23	bowtie2	True	Installed	devteam	749c918495f7	latest				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	18	11/06/20 19:11:45	bwa	True	Installed	devteam	3fe632431b68	latest				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	18	11/06/20 19:11:53	hisat2	True	Errored	kjetil	1677e2ef8009	latest	Staging Installation			Mapping	galaxy-ntnu.bioinfo.no/toolshed_nels	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	18	11/06/20 19:12:38	sam_to_bam	True	Installed	devteam	cf1ffd88f895	latest				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
