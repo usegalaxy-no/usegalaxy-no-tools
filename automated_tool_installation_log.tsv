@@ -6,3 +6,9 @@ Install	7	12/05/20 20:01:32	kallisto_pseudo	True	Already Installed	iuc	5ae5c312d
 Install	7	12/05/20 20:02:17	kallisto_quant	True	Already Installed	iuc	60f888039fb2	latest	Production Installation			RNA-Seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	7	12/05/20 20:03:11	salmon	True	Already Installed	bgruening	e3d32471da11	latest	Production Installation			RNA-Seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	7	12/05/20 20:03:21	salmonquantmerge	False	Already Installed	bgruening	f6e3a10a88e5	latest	Production Installation			RNA-Seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	16	11/06/20 18:39:08	bismark	True	Tests failed	bgruening	ff6ee551b153	latest	Staging Testing	2/8		Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	16	11/06/20 18:43:23	bowtie2	True	Tests failed	devteam	749c918495f7	latest	Staging Testing	2/10		Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	16	11/06/20 18:47:21	bwa	True	Tests failed	devteam	3fe632431b68	latest	Staging Testing	0/9		Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	16	11/06/20 18:47:30	hisat2	True	Errored	kjetil	1677e2ef8009	latest	Staging Installation			Mapping	galaxy-ntnu.bioinfo.no/toolshed_nels	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	16	11/06/20 18:50:30	sam_to_bam	True	Tests failed	devteam	cf1ffd88f895	latest	Staging Testing	0/3		SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	16	11/06/20 18:50:35	samtools_phase	True	Script error	devteam		latest	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
