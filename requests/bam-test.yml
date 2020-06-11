@@ -1,0 +1,25 @@
+tools:
+  - name: bismark
+    owner: bgruening
+    tool_shed_url: toolshed.g2.bx.psu.edu
+    tool_panel_section_label: Mapping
+  - name: bowtie2
+    owner: devteam
+    tool_shed_url: toolshed.g2.bx.psu.edu
+    tool_panel_section_label: Mapping
+  - name: bwa
+    owner: devteam
+    tool_shed_url: toolshed.g2.bx.psu.edu  
+    tool_panel_section_label: Mapping
+  - name: samtools_phase
+    owner: devteam
+    tool_shed_url: toolshed.g2.bx.psu.edu  
+  - name: sam_to_bam
+    owner: devteam
+    tool_shed_url: toolshed.g2.bx.psu.edu  
+    tool_panel_section_label: SAM/BAM
+  - name: hisat2
+    owner: kjetil
+    tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+    tool_panel_section_label: Mapping
+ 
