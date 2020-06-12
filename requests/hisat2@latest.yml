@@ -1,5 +1,0 @@
-tools:
-- name: hisat2
-  owner: kjetil
-  tool_panel_section_label: Mapping
-  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
