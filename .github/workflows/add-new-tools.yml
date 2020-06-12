@@ -35,7 +35,7 @@ jobs:
         . ".venv3/bin/activate"
         if [ -f jenkins/requirements.yml ]; then pip install -r jenkins/requirements.yml; fi
         cp jenkins/requirements.yml .venv3/cached_requirements.yml
-      if: steps.venv3.outputs.cache-hit != 'true'
+      if: '(test ! -f .venv3/cached_requirements.yml && echo Cache does not exist) || echo Cache does exist, skipping step'
     - name: Install tools
       shell: bash
       env:
