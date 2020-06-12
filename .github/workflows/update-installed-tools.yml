@@ -27,7 +27,12 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        virtualenv -p python3 .venv3
+        . ".venv3/bin/activate"
         if [ -f jenkins/requirements.yml ]; then pip install -r jenkins/requirements.yml; fi
+        cp jenkins/requirements.yml .venv3/cached_requirements.yml
+      if: steps.venv3.outputs.cache-hit != 'true'
+
     - name: Install tools
       shell: bash
       env:
