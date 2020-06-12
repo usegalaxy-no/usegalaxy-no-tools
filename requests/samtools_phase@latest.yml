@@ -1,0 +1,4 @@
+tools:
+- name: samtools_phase
+  owner: devteam
+  tool_shed_url: toolshed.g2.bx.psu.edu
