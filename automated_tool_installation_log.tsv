@@ -37,3 +37,6 @@ Install	29	01/09/20 20:37:04	bax2bam	True	Tests failed	iuc	ee356d7a5518	ee356d7a
 Install	29	01/09/20 20:50:22	repeat_masker	True	Installed	bgruening	438f65cb1d14	438f65cb1d14		3/3	3/3	Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	29	01/09/20 21:00:45	sra_tools	True	Tests failed	iuc	653e89d73fc4	653e89d73fc4	Production Testing	15/15	13/15	Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	29	01/09/20 21:04:53	sra_tools	True	Tests failed	iuc	f5ea3ce9b9b0	f5ea3ce9b9b0	Staging Testing	3/14		Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	31	01/09/20 21:21:20	bax2bam	True	Installed	iuc	ee356d7a5518	ee356d7a5518				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	31	01/09/20 21:24:02	sra_tools	True	Installed	iuc	653e89d73fc4	653e89d73fc4				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	31	01/09/20 21:27:05	sra_tools	False	Installed	iuc	f5ea3ce9b9b0	f5ea3ce9b9b0				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
