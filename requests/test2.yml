@@ -1,0 +1,13 @@
+tools:
+  - name: pilon
+    owner: iuc
+    revisions:
+      - 11e5408fd238
+    tool_panel_section_label: Assembly
+    tool_shed_url: toolshed.g2.bx.psu.edu
+  - name: wtdbg
+    owner: bgruening
+    revisions:
+      - 6a060928f7ff
+    tool_panel_section_label: Assembly
+    tool_shed_url: toolshed.g2.bx.psu.edu
