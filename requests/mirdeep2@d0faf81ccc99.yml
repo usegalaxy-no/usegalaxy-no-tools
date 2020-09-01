@@ -1,0 +1,7 @@
+tools:
+- name: mirdeep2
+  owner: rnateam
+  revisions:
+  - d0faf81ccc99
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
