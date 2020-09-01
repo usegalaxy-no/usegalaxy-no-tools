@@ -44,3 +44,6 @@ Install	33	01/09/20 21:46:49	pilon	True	Installed	iuc	11e5408fd238	11e5408fd238	
 Install	33	01/09/20 21:53:28	wtdbg	True	Installed	bgruening	6a060928f7ff	6a060928f7ff		3/3	3/3	Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	35	01/09/20 22:37:07	freebayes	True	Tests failed	devteam	156b60c1530f	156b60c1530f	Staging Testing	0/5		VCF/BCF	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	35	01/09/20 22:41:06	vcfdistance	True	Tests failed	iuc	c506b8275b1a	c506b8275b1a	Staging Testing	0/1		VCF/BCF	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	37	02/09/20 07:23:19	macs	True	Tests failed	devteam	e5f3bfba6812	e5f3bfba6812	Staging Testing	0/2		Peak Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	37	02/09/20 07:35:09	mirdeep2	True	Tests failed	rnateam	d0faf81ccc99	d0faf81ccc99	Staging Testing	0/1		RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	37	02/09/20 07:40:53	rsem	True	Tests failed	jjohnson	14267d364365	14267d364365	Staging Testing	0/3		RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
