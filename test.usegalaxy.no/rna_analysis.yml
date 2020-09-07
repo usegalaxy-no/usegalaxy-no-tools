@@ -1,0 +1,8 @@
+tools:
+- name: mirdeep2_quantifier
+  owner: rnateam
+  revisions:
+  - 40dc77f3730c
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
