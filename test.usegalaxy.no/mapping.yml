@@ -1,4 +1,11 @@
 tools:
+- name: bowtie2
+  owner: devteam
+  revisions:
+  - 749c918495f7
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bwa
   owner: devteam
   revisions:
