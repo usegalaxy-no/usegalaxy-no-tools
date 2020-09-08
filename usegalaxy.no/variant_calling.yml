@@ -1,0 +1,8 @@
+tools:
+- name: bcftools_merge
+  owner: iuc
+  revisions:
+  - 9473302f4588
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -47,3 +47,6 @@ Install	35	01/09/20 22:41:06	vcfdistance	True	Tests failed	iuc	c506b8275b1a	c506
 Install	37	02/09/20 07:23:19	macs	True	Tests failed	devteam	e5f3bfba6812	e5f3bfba6812	Staging Testing	0/2		Peak Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	37	02/09/20 07:35:09	mirdeep2	True	Tests failed	rnateam	d0faf81ccc99	d0faf81ccc99	Staging Testing	0/1		RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	37	02/09/20 07:40:53	rsem	True	Tests failed	jjohnson	14267d364365	14267d364365	Staging Testing	0/3		RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	40	07/09/20 22:49:22	bcftools_merge	False	Already Installed	iuc	9473302f4588	9473302f4588	Production Installation			Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	40	07/09/20 23:04:48	snippy	True	Tests failed	iuc	5bbf9eada9c2	5bbf9eada9c2	Staging Testing	3/9		Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	40	07/09/20 23:04:59	vg_convert	True	Errored	iuc	e68d9dfa62a2	e68d9dfa62a2	Staging Installation			Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
