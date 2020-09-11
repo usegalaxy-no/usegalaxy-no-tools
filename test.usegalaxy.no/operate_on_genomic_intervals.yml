@@ -1,0 +1,57 @@
+tools:
+- name: annotation_profiler
+  owner: devteam
+  revisions:
+  - 3b33da018e74
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: basecoverage
+  owner: devteam
+  revisions:
+  - 2cedec3759e4
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: cluster
+  owner: devteam
+  revisions:
+  - 05696474ee89
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: complement
+  owner: devteam
+  revisions:
+  - 38c8bb402872
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: concat
+  owner: devteam
+  revisions:
+  - 35a89f8cc96e
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: filter_bed_on_splice_junctions
+  owner: jjohnson
+  revisions:
+  - 915e5c5e02e6
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: join
+  owner: devteam
+  revisions:
+  - a10f49d9218a
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: translate_bed_sequences
+  owner: jjohnson
+  revisions:
+  - d328db400280
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu

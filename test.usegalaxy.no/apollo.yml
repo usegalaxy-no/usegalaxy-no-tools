@@ -1,0 +1,64 @@
+tools:
+- name: apollo_create_account
+  owner: gga
+  revisions:
+  - 8fadbd5cadff
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_create_or_update
+  owner: gga
+  revisions:
+  - 4abaab60f9e1
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_delete_features
+  owner: gga
+  revisions:
+  - 5b371b11b1f5
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_delete_organism
+  owner: gga
+  revisions:
+  - 4bf326ca95cf
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_export
+  owner: gga
+  revisions:
+  - 0d4234488bd0
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_feat_from_gff3
+  owner: gga
+  revisions:
+  - 9f9aa5a88972
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_fetch_jbrowse
+  owner: gga
+  revisions:
+  - b7c44671f012
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_iframe
+  owner: gga
+  revisions:
+  - f4e3f9480307
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: apollo_list_organism
+  owner: gga
+  revisions:
+  - a31493bc7952
+  tool_panel_section_id: apollo
+  tool_panel_section_label: Apollo
+  tool_shed_url: toolshed.g2.bx.psu.edu

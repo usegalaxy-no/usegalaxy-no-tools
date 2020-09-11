@@ -1,0 +1,15 @@
+tools:
+- name: meme_chip
+  owner: iuc
+  revisions:
+  - 091a9d638d78
+  tool_panel_section_id: motif_tools
+  tool_panel_section_label: Motif Tools
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: weblogo3
+  owner: devteam
+  revisions:
+  - dc25a5169a91
+  tool_panel_section_id: motif_tools
+  tool_panel_section_label: Motif Tools
+  tool_shed_url: toolshed.g2.bx.psu.edu

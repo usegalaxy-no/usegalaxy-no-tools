@@ -1,0 +1,164 @@
+tools:
+- name: blast_parser
+  owner: earlhaminst
+  revisions:
+  - 363f3480622d
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ete
+  owner: earlhaminst
+  revisions:
+  - 16e925bf567e
+  - 276e3ee68c37
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gafa
+  owner: earlhaminst
+  revisions:
+  - b9f1bcf5ee59
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hcluster_sg_parser
+  owner: earlhaminst
+  revisions:
+  - 02d73e6ca869
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hcluster_sg
+  owner: earlhaminst
+  revisions:
+  - 1d2de27d7a9c
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_absrel
+  owner: iuc
+  revisions:
+  - 81e66674859e
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_bgm
+  owner: iuc
+  revisions:
+  - a54340ea0866
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_busted
+  owner: iuc
+  revisions:
+  - cff70490dbec
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_fade
+  owner: iuc
+  revisions:
+  - a1a03eb66960
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_fel
+  owner: iuc
+  revisions:
+  - d968c5dddfeb
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_fubar
+  owner: iuc
+  revisions:
+  - 600647840e87
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_gard
+  owner: iuc
+  revisions:
+  - 83f146502c0f
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_meme
+  owner: iuc
+  revisions:
+  - a114682b2788
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_prime
+  owner: iuc
+  revisions:
+  - dc774be95f6c
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_relax
+  owner: iuc
+  revisions:
+  - 4e9485eb5e9d
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_slac
+  owner: iuc
+  revisions:
+  - 24742f335426
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hyphy_sm19
+  owner: iuc
+  revisions:
+  - 40e9160dbbbb
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: phyml
+  owner: iuc
+  revisions:
+  - 2bf47d57ebb5
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: raxml
+  owner: iuc
+  revisions:
+  - 73a469f7dc96
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sarscov2formatter
+  owner: iuc
+  revisions:
+  - 1c664ff29354
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sarscov2summary
+  owner: iuc
+  revisions:
+  - 4ad8b610ea41
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: t_coffee
+  owner: earlhaminst
+  revisions:
+  - df6527887a18
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: treebest_best
+  owner: earlhaminst
+  revisions:
+  - b78b529f66db
+  - 4f9e5110914b
+  tool_panel_section_id: phylogenetics
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu
