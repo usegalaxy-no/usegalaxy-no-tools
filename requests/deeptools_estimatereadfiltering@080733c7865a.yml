@@ -1,0 +1,7 @@
+tools:
+- name: deeptools_estimatereadfiltering
+  owner: bgruening
+  revisions:
+  - 080733c7865a
+  tool_panel_section_label: deepTools
+  tool_shed_url: toolshed.g2.bx.psu.edu

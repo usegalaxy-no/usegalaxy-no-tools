@@ -1,0 +1,7 @@
+tools:
+- name: extract_genomic_dna
+  owner: iuc
+  revisions:
+  - e1f5bdd8279c
+  tool_panel_section_label: Fetch Sequences
+  tool_shed_url: toolshed.g2.bx.psu.edu

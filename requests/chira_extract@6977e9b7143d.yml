@@ -1,0 +1,7 @@
+tools:
+- name: chira_extract
+  owner: iuc
+  revisions:
+  - 6977e9b7143d
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
