@@ -1,0 +1,7 @@
+tools:
+- name: slamdunk
+  owner: iuc
+  revisions:
+  - 8b62f89924a7
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: openms_erpairfinder
+  owner: galaxyp
+  revisions:
+  - 3f5cc0e64458
+  tool_panel_section_label: Proteomics
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: nanopolish_methylation
+  owner: bgruening
+  revisions:
+  - 12efe2f03697
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu

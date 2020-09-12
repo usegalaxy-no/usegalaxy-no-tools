@@ -1,0 +1,7 @@
+tools:
+- name: jamm
+  owner: messersc
+  revisions:
+  - 243f75d0ed6e
+  tool_panel_section_label: Peak Calling
+  tool_shed_url: testtoolshed.g2.bx.psu.edu
