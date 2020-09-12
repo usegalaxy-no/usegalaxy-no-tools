@@ -1,7 +1,0 @@
-tools:
-- name: megablast_wrapper
-  owner: devteam
-  revisions:
-  - fb2e0e1dac89
-  tool_panel_section_label: Mapping
-  tool_shed_url: toolshed.g2.bx.psu.edu

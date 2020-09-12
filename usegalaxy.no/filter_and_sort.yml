@@ -20,6 +20,13 @@ tools:
   tool_panel_section_id: filter
   tool_panel_section_label: Filter and Sort
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sample_seqs
+  owner: peterjc
+  revisions:
+  - 7c40a1fbc82e
+  tool_panel_section_id: filter
+  tool_panel_section_label: Filter and Sort
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: seq_filter_by_id
   owner: peterjc
   revisions:

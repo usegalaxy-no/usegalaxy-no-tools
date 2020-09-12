@@ -1,7 +1,0 @@
-tools:
-- name: openms_msgfplusadapter
-  owner: galaxyp
-  revisions:
-  - 35c2213e2c0d
-  tool_panel_section_label: Proteomics
-  tool_shed_url: toolshed.g2.bx.psu.edu

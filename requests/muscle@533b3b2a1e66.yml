@@ -1,7 +1,0 @@
-tools:
-- name: muscle
-  owner: crs4
-  revisions:
-  - 533b3b2a1e66
-  tool_panel_section_label: Multiple Alignments
-  tool_shed_url: toolshed.g2.bx.psu.edu

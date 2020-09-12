@@ -1,7 +1,0 @@
-tools:
-- name: nanopolish_polya
-  owner: bgruening
-  revisions:
-  - be717b65851f
-  tool_panel_section_label: Nanopore
-  tool_shed_url: toolshed.g2.bx.psu.edu

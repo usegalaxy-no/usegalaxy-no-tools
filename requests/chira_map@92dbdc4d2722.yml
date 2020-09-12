@@ -1,7 +1,0 @@
-tools:
-- name: chira_map
-  owner: iuc
-  revisions:
-  - 92dbdc4d2722
-  tool_panel_section_label: RNA Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu

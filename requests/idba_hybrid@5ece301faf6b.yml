@@ -1,7 +1,0 @@
-tools:
-- name: idba_hybrid
-  owner: iuc
-  revisions:
-  - 5ece301faf6b
-  tool_panel_section_label: Assembly
-  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,7 +1,0 @@
-tools:
-- name: scpipe
-  owner: iuc
-  revisions:
-  - 7397e6badc11
-  tool_panel_section_label: RNA Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,7 +1,0 @@
-tools:
-- name: medaka_variant_pipeline
-  owner: iuc
-  revisions:
-  - ce2bf68a260d
-  tool_panel_section_label: Nanopore
-  tool_shed_url: toolshed.g2.bx.psu.edu

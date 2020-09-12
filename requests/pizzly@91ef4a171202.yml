@@ -1,7 +1,0 @@
-tools:
-- name: pizzly
-  owner: iuc
-  revisions:
-  - 91ef4a171202
-  tool_panel_section_label: RNA Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu

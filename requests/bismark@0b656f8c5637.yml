@@ -1,7 +1,0 @@
-tools:
-- name: bismark
-  owner: bgruening
-  revisions:
-  - 0b656f8c5637
-  tool_panel_section_label: Mapping
-  tool_shed_url: toolshed.g2.bx.psu.edu

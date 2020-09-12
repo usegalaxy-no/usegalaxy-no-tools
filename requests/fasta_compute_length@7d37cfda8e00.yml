@@ -1,7 +1,0 @@
-tools:
-- name: fasta_compute_length
-  owner: devteam
-  revisions:
-  - 7d37cfda8e00
-  tool_panel_section_label: FASTA/FASTQ
-  tool_shed_url: toolshed.g2.bx.psu.edu

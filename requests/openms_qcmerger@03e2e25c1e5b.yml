@@ -1,7 +1,0 @@
-tools:
-- name: openms_qcmerger
-  owner: galaxyp
-  revisions:
-  - 03e2e25c1e5b
-  tool_panel_section_label: Proteomics
-  tool_shed_url: toolshed.g2.bx.psu.edu

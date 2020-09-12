@@ -1,7 +1,0 @@
-tools:
-- name: nanopolish_variants
-  owner: bgruening
-  revisions:
-  - 63af3144371a
-  tool_panel_section_label: Nanopore
-  tool_shed_url: toolshed.g2.bx.psu.edu
