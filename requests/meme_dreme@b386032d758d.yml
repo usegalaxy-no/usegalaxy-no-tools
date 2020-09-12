@@ -1,0 +1,7 @@
+tools:
+- name: meme_dreme
+  owner: iuc
+  revisions:
+  - b386032d758d
+  tool_panel_section_label: Motif Tools
+  tool_shed_url: toolshed.g2.bx.psu.edu
