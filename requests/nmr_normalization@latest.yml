@@ -1,0 +1,5 @@
+tools:
+- name: nmr_normalization
+  owner: marie-tremblay-metatoul
+  tool_panel_section_label: Metabolomics
+  tool_shed_url: toolshed.g2.bx.psu.edu
