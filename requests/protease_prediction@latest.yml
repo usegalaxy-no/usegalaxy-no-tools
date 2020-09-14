@@ -1,5 +1,0 @@
-tools:
-- name: protease_prediction
-  owner: bgruening
-  tool_panel_section_label: Proteomics
-  tool_shed_url: testtoolshed.g2.bx.psu.edu
