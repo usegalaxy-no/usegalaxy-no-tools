@@ -227,7 +227,7 @@ tools:
 - name: samtools_view
   owner: iuc
   revisions:
-  - b01db2684fa5
+  - bf328cec6a42
   tool_panel_section_id: sam/bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu

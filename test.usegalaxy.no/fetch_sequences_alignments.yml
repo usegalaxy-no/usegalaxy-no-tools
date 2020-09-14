@@ -6,3 +6,10 @@ tools:
   tool_panel_section_id: fetch_sequences_/_alignments
   tool_panel_section_label: Fetch Sequences / Alignments
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: length_and_gc_content
+  owner: iuc
+  revisions:
+  - f088370d2a3c
+  tool_panel_section_id: fetch_sequences_/_alignments
+  tool_panel_section_label: Fetch Sequences / Alignments
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -13,6 +13,13 @@ tools:
   tool_panel_section_id: hgv
   tool_panel_section_label: Phenotype Association
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hgv_fundo
+  owner: devteam
+  revisions:
+  - ca3fcd18dc3e
+  tool_panel_section_id: hgv
+  tool_panel_section_label: Phenotype Association
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hgv_hilbertvis
   owner: devteam
   revisions:

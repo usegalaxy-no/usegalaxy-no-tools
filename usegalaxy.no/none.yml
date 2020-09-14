@@ -3,6 +3,7 @@ tools:
   owner: bgruening
   revisions:
   - ce62d0912b10
+  - 5a0d0bee4f8d
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
