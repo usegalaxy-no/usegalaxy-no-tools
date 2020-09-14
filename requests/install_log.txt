@@ -1,8 +1,8 @@
-Storing log file in: tmp/install/install_log.txt
-(1/1) Installing repository transtermhp from iuc to section "Annotation" at revision 012171ba9fce (TRT: 0:00:03.224718)
-	repository transtermhp installed successfully (in 0:00:11.449986) at revision 012171ba9fce
-Installed repositories (1): [('transtermhp', '012171ba9fce')]
+Storing log file in: tmp/update/install_log.txt
+(1/1) Installing repository xy_plot from devteam to section "Graph/Display Data" at revision ecb437f1d298 (TRT: 0:00:03.468306)
+	repository xy_plot installed successfully (in 0:00:13.665565) at revision ecb437f1d298
+Installed repositories (1): [('xy_plot', 'ecb437f1d298')]
 Skipped repositories (0): []
 Errored repositories (0): []
 All repositories have been installed.
-Total run time: 0:00:14.676903
+Total run time: 0:00:17.136161
