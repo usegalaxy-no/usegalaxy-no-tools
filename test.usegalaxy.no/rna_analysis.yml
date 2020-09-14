@@ -34,6 +34,34 @@ tools:
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: chira_extract
+  owner: iuc
+  revisions:
+  - 6977e9b7143d
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: chira_map
+  owner: iuc
+  revisions:
+  - 92dbdc4d2722
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: chira_merge
+  owner: iuc
+  revisions:
+  - bd57d16524fe
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: chira_quantify
+  owner: iuc
+  revisions:
+  - 7fb3fc24be0e
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: circexplorer
   owner: bgruening
   revisions:
@@ -377,6 +405,13 @@ tools:
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: pizzly
+  owner: iuc
+  revisions:
+  - 91ef4a171202
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: qualimap_counts
   owner: iuc
   revisions:
@@ -507,9 +542,9 @@ tools:
   owner: nilesh
   revisions:
   - 2e6190c29c54
-  - 1a052c827e88
   - 09846d5169fa
   - daae0a118c36
+  - 1a052c827e88
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -541,6 +576,13 @@ tools:
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: scpipe
+  owner: iuc
+  revisions:
+  - 7397e6badc11
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: segemehl
   owner: rnateam
   revisions:
@@ -559,6 +601,13 @@ tools:
   owner: iuc
   revisions:
   - 764f076e9d52
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: slamdunk
+  owner: iuc
+  revisions:
+  - 8b62f89924a7
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

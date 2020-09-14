@@ -6,6 +6,13 @@ tools:
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: artic_minion
+  owner: iuc
+  revisions:
+  - 376a706dda11
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: basil
   owner: iuc
   revisions:
@@ -97,6 +104,13 @@ tools:
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gatk4_mutect2
+  owner: iuc
+  revisions:
+  - 1cea23583655
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: lofreq_alnqual
   owner: iuc
   revisions:
@@ -167,6 +181,13 @@ tools:
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: snippy
+  owner: iuc
+  revisions:
+  - 5bbf9eada9c2
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: snp_dists
   owner: iuc
   revisions:
@@ -205,9 +226,9 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - 268d162b9c49
-  - 74aebe30fb52
   - e8adfc4c0a6b
+  - 74aebe30fb52
+  - 268d162b9c49
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -235,9 +256,9 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 2b3e65a4252f
-  - b04635ebfab0
   - 09d6806c609e
+  - b04635ebfab0
+  - 2b3e65a4252f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

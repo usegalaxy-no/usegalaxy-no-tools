@@ -20,6 +20,13 @@ tools:
   tool_panel_section_id: ncbi_blast
   tool_panel_section_label: NCBI Blast
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_blast_plus
+  owner: devteam
+  revisions:
+  - 5edc472ec434
+  tool_panel_section_id: ncbi_blast
+  tool_panel_section_label: NCBI Blast
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sample_seqs
   owner: peterjc
   revisions:

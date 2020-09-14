@@ -48,6 +48,27 @@ tools:
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: idba_hybrid
+  owner: iuc
+  revisions:
+  - 5ece301faf6b
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: idba_tran
+  owner: iuc
+  revisions:
+  - 33f00ff1cb22
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: idba_ud
+  owner: iuc
+  revisions:
+  - 694b0f55b744
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: metaspades
   owner: nml
   revisions:
@@ -80,6 +101,13 @@ tools:
   owner: peterjc
   revisions:
   - 63ebe9726219
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: pilon
+  owner: iuc
+  revisions:
+  - 11e5408fd238
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

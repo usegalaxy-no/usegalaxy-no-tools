@@ -72,8 +72,8 @@ tools:
 - name: dgidb_annotator
   owner: devteam
   revisions:
-  - c5bb987015c5
   - 792f3cb0eff4
+  - c5bb987015c5
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -81,6 +81,13 @@ tools:
   owner: bgruening
   revisions:
   - 42d20ff5da1b
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: exonerate
+  owner: iuc
+  revisions:
+  - a03dead1bede
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -217,6 +224,20 @@ tools:
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: jcvi_gff_stats
+  owner: iuc
+  revisions:
+  - 8cffbd184762
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: kobas
+  owner: iuc
+  revisions:
+  - 20f1b45dea63
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: lcmsmatching
   owner: prog
   revisions:
@@ -332,8 +353,8 @@ tools:
 - name: segmentation_fold
   owner: yhoogstrate
   revisions:
-  - 09e921a25c68
   - 4d16cf9414cf
+  - 09e921a25c68
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -425,6 +446,13 @@ tools:
   owner: iuc
   revisions:
   - 4aaabd55eab8
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: transtermhp
+  owner: iuc
+  revisions:
+  - 012171ba9fce
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

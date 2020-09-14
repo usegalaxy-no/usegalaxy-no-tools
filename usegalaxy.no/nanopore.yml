@@ -1,4 +1,32 @@
 tools:
+- name: medaka_consensus_pipeline
+  owner: iuc
+  revisions:
+  - 35666d44fe7a
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: medaka_consensus
+  owner: iuc
+  revisions:
+  - 84dcccebad3d
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: medaka_variant_pipeline
+  owner: iuc
+  revisions:
+  - 148f32860445
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: medaka_variant
+  owner: iuc
+  revisions:
+  - e86fcef8ed91
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: nanocompore_db
   owner: iuc
   revisions:
@@ -17,6 +45,34 @@ tools:
   owner: iuc
   revisions:
   - edbb6c5028f5
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: nanopolish_eventalign
+  owner: bgruening
+  revisions:
+  - 8fdb079ddaf0
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: nanopolish_methylation
+  owner: bgruening
+  revisions:
+  - 12efe2f03697
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: nanopolish_polya
+  owner: bgruening
+  revisions:
+  - be717b65851f
+  tool_panel_section_id: nanopore
+  tool_panel_section_label: Nanopore
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: nanopolish_variants
+  owner: bgruening
+  revisions:
+  - 63af3144371a
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu

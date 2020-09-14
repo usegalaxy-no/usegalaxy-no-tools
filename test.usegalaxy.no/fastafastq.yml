@@ -69,6 +69,13 @@ tools:
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: fasta_compute_length
+  owner: devteam
+  revisions:
+  - 7d37cfda8e00
+  tool_panel_section_id: fasta/fastq
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: fasta_concatenate_by_species
   owner: devteam
   revisions:
