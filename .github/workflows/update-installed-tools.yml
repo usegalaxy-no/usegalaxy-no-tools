@@ -1,15 +1,16 @@
 name: Update installed tools
 
 on:
- schedule:
+  repository_dispatch:
+    types: update-tools
+  schedule:
     - cron:  '14 4 * * 6'
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
-    steps:
+  steps:
     - uses: actions/checkout@v2
       with:
         ssh-key: ${{ secrets.GHA_DEPLOY_KEY }}
@@ -27,13 +28,14 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip install virtualenv
         virtualenv -p python3 .venv3
         . ".venv3/bin/activate"
         if [ -f jenkins/requirements.yml ]; then pip install -r jenkins/requirements.yml; fi
         cp jenkins/requirements.yml .venv3/cached_requirements.yml
+      #if: '(test ! -f .venv3/cached_requirements.yml && echo Cache does not exist) || echo Cache does exist, skipping step'
       #if: steps.venv3.outputs.cache-hit != 'true'
-
-    - name: Install tools
+    - name: Update tools
       shell: bash
       env:
         PRODUCTION_API_KEY: ${{ secrets.PRODUCTION_API_KEY }}
