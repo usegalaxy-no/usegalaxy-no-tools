@@ -2565,3 +2565,16 @@ Install	48	14/09/20 22:57:17	openms_openpepxl	True	Script error	galaxyp		latest	
 Install	48	14/09/20 22:57:27	openms_percolatoradapter	True	Script error	galaxyp		latest	Staging Installation			Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	48	14/09/20 22:57:37	openms_xfdr	True	Script error	galaxyp		latest	Staging Installation			Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	48	14/09/20 22:57:58	protease_prediction	False	Errored	bgruening	8e8c6df5cc64	latest	Staging Installation			Proteomics	testtoolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Update	21	23/09/20 00:56:59	codeml	False	Installed	iuc	b2b8e75a962d	b2b8e75a962d				Evolution	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 00:57:46	hyphy_absrel	False	Installed	iuc	4cc4dbca2f02	4cc4dbca2f02				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 00:58:30	hyphy_bgm	False	Installed	iuc	91006eb8b84e	91006eb8b84e				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 00:59:06	hyphy_busted	False	Installed	iuc	98ee8ba908d6	98ee8ba908d6				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 00:59:43	hyphy_fade	False	Installed	iuc	a4398cfa8792	a4398cfa8792				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:00:17	hyphy_fel	False	Installed	iuc	af7490b6329b	af7490b6329b				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:00:52	hyphy_fubar	False	Installed	iuc	47145f568cd6	47145f568cd6				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:01:28	hyphy_gard	False	Installed	iuc	88c4aa435ded	88c4aa435ded				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:02:03	hyphy_meme	False	Installed	iuc	546f2f99b820	546f2f99b820				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:02:38	hyphy_prime	False	Installed	iuc	acd9dfe3dec0	acd9dfe3dec0				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:03:13	hyphy_relax	False	Installed	iuc	6a6300b42803	6a6300b42803				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:03:49	hyphy_slac	False	Installed	iuc	d6f4ff2aed07	d6f4ff2aed07				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	21	23/09/20 01:04:29	hyphy_sm19	False	Installed	iuc	23b9bd244670	23b9bd244670				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

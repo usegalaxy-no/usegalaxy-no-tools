@@ -353,8 +353,8 @@ tools:
 - name: segmentation_fold
   owner: yhoogstrate
   revisions:
-  - 09e921a25c68
   - 4d16cf9414cf
+  - 09e921a25c68
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -368,7 +368,7 @@ tools:
 - name: sistr_cmd
   owner: nml
   revisions:
-  - 5c8ff92e38a9
+  - 17fcac7ddf54
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -396,7 +396,7 @@ tools:
 - name: spaln
   owner: iuc
   revisions:
-  - 95ea8d97abb4
+  - 37b5e1f0b544
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

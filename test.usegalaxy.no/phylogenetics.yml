@@ -9,8 +9,8 @@ tools:
 - name: ete
   owner: earlhaminst
   revisions:
-  - 16e925bf567e
   - 276e3ee68c37
+  - 16e925bf567e
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -38,7 +38,7 @@ tools:
 - name: hyphy_absrel
   owner: iuc
   revisions:
-  - 81e66674859e
+  - 4cc4dbca2f02
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu

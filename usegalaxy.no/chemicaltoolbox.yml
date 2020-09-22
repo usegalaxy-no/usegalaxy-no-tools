@@ -121,7 +121,7 @@ tools:
 - name: chemfp
   owner: bgruening
   revisions:
-  - 73de2fe4bf92
+  - 92c7cdc243e8
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -135,7 +135,7 @@ tools:
 - name: confab
   owner: bgruening
   revisions:
-  - 119b462f0f69
+  - 461f64330945
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -387,8 +387,8 @@ tools:
 - name: md_converter
   owner: chemteam
   revisions:
-  - d76bea4c85f3
   - 79e8ab8f1e81
+  - d76bea4c85f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -605,7 +605,7 @@ tools:
 - name: openmg
   owner: bgruening
   revisions:
-  - 8d2b075966d6
+  - 473a07404e83
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -703,7 +703,7 @@ tools:
 - name: simsearch
   owner: bgruening
   revisions:
-  - 0892f7ced10c
+  - 9f1a8df0b437
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

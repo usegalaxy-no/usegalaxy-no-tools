@@ -170,7 +170,7 @@ tools:
 - name: describe_samples
   owner: iuc
   revisions:
-  - 0693ccd171c4
+  - 8bfbdb039d4e
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -549,9 +549,9 @@ tools:
   owner: nilesh
   revisions:
   - 2e6190c29c54
-  - 1a052c827e88
-  - daae0a118c36
   - 09846d5169fa
+  - daae0a118c36
+  - 1a052c827e88
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -572,14 +572,14 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
-  - e3d32471da11
+  - b265be7af3db
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: salmonquantmerge
   owner: bgruening
   revisions:
-  - f6e3a10a88e5
+  - 85b3dc9b6830
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -663,7 +663,7 @@ tools:
 - name: tetoolkit_tetranscripts
   owner: iuc
   revisions:
-  - 2dfbcb88d16a
+  - bf4ee2810759
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -698,7 +698,7 @@ tools:
 - name: trinity_analyze_diff_expr
   owner: iuc
   revisions:
-  - dc0f01791c9b
+  - 56ac80587187
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -712,7 +712,7 @@ tools:
 - name: trinity_define_clusters_by_cutting_tree
   owner: iuc
   revisions:
-  - 6fa08f46db8c
+  - 55292a66e7c1
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -726,7 +726,7 @@ tools:
 - name: trinity_gene_to_trans_map
   owner: iuc
   revisions:
-  - 37a1129c89d2
+  - 297a1c03c702
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -740,7 +740,7 @@ tools:
 - name: trinity_samples_qccheck
   owner: iuc
   revisions:
-  - 9871104ea630
+  - 7377140e39f8
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -44,14 +44,14 @@ tools:
 - name: bctools_merge_pcr_duplicates
   owner: iuc
   revisions:
-  - 2cbc4dd55cd8
+  - 067139d6fc88
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bctools_remove_spurious_events
   owner: iuc
   revisions:
-  - 3175047fb607
+  - 5c72eb992651
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -443,7 +443,7 @@ tools:
 - name: trim_galore
   owner: bgruening
   revisions:
-  - 949f01671246
+  - 084bbd8ba7b8
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -464,7 +464,7 @@ tools:
 - name: umi_tools_dedup
   owner: iuc
   revisions:
-  - e9256e2e22e0
+  - c6567483aa1e
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
