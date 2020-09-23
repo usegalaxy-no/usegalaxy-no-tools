@@ -2578,3 +2578,22 @@ Update	21	23/09/20 01:02:38	hyphy_prime	False	Installed	iuc	acd9dfe3dec0	acd9dfe
 Update	21	23/09/20 01:03:13	hyphy_relax	False	Installed	iuc	6a6300b42803	6a6300b42803				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	21	23/09/20 01:03:49	hyphy_slac	False	Installed	iuc	d6f4ff2aed07	d6f4ff2aed07				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	21	23/09/20 01:04:29	hyphy_sm19	False	Installed	iuc	23b9bd244670	23b9bd244670				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Install	50	23/09/20 23:31:03	cuffcompare	False	Errored	devteam	e66b9b5b8580	e66b9b5b8580	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:31:22	cuffdiff	False	Errored	devteam	d3ae7d9c2202	d3ae7d9c2202	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:31:39	cufflinks	False	Errored	devteam	e04dbae2abe0	e04dbae2abe0	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:31:57	cuffmerge	False	Errored	devteam	cf747d1bd79a	cf747d1bd79a	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:32:16	cuffnorm	False	Errored	devteam	f5b2ee725d34	f5b2ee725d34	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:32:35	describe_samples	False	Errored	iuc	8bfbdb039d4e	8bfbdb039d4e	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:32:54	edge_pro	True	Errored	crs4	e6e6f5f9b9c4	e6e6f5f9b9c4	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:33:12	edger	True	Errored	fcaramia	6324eefd9e91	6324eefd9e91	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:33:30	fasta_extract	True	Errored	nml	21888a4371d1	21888a4371d1	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:33:49	fastq_screen	True	Errored	iuc	81a0c1c27ec8	81a0c1c27ec8	Staging Installation				testtoolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:34:07	fastq_sync	True	Errored	jjohnson	b0ab279b5add	b0ab279b5add	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:34:25	mummer_toolsuite	True	Errored	abossers	6753195df9e0	6753195df9e0	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:34:43	qiime2_suite	True	Errored	florianbegusch	21c7954105a9	21c7954105a9	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:35:01	samtools_bam_to_cram	True	Errored	iuc	3d07b8a6dd8c	3d07b8a6dd8c	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:35:19	sequence_format_converter	True	Errored	artbio	f1d59113125a	f1d59113125a	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:35:37	tabix	True	Errored	nilesh	62ce37b4c6e1	62ce37b4c6e1	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:35:57	trinity_run_de_analysis	False	Errored	iuc	04936df18de3	04936df18de3	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:36:17	vcftools_merge	False	Errored	devteam	71e19ddf52f5	71e19ddf52f5	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Install	50	23/09/20 23:36:36	voom_rnaseq	True	Errored	shians	b2fe55fd0651	b2fe55fd0651	Staging Installation				toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt

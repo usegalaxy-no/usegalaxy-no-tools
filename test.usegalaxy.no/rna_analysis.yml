@@ -163,7 +163,7 @@ tools:
 - name: describe_samples
   owner: iuc
   revisions:
-  - 8bfbdb039d4e
+  - 0693ccd171c4
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -720,13 +720,6 @@ tools:
   owner: iuc
   revisions:
   - 297a1c03c702
-  tool_panel_section_id: rna_analysis
-  tool_panel_section_label: RNA Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu
-- name: trinity_run_de_analysis
-  owner: iuc
-  revisions:
-  - 04936df18de3
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
