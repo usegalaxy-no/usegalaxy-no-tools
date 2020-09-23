@@ -1,0 +1,7 @@
+tools:
+- name: tabix
+  owner: nilesh
+  revisions:
+  - 62ce37b4c6e1
+  tool_panel_selection_label: Convert Formats
+  tool_shed_url: toolshed.g2.bx.psu.edu

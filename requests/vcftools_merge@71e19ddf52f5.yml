@@ -1,0 +1,7 @@
+tools:
+- name: vcftools_merge
+  owner: devteam
+  revisions:
+  - 71e19ddf52f5
+  tool_panel_selection_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu

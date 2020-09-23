@@ -1,0 +1,7 @@
+tools:
+- name: fastq_screen
+  owner: iuc
+  revisions:
+  - 81a0c1c27ec8
+  tool_panel_selection_label: FASTA/FASTQ
+  tool_shed_url: testtoolshed.g2.bx.psu.edu

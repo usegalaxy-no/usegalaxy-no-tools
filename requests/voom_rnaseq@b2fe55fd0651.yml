@@ -1,0 +1,7 @@
+tools:
+- name: voom_rnaseq
+  owner: shians
+  revisions:
+  - b2fe55fd0651
+  tool_panel_selection_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: mummer_toolsuite
+  owner: abossers
+  revisions:
+  - 6753195df9e0
+  tool_panel_selection_label: Multiple Alignments
+  tool_shed_url: toolshed.g2.bx.psu.edu

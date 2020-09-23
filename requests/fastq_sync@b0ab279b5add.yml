@@ -1,0 +1,7 @@
+tools:
+- name: fastq_sync
+  owner: jjohnson
+  revisions:
+  - b0ab279b5add
+  tool_panel_selection_label: FASTA/FASTQ
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: edge_pro
+  owner: crs4
+  revisions:
+  - e6e6f5f9b9c4
+  tool_panel_selection_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

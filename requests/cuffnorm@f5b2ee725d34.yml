@@ -1,0 +1,7 @@
+tools:
+- name: cuffnorm
+  owner: devteam
+  revisions:
+  - f5b2ee725d34
+  tool_panel_selection_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

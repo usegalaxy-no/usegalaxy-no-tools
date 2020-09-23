@@ -1,0 +1,7 @@
+tools:
+- name: trinity_run_de_analysis
+  owner: iuc
+  revisions:
+  - 04936df18de3
+  tool_panel_selection_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

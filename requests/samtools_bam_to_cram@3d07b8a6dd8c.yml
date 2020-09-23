@@ -1,0 +1,7 @@
+tools:
+- name: samtools_bam_to_cram
+  owner: iuc
+  revisions:
+  - 3d07b8a6dd8c
+  tool_panel_selection_label: SAM/BAM
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: cuffmerge
+  owner: devteam
+  revisions:
+  - cf747d1bd79a
+  tool_panel_selection_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

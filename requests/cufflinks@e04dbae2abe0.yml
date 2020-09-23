@@ -1,0 +1,7 @@
+tools:
+- name: cufflinks
+  owner: devteam
+  revisions:
+  - e04dbae2abe0
+  tool_panel_selection_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

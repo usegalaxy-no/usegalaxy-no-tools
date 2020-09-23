@@ -1,0 +1,7 @@
+tools:
+- name: qiime2_suite
+  owner: florianbegusch
+  revisions:
+  - 21c7954105a9
+  tool_panel_selection_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

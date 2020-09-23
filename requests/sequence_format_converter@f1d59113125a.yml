@@ -1,0 +1,7 @@
+tools:
+- name: sequence_format_converter
+  owner: artbio
+  revisions:
+  - f1d59113125a
+  tool_panel_selection_label: Convert format
+  tool_shed_url: toolshed.g2.bx.psu.edu
