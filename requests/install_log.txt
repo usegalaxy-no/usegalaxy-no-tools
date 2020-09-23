@@ -1,8 +1,0 @@
-Storing log file in: tmp/install/install_log.txt
-(1/1) Installing repository transtermhp from iuc to section "Annotation" at revision 012171ba9fce (TRT: 0:00:03.224718)
-	repository transtermhp installed successfully (in 0:00:11.449986) at revision 012171ba9fce
-Installed repositories (1): [('transtermhp', '012171ba9fce')]
-Skipped repositories (0): []
-Errored repositories (0): []
-All repositories have been installed.
-Total run time: 0:00:14.676903
