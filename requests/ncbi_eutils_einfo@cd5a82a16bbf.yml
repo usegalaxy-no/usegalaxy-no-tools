@@ -1,0 +1,7 @@
+tools:
+- name: ncbi_eutils_einfo
+  owner: iuc
+  revisions:
+  - cd5a82a16bbf
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: ncbi_eutils_elink
+  owner: iuc
+  revisions:
+  - 55b3067762f9
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu

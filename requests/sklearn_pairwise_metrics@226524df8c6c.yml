@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: sklearn_pairwise_metrics
+  owner: bgruening
+  revisions:
+  - 226524df8c6c
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

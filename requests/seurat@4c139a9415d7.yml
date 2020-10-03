@@ -1,0 +1,7 @@
+tools:
+- name: seurat
+  owner: iuc
+  revisions:
+  - 4c139a9415d7
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

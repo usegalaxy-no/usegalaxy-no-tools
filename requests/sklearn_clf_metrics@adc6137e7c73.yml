@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: sklearn_clf_metrics
+  owner: bgruening
+  revisions:
+  - adc6137e7c73
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

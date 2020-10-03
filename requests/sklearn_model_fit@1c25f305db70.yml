@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: sklearn_model_fit
+  owner: bgruening
+  revisions:
+  - 1c25f305db70
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: artic_minion
+  owner: iuc
+  revisions:
+  - 94020e19b46c
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu

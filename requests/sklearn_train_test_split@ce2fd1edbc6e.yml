@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: sklearn_train_test_split
+  owner: bgruening
+  revisions:
+  - ce2fd1edbc6e
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

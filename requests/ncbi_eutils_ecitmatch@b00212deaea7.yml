@@ -1,0 +1,7 @@
+tools:
+- name: ncbi_eutils_ecitmatch
+  owner: iuc
+  revisions:
+  - b00212deaea7
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
