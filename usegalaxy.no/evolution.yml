@@ -2,7 +2,7 @@ tools:
 - name: codeml
   owner: iuc
   revisions:
-  - 66228e9c29d9
+  - b2b8e75a962d
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
   tool_shed_url: toolshed.g2.bx.psu.edu
