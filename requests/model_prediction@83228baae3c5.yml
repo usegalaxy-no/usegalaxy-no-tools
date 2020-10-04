@@ -1,8 +1,0 @@
-# [SKIP_TESTS]
-tools:
-- name: model_prediction
-  owner: bgruening
-  revisions:
-  - 83228baae3c5
-  tool_panel_section_label: Statistics
-  tool_shed_url: toolshed.g2.bx.psu.edu

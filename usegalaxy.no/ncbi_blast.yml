@@ -1,0 +1,36 @@
+tools:
+- name: blast_rbh
+  owner: peterjc
+  revisions:
+  - d8d9a9069586
+  tool_panel_section_id: ncbi_blast
+  tool_panel_section_label: NCBI Blast
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: blastxml_to_top_descr
+  owner: peterjc
+  revisions:
+  - fe1ed74793c9
+  tool_panel_section_id: ncbi_blast
+  tool_panel_section_label: NCBI Blast
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: diamond
+  owner: bgruening
+  revisions:
+  - 62c9df8382c2
+  tool_panel_section_id: ncbi_blast
+  tool_panel_section_label: NCBI Blast
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_blast_plus
+  owner: devteam
+  revisions:
+  - 5edc472ec434
+  tool_panel_section_id: ncbi_blast
+  tool_panel_section_label: NCBI Blast
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sample_seqs
+  owner: peterjc
+  revisions:
+  - 02c13ef1a669
+  tool_panel_section_id: ncbi_blast
+  tool_panel_section_label: NCBI Blast
+  tool_shed_url: toolshed.g2.bx.psu.edu

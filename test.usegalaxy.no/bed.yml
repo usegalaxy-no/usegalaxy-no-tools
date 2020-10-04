@@ -1,0 +1,16 @@
+tools:
+- name: bedtools
+  owner: iuc
+  revisions:
+  - b8348686a0b9
+  - 0a5c785ac6db
+  tool_panel_section_id: bed
+  tool_panel_section_label: BED
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gffcompare
+  owner: iuc
+  revisions:
+  - 0f710191a66d
+  tool_panel_section_id: bed
+  tool_panel_section_label: BED
+  tool_shed_url: toolshed.g2.bx.psu.edu

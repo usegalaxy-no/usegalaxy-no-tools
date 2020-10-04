@@ -1,8 +1,0 @@
-# [SKIP_TESTS]
-tools:
-- name: filter_tabular
-  owner: iuc
-  revisions:
-  - 9cc411a62277
-  tool_panel_section_label: Text Manipulation
-  tool_shed_url: toolshed.g2.bx.psu.edu

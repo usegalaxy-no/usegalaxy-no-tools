@@ -1,0 +1,183 @@
+tools:
+- name: abyss
+  owner: iuc
+  revisions:
+  - 3ce74eab308b
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: canu
+  owner: bgruening
+  revisions:
+  - c5b7390290b1
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: colibread_lordec
+  owner: iuc
+  revisions:
+  - 435a98f01ae9
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: crispr_recognition_tool
+  owner: bgruening
+  revisions:
+  - db0f5c1cb227
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: disco
+  owner: iuc
+  revisions:
+  - 6de3e77073ad
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: edena
+  owner: crs4
+  revisions:
+  - b8c6a38530eb
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: flye
+  owner: bgruening
+  revisions:
+  - 3ee0ef312022
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: idba_hybrid
+  owner: iuc
+  revisions:
+  - 5ece301faf6b
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: idba_tran
+  owner: iuc
+  revisions:
+  - 33f00ff1cb22
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: idba_ud
+  owner: iuc
+  revisions:
+  - 694b0f55b744
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: metaspades
+  owner: nml
+  revisions:
+  - 05c394313b1c
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: minced
+  owner: bgruening
+  revisions:
+  - e8cbdbc4de58
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: minia
+  owner: iuc
+  revisions:
+  - 0a66ef6dacb7
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: miniasm
+  owner: iuc
+  revisions:
+  - 8dee0218ac7d
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: mira_assembler
+  owner: peterjc
+  revisions:
+  - 63ebe9726219
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: pilon
+  owner: iuc
+  revisions:
+  - 11e5408fd238
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: quast
+  owner: iuc
+  revisions:
+  - ebb0dcdb621a
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: racon
+  owner: bgruening
+  revisions:
+  - a199cd7ac344
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: rnaspades
+  owner: iuc
+  revisions:
+  - 9e58ff014088
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: shovill
+  owner: iuc
+  revisions:
+  - 83ead2be47b2
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sopra
+  owner: crs4
+  revisions:
+  - 87ffe493b6c1
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: spades
+  owner: nml
+  revisions:
+  - b8c00ce5dfa0
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ssake
+  owner: crs4
+  revisions:
+  - f20db7280f89
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: unicycler
+  owner: iuc
+  revisions:
+  - 88c240872a65
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: velvetoptimiser
+  owner: simon-gladman
+  revisions:
+  - 37d88f41c810
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: wtdbg
+  owner: bgruening
+  revisions:
+  - e100f3f4d80e
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
