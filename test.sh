@@ -1,6 +1,6 @@
 MODE=install
 PRODUCTION_URL=https://test.usegalaxy.no
-PRODUCTION_API_KEY=a4d452413e8fce11558132bf3e9b7660
+PRODUCTION_API_KEY=ADD-YOUR-KEY-HERE
 
 
 for TOOL_FILE in tmp/*; do
