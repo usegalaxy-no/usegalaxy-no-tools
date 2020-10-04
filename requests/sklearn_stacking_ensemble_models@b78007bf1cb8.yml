@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_stacking_ensemble_models
+  owner: bgruening
+  revisions:
+  - b78007bf1cb8
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu
