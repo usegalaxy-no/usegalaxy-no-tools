@@ -62,3 +62,15 @@ Install	52	04/10/20 16:41:11	sklearn_svm_classifier	False	Installed	bgruening	02
 Install	52	04/10/20 16:41:46	sklearn_train_test_eval	False	Installed	bgruening	e03a58b31c12	e03a58b31c12				Statistics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	52	04/10/20 16:42:27	sklearn_train_test_split	False	Installed	bgruening	ce2fd1edbc6e	ce2fd1edbc6e				Statistics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
 Install	52	04/10/20 16:43:07	sqlite_to_tabular	False	Installed	iuc	dfe38b7c34ed	dfe38b7c34ed				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/install_build_/install_log.txt
+Update	27	10/10/20 14:30:55	artic_minion	False	Installed	iuc	a346730e5552	a346730e5552				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:31:40	chembl	False	Installed	bgruening	a57de37f12c2	a57de37f12c2				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:32:24	kc_align	False	Installed	iuc	1c65ddbaeefa	1c65ddbaeefa				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:33:00	lofreq_alnqual	False	Installed	iuc	09d6e4693887	09d6e4693887				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:33:46	lofreq_call	False	Installed	iuc	e1461b5c52a0	e1461b5c52a0				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:34:21	lofreq_filter	False	Installed	iuc	7dfca164d2e3	7dfca164d2e3				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:34:58	lofreq_indelqual	False	Installed	iuc	426d707dfc47	426d707dfc47				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:35:32	lofreq_viterbi	False	Installed	iuc	aa35ee7f3ab2	aa35ee7f3ab2				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:36:17	multiqc	False	Installed	iuc	5e33b465d8d5	5e33b465d8d5				Quality Control	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:37:02	tetoolkit_tetranscripts	False	Installed	iuc	313414e9abcf	313414e9abcf				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:37:49	text_processing	False	Installed	bgruening	ddf54b12c295	ddf54b12c295				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	27	10/10/20 14:38:33	transdecoder	False	Installed	iuc	c6334cb383ff	c6334cb383ff				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

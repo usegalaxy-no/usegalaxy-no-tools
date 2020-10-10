@@ -100,7 +100,7 @@ tools:
 - name: keras_batch_models
   owner: bgruening
   revisions:
-  - 0dc3027df8f4
+  - 508ce0649bec
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -114,7 +114,7 @@ tools:
 - name: keras_model_config
   owner: bgruening
   revisions:
-  - 2d8478144bb2
+  - 2a853a2d2e72
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu

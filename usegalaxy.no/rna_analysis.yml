@@ -555,10 +555,10 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - 2e6190c29c54
-  - daae0a118c36
-  - 09846d5169fa
   - 1a052c827e88
+  - 2e6190c29c54
+  - 09846d5169fa
+  - daae0a118c36
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -579,14 +579,14 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
-  - b265be7af3db
+  - cc05793bb896
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: salmonquantmerge
   owner: bgruening
   revisions:
-  - 85b3dc9b6830
+  - cfb0849582e1
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -670,7 +670,7 @@ tools:
 - name: tetoolkit_tetranscripts
   owner: iuc
   revisions:
-  - bf4ee2810759
+  - 313414e9abcf
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -684,7 +684,7 @@ tools:
 - name: transdecoder
   owner: iuc
   revisions:
-  - 0db979fead3a
+  - c6334cb383ff
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
