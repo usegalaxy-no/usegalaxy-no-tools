@@ -223,6 +223,13 @@ tools:
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: fastq_screen
+  owner: kjetil
+  revisions:
+  - 9f74b66db1f8
+  tool_panel_section_id: fasta/fastq
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: fastq_stats
   owner: devteam
   revisions:
@@ -230,6 +237,13 @@ tools:
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: fastq_sync
+  owner: kjetil
+  revisions:
+  - 30011e27b19e
+  tool_panel_section_id: fasta/fastq
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: fastq_to_fasta
   owner: devteam
   revisions:
@@ -377,6 +391,13 @@ tools:
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: minion_search_adapter
+  owner: kjetil
+  revisions:
+  - 839c5162bce1
+  tool_panel_section_id: fasta/fastq
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: mqc
   owner: rnateam
   revisions:

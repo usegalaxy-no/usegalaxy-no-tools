@@ -388,8 +388,8 @@ tools:
 - name: md_converter
   owner: chemteam
   revisions:
-  - 79e8ab8f1e81
   - d76bea4c85f3
+  - 79e8ab8f1e81
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

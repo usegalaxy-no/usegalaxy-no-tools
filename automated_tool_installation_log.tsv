@@ -74,3 +74,17 @@ Update	27	10/10/20 14:36:17	multiqc	False	Installed	iuc	5e33b465d8d5	5e33b465d8d
 Update	27	10/10/20 14:37:02	tetoolkit_tetranscripts	False	Installed	iuc	313414e9abcf	313414e9abcf				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	27	10/10/20 14:37:49	text_processing	False	Installed	bgruening	ddf54b12c295	ddf54b12c295				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	27	10/10/20 14:38:33	transdecoder	False	Installed	iuc	c6334cb383ff	c6334cb383ff				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:33:42	chembl	False	Errored	bgruening	1d6fb7967ae9	1d6fb7967ae9	Staging Installation			ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:34:26	colibread_lordec	False	Installed	iuc	6322de5e24e5	6322de5e24e5				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:35:05	kc_align	False	Installed	iuc	0c0288a9d92c	0c0288a9d92c				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:35:27	medaka_consensus	False	Errored	iuc	22f6a0e7424f	22f6a0e7424f	Staging Installation			Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:35:49	medaka_consensus_pipeline	False	Errored	iuc	b35de691c42c	b35de691c42c	Staging Installation			Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:36:29	medaka_variant	False	Installed	iuc	19f3b583a9b3	19f3b583a9b3				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:36:52	medaka_variant_pipeline	False	Errored	iuc	efca385ce679	efca385ce679	Staging Installation			Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:37:29	mummer_delta_filter	False	Installed	iuc	b3acbb3a6af0	b3acbb3a6af0				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:38:06	mummer_dnadiff	False	Installed	iuc	60698466facd	60698466facd				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:38:41	mummer_mummer	False	Installed	iuc	48823c9635a4	48823c9635a4				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:39:19	mummer_mummerplot	False	Installed	iuc	ebe3b0f84de9	ebe3b0f84de9				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:39:56	mummer_nucmer	False	Installed	iuc	636b049e6141	636b049e6141				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:40:31	mummer_show_coords	False	Installed	iuc	959c1f8dae95	959c1f8dae95				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	28	17/10/20 14:41:12	scpipe	False	Installed	iuc	3ffca09599ca	3ffca09599ca				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

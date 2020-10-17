@@ -1,4 +1,11 @@
 tools:
+- name: 16s_hmm
+  owner: kjetil
+  revisions:
+  - c47202bf4706
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: bio_hansel
   owner: iuc
   revisions:

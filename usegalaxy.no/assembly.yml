@@ -16,7 +16,7 @@ tools:
 - name: colibread_lordec
   owner: iuc
   revisions:
-  - 435a98f01ae9
+  - 6322de5e24e5
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,4 +1,18 @@
 tools:
+- name: blasr
+  owner: hien
+  revisions:
+  - ead68dd19206
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: changeinfo
+  owner: hien
+  revisions:
+  - 787332c5d342
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: chipeakanno_annopeaks
   owner: kpbioteam
   revisions:
@@ -20,6 +34,55 @@ tools:
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: deseq2
+  owner: kjetil
+  revisions:
+  - 1a20d8618745
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: edgepro2deseq
+  owner: kjetil
+  revisions:
+  - ce665b3f5811
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: fastpedcheck
+  owner: hien
+  revisions:
+  - 40dd4c305fd3
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: featurecounts
+  owner: kjetil
+  revisions:
+  - eec63a684a29
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: filterplot
+  owner: hien
+  revisions:
+  - a2fc111f19b0
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: flye_cigene
+  owner: hien
+  revisions:
+  - 5783e68f6c34
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: ggplot2_segment
+  owner: hien
+  revisions:
+  - a07c8dc0d1ba
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: hifive
   owner: sauria
   revisions:
@@ -27,3 +90,45 @@ tools:
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: lrscaf
+  owner: hien
+  revisions:
+  - d213d153f360
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: pedcheck
+  owner: hien
+  revisions:
+  - 4a300858236a
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: platemerge
+  owner: hien
+  revisions:
+  - 2951cf09a3eb
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: pyplottools
+  owner: hien
+  revisions:
+  - a5da21dd0672
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: quickmerge
+  owner: hien
+  revisions:
+  - b7fd6c5333cb
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: seqreport
+  owner: hien
+  revisions:
+  - 1b04cc60cc30
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
