@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: chembl
+  owner: bgruening
+  revisions:
+  - 1d6fb7967ae9
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu
