@@ -6,6 +6,20 @@ tools:
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: buildmap_dev
+  owner: hien
+  revisions:
+  - a58b91e6dbf7
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: catfasta
+  owner: hien
+  revisions:
+  - 2404d9aa2569
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: changeinfo
   owner: hien
   revisions:
@@ -20,6 +34,20 @@ tools:
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: cig2_phase
+  owner: hien
+  revisions:
+  - 09e554a88dc4
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: cig2_translate
+  owner: hien
+  revisions:
+  - 4bb56f6d0984
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: clusterprofiler_bitr
   owner: kpbioteam
   revisions:
@@ -48,6 +76,13 @@ tools:
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: extractfasta
+  owner: hien
+  revisions:
+  - 2e0497f68a74
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: fastpedcheck
   owner: hien
   revisions:
@@ -59,6 +94,13 @@ tools:
   owner: kjetil
   revisions:
   - eec63a684a29
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: filter
+  owner: hien
+  revisions:
+  - a211803994a4
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
@@ -76,6 +118,34 @@ tools:
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: geno2topigs
+  owner: hien
+  revisions:
+  - d40d67a66098
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: genomelist2geno
+  owner: hien
+  revisions:
+  - '976600122130'
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: genotypereports
+  owner: hien
+  revisions:
+  - '555938415135'
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: gest
+  owner: hien
+  revisions:
+  - 301771e1d89e
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: ggplot2_segment
   owner: hien
   revisions:
@@ -90,10 +160,66 @@ tools:
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: interval_coverage
+  owner: hien
+  revisions:
+  - ddae9578fd36
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: lastzsubwrapper
+  owner: hien
+  revisions:
+  - 0fe98267c32e
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: lepmap2
+  owner: hien
+  revisions:
+  - 722316466f5e
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: lepmap3
+  owner: hien
+  revisions:
+  - 3c2a03543196
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: lr_gapcloser
+  owner: hien
+  revisions:
+  - f14efcfb9b74
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: lrscaf
   owner: hien
   revisions:
   - d213d153f360
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: mergegenotype
+  owner: hien
+  revisions:
+  - d27bf6482df7
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: mergeoverlap2
+  owner: hien
+  revisions:
+  - 96321255c185
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: ped_tools
+  owner: hien
+  revisions:
+  - e52b66fd1ea4
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
@@ -108,6 +234,20 @@ tools:
   owner: hien
   revisions:
   - 2951cf09a3eb
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: plink2geno
+  owner: hien
+  revisions:
+  - 95291e5797e1
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: plinkld
+  owner: hien
+  revisions:
+  - c885e514fe2d
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
@@ -129,6 +269,27 @@ tools:
   owner: hien
   revisions:
   - 1b04cc60cc30
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: snpclean
+  owner: hien
+  revisions:
+  - dd26c2eca8ae
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: snptranslate
+  owner: hien
+  revisions:
+  - b8e58475e447
+  tool_panel_section_id: test_tools
+  tool_panel_section_label: Test Tools
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: vcf2plink
+  owner: hien
+  revisions:
+  - 016137f7543b
   tool_panel_section_id: test_tools
   tool_panel_section_label: Test Tools
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels

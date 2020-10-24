@@ -227,8 +227,8 @@ tools:
   owner: iuc
   revisions:
   - e8adfc4c0a6b
-  - 74aebe30fb52
   - 268d162b9c49
+  - 74aebe30fb52
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
