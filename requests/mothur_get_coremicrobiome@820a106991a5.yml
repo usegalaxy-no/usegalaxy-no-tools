@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_get_coremicrobiome
+  owner: iuc
+  revisions:
+  - 820a106991a5
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

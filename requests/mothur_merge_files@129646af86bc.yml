@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_merge_files
+  owner: iuc
+  revisions:
+  - 129646af86bc
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

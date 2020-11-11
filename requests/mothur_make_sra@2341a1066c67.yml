@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_make_sra
+  owner: iuc
+  revisions:
+  - 2341a1066c67
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_remove_groups
+  owner: iuc
+  revisions:
+  - fae57cd6cc12
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

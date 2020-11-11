@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_remove_lineage
+  owner: iuc
+  revisions:
+  - c03e5575b636
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

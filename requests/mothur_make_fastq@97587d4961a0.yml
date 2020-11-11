@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_make_fastq
+  owner: iuc
+  revisions:
+  - 97587d4961a0
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_remove_otus
+  owner: iuc
+  revisions:
+  - d0b2ec5b9a25
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

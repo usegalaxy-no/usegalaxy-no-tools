@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_filter_shared
+  owner: iuc
+  revisions:
+  - 79f24f4ee6b6
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

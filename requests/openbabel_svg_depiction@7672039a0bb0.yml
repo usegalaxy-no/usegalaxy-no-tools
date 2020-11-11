@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: openbabel_svg_depiction
+  owner: bgruening
+  revisions:
+  - 7672039a0bb0
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu

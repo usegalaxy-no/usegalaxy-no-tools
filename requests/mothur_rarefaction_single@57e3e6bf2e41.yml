@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_rarefaction_single
+  owner: iuc
+  revisions:
+  - 57e3e6bf2e41
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

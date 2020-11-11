@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_classify_tree
+  owner: iuc
+  revisions:
+  - 712115617d17
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

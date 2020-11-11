@@ -1,0 +1,7 @@
+tools:
+- name: openbabel_remions
+  owner: bgruening
+  revisions:
+  - 4e3b2049a4d3
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu

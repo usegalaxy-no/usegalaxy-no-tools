@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_slac
+  owner: iuc
+  revisions:
+  - dc9e52b2d0e1
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_shhh_seqs
+  owner: iuc
+  revisions:
+  - e963609595cc
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

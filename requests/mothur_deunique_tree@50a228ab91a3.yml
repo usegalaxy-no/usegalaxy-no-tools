@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_deunique_tree
+  owner: iuc
+  revisions:
+  - 50a228ab91a3
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

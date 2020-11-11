@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: openbabel_subsearch
+  owner: bgruening
+  revisions:
+  - c19608db6b15
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_cooccurrence
+  owner: iuc
+  revisions:
+  - a3ae2eae5bbe
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

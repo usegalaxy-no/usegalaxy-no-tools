@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_chimera_bellerophon
+  owner: iuc
+  revisions:
+  - eac4ce45ca79
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

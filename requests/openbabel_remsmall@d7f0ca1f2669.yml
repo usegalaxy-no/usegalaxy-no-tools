@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: openbabel_remsmall
+  owner: bgruening
+  revisions:
+  - d7f0ca1f2669
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu

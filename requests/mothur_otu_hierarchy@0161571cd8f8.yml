@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_otu_hierarchy
+  owner: iuc
+  revisions:
+  - 0161571cd8f8
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

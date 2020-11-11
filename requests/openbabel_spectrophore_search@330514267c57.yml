@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: openbabel_spectrophore_search
+  owner: bgruening
+  revisions:
+  - 330514267c57
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu

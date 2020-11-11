@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_phylotype
+  owner: iuc
+  revisions:
+  - e301ed7e04d8
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

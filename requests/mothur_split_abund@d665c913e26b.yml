@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_split_abund
+  owner: iuc
+  revisions:
+  - d665c913e26b
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

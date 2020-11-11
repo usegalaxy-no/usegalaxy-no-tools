@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_pca
+  owner: iuc
+  revisions:
+  - 9f3da360714c
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_primer_design
+  owner: iuc
+  revisions:
+  - eecf8144be3a
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

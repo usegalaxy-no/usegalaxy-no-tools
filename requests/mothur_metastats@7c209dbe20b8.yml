@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_metastats
+  owner: iuc
+  revisions:
+  - 7c209dbe20b8
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

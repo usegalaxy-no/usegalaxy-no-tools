@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_biom_info
+  owner: iuc
+  revisions:
+  - 0937ec7fa442
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

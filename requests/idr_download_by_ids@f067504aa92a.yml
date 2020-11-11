@@ -1,0 +1,7 @@
+tools:
+- name: idr_download_by_ids
+  owner: iuc
+  revisions:
+  - f067504aa92a
+  tool_panel_section_label: Imaging
+  tool_shed_url: toolshed.g2.bx.psu.edu

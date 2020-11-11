@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_chimera_perseus
+  owner: iuc
+  revisions:
+  - 49fa68a982d1
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

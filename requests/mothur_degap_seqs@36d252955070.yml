@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_degap_seqs
+  owner: iuc
+  revisions:
+  - 36d252955070
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_normalize_shared
+  owner: iuc
+  revisions:
+  - 4bdf28c910af
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu

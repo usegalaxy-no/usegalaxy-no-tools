@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: mothur_tree_shared
+  owner: iuc
+  revisions:
+  - bf740ca1752a
+  tool_panel_section_label: Mothur
+  tool_shed_url: toolshed.g2.bx.psu.edu
