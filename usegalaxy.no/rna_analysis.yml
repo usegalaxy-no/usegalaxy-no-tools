@@ -195,6 +195,13 @@ tools:
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: edge_pro
+  owner: crs4
+  revisions:
+  - e6e6f5f9b9c4
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: edger
   owner: iuc
   revisions:
@@ -779,6 +786,13 @@ tools:
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: uit_deseq2_wrapper
+  owner: kjetil
+  revisions:
+  - b3cb2cd174f5
+  tool_panel_section_id: rna_analysis
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: viennarna_kinfold
   owner: rnateam
   revisions:

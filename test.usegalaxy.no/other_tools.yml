@@ -1,8 +1,0 @@
-tools:
-- name: extract_genomic_dna
-  owner: iuc
-  revisions:
-  - 5cc8e93ee98f
-  tool_panel_section_id: other_tools
-  tool_panel_section_label: Other Tools
-  tool_shed_url: toolshed.g2.bx.psu.edu

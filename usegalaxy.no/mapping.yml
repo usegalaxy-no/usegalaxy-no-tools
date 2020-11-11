@@ -136,7 +136,7 @@ tools:
 - name: tophat2
   owner: kjetil
   revisions:
-  - 6b262e099505
+  - 4168a26e4a67
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
