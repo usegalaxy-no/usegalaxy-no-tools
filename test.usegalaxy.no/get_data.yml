@@ -1,0 +1,184 @@
+tools:
+- name: dbbuilder
+  owner: galaxyp
+  revisions:
+  - a85fbebe8b2f
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ebi_metagenomics_run_downloader
+  owner: iuc
+  revisions:
+  - a1ef6c88ee37
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ebi_search_rest_results
+  owner: iuc
+  revisions:
+  - 42d5e40fcd0b
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ega_download_streamer
+  owner: yhoogstrate
+  revisions:
+  - 3e2cccf08053
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: enasearch_retrieve_analysis_report
+  owner: iuc
+  revisions:
+  - 1e25f66e4acc
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: enasearch_retrieve_data
+  owner: iuc
+  revisions:
+  - 2f0210706f95
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: enasearch_retrieve_run_report
+  owner: iuc
+  revisions:
+  - 3dd81790a236
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: enasearch_retrieve_taxons
+  owner: iuc
+  revisions:
+  - 92e869104274
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: enasearch_search_data
+  owner: iuc
+  revisions:
+  - 63b13eb2cb8a
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ensembl_get_feature_info
+  owner: earlhaminst
+  revisions:
+  - 70e4134eb0ed
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ensembl_get_genetree
+  owner: earlhaminst
+  revisions:
+  - 675fd774314e
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ensembl_get_sequences
+  owner: earlhaminst
+  revisions:
+  - 0fa1d1cc417d
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: iedb_api
+  owner: iuc
+  revisions:
+  - e95d3221b7f0
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_acc_download
+  owner: iuc
+  revisions:
+  - 1c58de56d587
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_ecitmatch
+  owner: iuc
+  revisions:
+  - b00212deaea7
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_efetch
+  owner: iuc
+  revisions:
+  - c09fcbe4b16a
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_egquery
+  owner: iuc
+  revisions:
+  - d1789b4821fc
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_einfo
+  owner: iuc
+  revisions:
+  - cd5a82a16bbf
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_elink
+  owner: iuc
+  revisions:
+  - 55b3067762f9
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_epost
+  owner: iuc
+  revisions:
+  - ae3a5d753d42
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_esearch
+  owner: iuc
+  revisions:
+  - e267701c187b
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ncbi_eutils_esummary
+  owner: iuc
+  revisions:
+  - 254f40d3ae2b
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sra_tools
+  owner: iuc
+  revisions:
+  - f5ea3ce9b9b0
+  - 653e89d73fc4
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: unipept
+  owner: galaxyp
+  revisions:
+  - 4953dcd7dd39
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: uniprot_rest_interface
+  owner: bgruening
+  revisions:
+  - 054483e27a35
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: uniprotxml_downloader
+  owner: galaxyp
+  revisions:
+  - 1a5690a5eedc
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu

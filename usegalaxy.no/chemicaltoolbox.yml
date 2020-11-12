@@ -486,35 +486,35 @@ tools:
 - name: openbabel_addh
   owner: bgruening
   revisions:
-  - f697d9601273
+  - 6e4b7e0c61a6
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_change_title
   owner: bgruening
   revisions:
-  - 3ecaa9634126
+  - 01ab890bf0ad
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_compound_convert
   owner: bgruening
   revisions:
-  - 1c66bf08f687
+  - e2c36f62e22f
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_filter
   owner: bgruening
   revisions:
-  - ff2dd4b7d918
+  - df4dc55197dd
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_genprop
   owner: bgruening
   revisions:
-  - a72ae2711a97
+  - b249bf9be0d1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -528,63 +528,63 @@ tools:
 - name: openbabel_obgrep
   owner: bgruening
   revisions:
-  - 78640d0127ce
+  - 274193d6c443
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_remduplicates
   owner: bgruening
   revisions:
-  - 50ca8845e7f5
+  - b2569e22b40c
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_remions
   owner: bgruening
   revisions:
-  - 3153b6f3087c
+  - 4e3b2049a4d3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_remove_protonation_state
   owner: bgruening
   revisions:
-  - b578d0c101cd
+  - e376ba0fcde0
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_remsmall
   owner: bgruening
   revisions:
-  - aebc671bae78
+  - d7f0ca1f2669
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_spectrophore_search
   owner: bgruening
   revisions:
-  - afd14e10a318
+  - 330514267c57
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_structure_distance_finder
   owner: bgruening
   revisions:
-  - 4c9d6b47045c
+  - 2c5c7da26e08
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_subsearch
   owner: bgruening
   revisions:
-  - 171c94786a56
+  - c19608db6b15
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: openbabel_svg_depiction
   owner: bgruening
   revisions:
-  - d3b48303045b
+  - 7672039a0bb0
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -640,7 +640,7 @@ tools:
 - name: prepare_ligands_for_docking
   owner: bgruening
   revisions:
-  - de4c80d17527
+  - 5486f7a2b0cb
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

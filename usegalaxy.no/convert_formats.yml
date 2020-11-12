@@ -79,7 +79,7 @@ tools:
 - name: genebed_maf_to_fasta
   owner: iuc
   revisions:
-  - f24a9ff28d3c
+  - 020c78e91cc5
   tool_panel_section_id: convert
   tool_panel_section_label: Convert Formats
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -149,7 +149,7 @@ tools:
 - name: interval2maf
   owner: iuc
   revisions:
-  - cfea1d6354db
+  - b79f6002b176
   tool_panel_section_id: convert
   tool_panel_section_label: Convert Formats
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -163,8 +163,8 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
-  - 9b61227976d6
   - dd4ba10d0c45
+  - 9b61227976d6
   tool_panel_section_id: convert
   tool_panel_section_label: Convert Formats
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,36 @@
+tools:
+- name: cds_essential_variability
+  owner: climate
+  revisions:
+  - 9ee8db6ffba3
+  tool_panel_section_id: climate_analysis
+  tool_panel_section_label: Climate Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: climate_stripes
+  owner: climate
+  revisions:
+  - c6f2435d680b
+  tool_panel_section_id: climate_analysis
+  tool_panel_section_label: Climate Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: mean_per_zone
+  owner: climate
+  revisions:
+  - 4bb2f6091660
+  tool_panel_section_id: climate_analysis
+  tool_panel_section_label: Climate Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: psy_maps
+  owner: climate
+  revisions:
+  - 706666d912d5
+  tool_panel_section_id: climate_analysis
+  tool_panel_section_label: Climate Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: shift_longitudes
+  owner: climate
+  revisions:
+  - 5708a3a46f2e
+  tool_panel_section_id: climate_analysis
+  tool_panel_section_label: Climate Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
