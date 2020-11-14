@@ -435,3 +435,4 @@ Update	33	13/11/20 00:33:24	prepare_ligands_for_docking	False	Installed	bgruenin
 Update	33	13/11/20 00:34:17	sicer	False	Installed	devteam	5c2cc3b58c7d	5c2cc3b58c7d				Peak Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	33	13/11/20 00:35:07	variant_analyzer	False	Installed	iuc	3f1dbd2c59bf	3f1dbd2c59bf				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	33	13/11/20 00:36:06	vsearch	False	Installed	iuc	9495df9dd6ef	9495df9dd6ef				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	34	14/11/20 14:25:16	last	False	Installed	iuc	3de2195f32c0	3de2195f32c0				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
