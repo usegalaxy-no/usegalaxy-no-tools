@@ -49,6 +49,13 @@ tools:
   tool_panel_section_id: vcf/bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: plink2geno
+  owner: hien
+  revisions:
+  - 95291e5797e1
+  tool_panel_section_id: vcf/bcf
+  tool_panel_section_label: VCF/BCF
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: snippy
   owner: iuc
   revisions:
@@ -70,6 +77,13 @@ tools:
   tool_panel_section_id: vcf/bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: vcf2plink
+  owner: hien
+  revisions:
+  - 016137f7543b
+  tool_panel_section_id: vcf/bcf
+  tool_panel_section_label: VCF/BCF
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: vcf2tsv
   owner: devteam
   revisions:
