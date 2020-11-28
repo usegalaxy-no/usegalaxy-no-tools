@@ -478,7 +478,7 @@ tools:
 - name: mothur_make_contigs
   owner: iuc
   revisions:
-  - f65c34178487
+  - 829bb93d3add
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
   tool_shed_url: toolshed.g2.bx.psu.edu

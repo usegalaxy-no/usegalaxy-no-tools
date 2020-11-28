@@ -20,6 +20,13 @@ tools:
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: ega_download_client
+  owner: iuc
+  revisions:
+  - caf213d51d6c
+  tool_panel_section_id: getext
+  tool_panel_section_label: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ega_download_streamer
   owner: yhoogstrate
   revisions:
@@ -156,8 +163,8 @@ tools:
 - name: sra_tools
   owner: iuc
   revisions:
-  - 653e89d73fc4
   - f5ea3ce9b9b0
+  - 653e89d73fc4
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu

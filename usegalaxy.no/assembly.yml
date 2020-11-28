@@ -188,13 +188,6 @@ tools:
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
-- name: unicycler
-  owner: iuc
-  revisions:
-  - 88c240872a65
-  tool_panel_section_id: assembly
-  tool_panel_section_label: Assembly
-  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: velvetoptimiser
   owner: simon-gladman
   revisions:

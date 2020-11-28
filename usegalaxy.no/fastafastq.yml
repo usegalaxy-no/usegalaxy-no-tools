@@ -426,6 +426,13 @@ tools:
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: seq_rename
+  owner: peterjc
+  revisions:
+  - e1398f2ba9fe
+  tool_panel_section_id: fasta/fastq
+  tool_panel_section_label: FASTA/FASTQ
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: seqkit_seq
   owner: alyssa
   revisions:

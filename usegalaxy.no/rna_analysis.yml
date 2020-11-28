@@ -177,7 +177,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
-  - 71bacea10eee
+  - de44f8eff84a
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -233,7 +233,7 @@ tools:
 - name: featurecounts
   owner: iuc
   revisions:
-  - 90d16db017d7
+  - ea04b737afa0
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -303,7 +303,7 @@ tools:
 - name: idr
   owner: iuc
   revisions:
-  - d3ebbf39b1c5
+  - de7795890bc5
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -562,9 +562,9 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - 1a052c827e88
-  - 2e6190c29c54
   - daae0a118c36
+  - 2e6190c29c54
+  - 1a052c827e88
   - 09846d5169fa
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

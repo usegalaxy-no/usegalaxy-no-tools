@@ -2,16 +2,16 @@ tools:
 - name: bismark
   owner: bgruening
   revisions:
-  - ff6ee551b153
   - 9d02cd7883ad
+  - ff6ee551b153
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: blasr
   owner: hien
   revisions:
-  - ead68dd19206
   - 8d8223d9148b
+  - ead68dd19206
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
@@ -60,7 +60,7 @@ tools:
 - name: hisat2
   owner: iuc
   revisions:
-  - a86e80d3c09c
+  - d4b55e2beb12
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
