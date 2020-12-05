@@ -476,3 +476,7 @@ Update	36	28/11/20 14:39:58	kraken2	False	Installed	iuc	4a9da2b6c2e3	4a9da2b6c2e
 Update	36	28/11/20 14:40:47	mothur_chop_seqs	False	Installed	iuc	35fd955898e0	35fd955898e0				Mothur	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	36	28/11/20 14:41:41	mothur_make_contigs	False	Installed	iuc	829bb93d3add	829bb93d3add				Mothur	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	36	28/11/20 14:42:41	multiqc	False	Installed	iuc	f7985e0479b9	f7985e0479b9				Quality Control	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	37	05/12/20 14:35:44	feelnc	False	Installed	iuc	095162ba8e90	095162ba8e90				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	37	05/12/20 14:36:33	rgrnastar	False	Installed	iuc	e132e7d02a3e	e132e7d02a3e				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	37	05/12/20 14:37:20	rna_starsolo	False	Installed	iuc	00fbfac99d39	00fbfac99d39				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	37	05/12/20 14:38:05	snpsift	False	Installed	iuc	2e497a770bca	2e497a770bca				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
