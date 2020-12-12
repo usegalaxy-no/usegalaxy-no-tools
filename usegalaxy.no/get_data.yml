@@ -27,13 +27,6 @@ tools:
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
-- name: ega_download_streamer
-  owner: yhoogstrate
-  revisions:
-  - 3e2cccf08053
-  tool_panel_section_id: getext
-  tool_panel_section_label: Get Data
-  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: enasearch_retrieve_analysis_report
   owner: iuc
   revisions:

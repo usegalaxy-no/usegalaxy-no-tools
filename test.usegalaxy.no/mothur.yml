@@ -765,7 +765,7 @@ tools:
 - name: mothur_screen_seqs
   owner: iuc
   revisions:
-  - a136fc12b26a
+  - c1feef4d5e34
   tool_panel_section_id: mothur
   tool_panel_section_label: Mothur
   tool_shed_url: toolshed.g2.bx.psu.edu

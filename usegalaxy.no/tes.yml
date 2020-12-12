@@ -1,0 +1,8 @@
+tools:
+- name: minion_search_adapter
+  owner: kjetil
+  revisions:
+  - 3fdee495d5ea
+  tool_panel_section_id: tes
+  tool_panel_section_label: tes
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels

@@ -2,98 +2,98 @@ tools:
 - name: hicexplorer_chicaggregatestatistic
   owner: bgruening
   revisions:
-  - d6f5e51e97ec
+  - 989cec209ba2
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_chicdifferentialtest
   owner: bgruening
   revisions:
-  - 126abc4b03f1
+  - 8c5cecbfc3aa
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_chicplotviewpoint
   owner: bgruening
   revisions:
-  - ac7999229ac6
+  - 46793007f090
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_chicqualitycontrol
   owner: bgruening
   revisions:
-  - 692b686622b6
+  - 44d6bef89faa
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_chicsignificantinteractions
   owner: bgruening
   revisions:
-  - 38fa8a72ece6
+  - 6bc82c6d6620
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_chicviewpointbackgroundmodel
   owner: bgruening
   revisions:
-  - 51447a1d38ed
+  - 83570b36593e
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_chicviewpoint
   owner: bgruening
   revisions:
-  - 78b70d78a596
+  - '889194374660'
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicadjustmatrix
   owner: bgruening
   revisions:
-  - cd29c9a2ad55
+  - 794bd416f6c3
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicaggregatecontacts
   owner: bgruening
   revisions:
-  - 1b25346775db
+  - 8286e361f89c
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicaverageregions
   owner: bgruening
   revisions:
-  - 3dafb9693b8c
+  - 2818b428a5c5
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicbuildmatrix
   owner: bgruening
   revisions:
-  - c657edbea349
+  - 921a2da49a0c
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hiccomparematrices
   owner: bgruening
   revisions:
-  - 41aab2463ca4
+  - c48c29d59359
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hiccompartmentspolarization
   owner: bgruening
   revisions:
-  - 7eaa4f72691f
+  - 3afa7d456f61
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicconvertformat
   owner: bgruening
   revisions:
-  - abf2ec674f17
+  - 835d4d727688
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -107,91 +107,91 @@ tools:
 - name: hicexplorer_hiccorrelate
   owner: bgruening
   revisions:
-  - 364a38df1449
+  - 1099d84fcc21
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicdetectloops
   owner: bgruening
   revisions:
-  - 1cf50a7d0a05
+  - f16ab52334dd
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicfindrestrictionsites
   owner: bgruening
   revisions:
-  - ad852622d00a
+  - 3f552d62a93a
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicfindtads
   owner: bgruening
   revisions:
-  - 116ddd1627cd
+  - 78fb5e286609
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicinfo
   owner: bgruening
   revisions:
-  - a83e4b0074a3
+  - 615e9d59a682
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicmergeloops
   owner: bgruening
   revisions:
-  - 25332cfeac05
+  - 8169710bd2fb
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicmergematrixbins
   owner: bgruening
   revisions:
-  - 9b7840d527be
+  - 9e357a8b2ec3
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicnormalize
   owner: bgruening
   revisions:
-  - e24802b3bbad
+  - b9d7410b6593
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicpca
   owner: bgruening
   revisions:
-  - c7f55f65b449
+  - 0ba4f56a3613
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicplotaverageregions
   owner: bgruening
   revisions:
-  - 2371fad10021
+  - 8f4b98b0f9a9
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicplotdistvscounts
   owner: bgruening
   revisions:
-  - ace4cbd036c4
+  - c8a6f89921dc
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicplotmatrix
   owner: bgruening
   revisions:
-  - 79acdf9d5e1d
+  - 5308ca68ef3d
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicplotsvl
   owner: bgruening
   revisions:
-  - 81d061c9276d
+  - 1923cc7e6bc2
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -205,35 +205,35 @@ tools:
 - name: hicexplorer_hicplotviewpoint
   owner: bgruening
   revisions:
-  - 33868a6f202c
+  - 76ad9e40883d
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicquickqc
   owner: bgruening
   revisions:
-  - 653fa9fa585e
+  - b8755bb5bc56
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicsummatrices
   owner: bgruening
   revisions:
-  - 5fbf0fd998ce
+  - d78ae621fc63
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hictransform
   owner: bgruening
   revisions:
-  - e8dfe346a207
+  - dc25d1f9927b
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hicexplorer_hicvalidatelocations
   owner: bgruening
   revisions:
-  - 61cbee6f3fd0
+  - 362942f48dd2
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
   tool_shed_url: toolshed.g2.bx.psu.edu
