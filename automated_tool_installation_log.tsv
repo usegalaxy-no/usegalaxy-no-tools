@@ -644,3 +644,4 @@ Update	38	12/12/20 16:30:13	mothur_unifrac_weighted	False	Installed	iuc	09f802a2
 Update	38	12/12/20 16:30:47	mothur_unique_seqs	False	Installed	iuc	71788e5ced45	71788e5ced45				Mothur	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	38	12/12/20 16:31:22	mothur_venn	False	Installed	iuc	139bdc1c3b48	139bdc1c3b48				Mothur	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	38	12/12/20 16:32:06	repeat_masker	False	Installed	bgruening	bfc70c8cc5ca	bfc70c8cc5ca				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	39	19/12/20 14:43:22	hicexplorer_hiccorrectmatrix	False	Installed	bgruening	5443b2b1165f	5443b2b1165f				HiCExplorer	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
