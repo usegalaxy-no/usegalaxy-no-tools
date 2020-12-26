@@ -38,84 +38,84 @@ tools:
 - name: hyphy_absrel
   owner: iuc
   revisions:
-  - 6a457678efcb
+  - d7c7ef3353fe
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_bgm
   owner: iuc
   revisions:
-  - ac0b16f873f7
+  - 63b9f220f585
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_busted
   owner: iuc
   revisions:
-  - 9c62228ef17c
+  - 75b6fe730cee
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_fade
   owner: iuc
   revisions:
-  - c1244c2d8bbc
+  - 3b8114109e84
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_fel
   owner: iuc
   revisions:
-  - c32f3d3e8a92
+  - 31b7af192fd3
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_fubar
   owner: iuc
   revisions:
-  - a6da5885846e
+  - c8f912a7a967
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_gard
   owner: iuc
   revisions:
-  - 6223845127ea
+  - b0af57c1a968
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_meme
   owner: iuc
   revisions:
-  - f9988f5f30e0
+  - 82a3221ca3aa
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_prime
   owner: iuc
   revisions:
-  - 6fede7bd6c8f
+  - 82665e97c156
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_relax
   owner: iuc
   revisions:
-  - ba548f24669a
+  - b8bdfac5a326
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_slac
   owner: iuc
   revisions:
-  - b0b16acfcbe3
+  - 4b63a5c3c6da
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_sm19
   owner: iuc
   revisions:
-  - 92ef8f2da655
+  - 77d74f012ecc
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
