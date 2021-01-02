@@ -657,3 +657,9 @@ Update	40	26/12/20 14:55:20	hyphy_prime	False	Installed	iuc	82665e97c156	82665e9
 Update	40	26/12/20 14:56:07	hyphy_relax	False	Installed	iuc	b8bdfac5a326	b8bdfac5a326				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	40	26/12/20 14:57:06	hyphy_slac	False	Installed	iuc	4b63a5c3c6da	4b63a5c3c6da				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	40	26/12/20 14:57:57	hyphy_sm19	False	Installed	iuc	77d74f012ecc	77d74f012ecc				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	41	02/01/21 14:53:37	busco	False	Installed	iuc	602fb8e63aa7	602fb8e63aa7				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	41	02/01/21 14:54:20	column_maker	False	Installed	devteam	9cd341095afd	9cd341095afd				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	41	02/01/21 14:55:23	jbrowse	False	Installed	iuc	8774b28235bb	8774b28235bb				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	41	02/01/21 14:56:12	maker	False	Installed	iuc	5201ec38c01f	5201ec38c01f				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	41	02/01/21 14:57:00	maker_map_ids	False	Installed	iuc	f1912d5575df	f1912d5575df				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	41	02/01/21 14:57:49	sina	False	Installed	iuc	56d7dc39eec8	56d7dc39eec8				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

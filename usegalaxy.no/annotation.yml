@@ -58,7 +58,7 @@ tools:
 - name: busco
   owner: iuc
   revisions:
-  - 4048d82f0c88
+  - 602fb8e63aa7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -248,14 +248,14 @@ tools:
 - name: maker_map_ids
   owner: iuc
   revisions:
-  - 326f9c294b09
+  - f1912d5575df
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: maker
   owner: iuc
   revisions:
-  - 5e96efe6e6c6
+  - 5201ec38c01f
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

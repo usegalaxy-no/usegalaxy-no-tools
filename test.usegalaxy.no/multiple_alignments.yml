@@ -128,7 +128,7 @@ tools:
 - name: sina
   owner: iuc
   revisions:
-  - 482052b30b78
+  - 56d7dc39eec8
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
   tool_shed_url: toolshed.g2.bx.psu.edu
