@@ -695,3 +695,22 @@ Update	42	09/01/21 15:26:10	ncbi_eutils_esummary	False	Installed	iuc	ff3a5e980fa
 Update	42	09/01/21 15:26:50	rnaspades	False	Installed	iuc	03fd468e158f	03fd468e158f				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	42	09/01/21 15:27:40	samtools_view	False	Installed	iuc	b72793637686	b72793637686				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	42	09/01/21 15:28:25	tbprofiler	False	Installed	iuc	037a11682176	037a11682176				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:10:26	bowtie2	False	Installed	devteam	09b2cdb7ace5	09b2cdb7ace5				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:11:22	hyphy_absrel	False	Installed	iuc	3b8b5bde0bd9	3b8b5bde0bd9				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:12:11	hyphy_bgm	False	Installed	iuc	082d47606949	082d47606949				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:13:02	hyphy_busted	False	Installed	iuc	2228dcc23dd9	2228dcc23dd9				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:13:55	hyphy_fade	False	Installed	iuc	751948c21000	751948c21000				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:14:48	hyphy_fel	False	Installed	iuc	ccf8f1712632	ccf8f1712632				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:15:38	hyphy_fubar	False	Installed	iuc	af40a8b95f8d	af40a8b95f8d				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:16:28	hyphy_gard	False	Installed	iuc	a185b079b095	a185b079b095				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:17:18	hyphy_meme	False	Installed	iuc	a4bf56abff97	a4bf56abff97				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:18:02	hyphy_prime	False	Installed	iuc	a8f760e7c322	a8f760e7c322				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:18:51	hyphy_relax	False	Installed	iuc	169f4d983656	169f4d983656				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:19:41	hyphy_slac	False	Installed	iuc	08449da86cdf	08449da86cdf				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:20:25	hyphy_sm19	False	Installed	iuc	051642420aec	051642420aec				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:21:07	metaspades	False	Installed	nml	2ecf5a570907	2ecf5a570907				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:22:03	pileup_interval	False	Installed	devteam	9c1c0b947e46	9c1c0b947e46				SAM/BAM Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:22:54	rgrnastar	False	Installed	iuc	7ed2edc1337f	7ed2edc1337f				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:23:46	rna_starsolo	False	Installed	iuc	ec9cbd6b9a49	ec9cbd6b9a49				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:24:32	ruvseq	False	Installed	iuc	fed9d0350d72	fed9d0350d72				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	43	16/01/21 15:25:23	velvetoptimiser	False	Installed	simon-gladman	4a53b89fa703	4a53b89fa703				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

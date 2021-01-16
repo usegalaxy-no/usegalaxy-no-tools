@@ -248,7 +248,7 @@ tools:
 - name: maker_map_ids
   owner: iuc
   revisions:
-  - f1912d5575df
+  - e408aa831db3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

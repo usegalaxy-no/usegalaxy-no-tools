@@ -23,8 +23,8 @@ tools:
 - name: bamtools_split
   owner: devteam
   revisions:
-  - e2c1b62e1db1
   - 9676127a1ed2
+  - e2c1b62e1db1
   tool_panel_section_id: sam/bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu

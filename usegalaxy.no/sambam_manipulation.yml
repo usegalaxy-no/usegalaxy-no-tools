@@ -9,7 +9,7 @@ tools:
 - name: pileup_interval
   owner: devteam
   revisions:
-  - a110f9d6ae24
+  - 9c1c0b947e46
   tool_panel_section_id: sam/bam_manipulation
   tool_panel_section_label: SAM/BAM Manipulation
   tool_shed_url: toolshed.g2.bx.psu.edu
