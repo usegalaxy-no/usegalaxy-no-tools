@@ -114,7 +114,7 @@ tools:
 - name: chembl
   owner: bgruening
   revisions:
-  - 1ade252ebe08
+  - a43a00845834
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

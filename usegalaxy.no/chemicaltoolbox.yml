@@ -114,7 +114,7 @@ tools:
 - name: chembl
   owner: bgruening
   revisions:
-  - 1ade252ebe08
+  - a43a00845834
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -387,8 +387,8 @@ tools:
 - name: md_converter
   owner: chemteam
   revisions:
-  - 79e8ab8f1e81
   - d76bea4c85f3
+  - 79e8ab8f1e81
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

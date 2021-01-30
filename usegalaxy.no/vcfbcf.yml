@@ -6,13 +6,6 @@ tools:
   tool_panel_section_id: vcf/bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu
-- name: bamleftalign
-  owner: devteam
-  revisions:
-  - e65540a91b87
-  tool_panel_section_id: vcf/bcf
-  tool_panel_section_label: VCF/BCF
-  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_norm
   owner: iuc
   revisions:
