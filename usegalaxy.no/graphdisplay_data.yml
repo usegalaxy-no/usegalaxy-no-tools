@@ -130,6 +130,7 @@ tools:
 - name: jbrowse
   owner: iuc
   revisions:
+  - 6cd09d7b5f37
   - 8774b28235bb
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data

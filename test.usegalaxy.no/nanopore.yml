@@ -23,7 +23,7 @@ tools:
 - name: medaka_variant
   owner: iuc
   revisions:
-  - 19f3b583a9b3
+  - aabb4e1c0b7b
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu

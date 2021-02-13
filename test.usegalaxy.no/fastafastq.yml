@@ -492,7 +492,7 @@ tools:
 - name: umi_tools_dedup
   owner: iuc
   revisions:
-  - c6567483aa1e
+  - 7fa28eb10fed
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -883,3 +883,37 @@ Update	46	06/02/21 15:07:18	humann2_strain_profiler	False	Installed	iuc	1595f7ca
 Update	46	06/02/21 15:08:31	humann2_unpack_pathways	False	Installed	iuc	3115a530686e	3115a530686e				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	46	06/02/21 15:09:16	sra_tools	False	Installed	iuc	e08a7ad4378b	e08a7ad4378b				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	46	06/02/21 15:09:56	transdecoder	False	Installed	iuc	d0d4cef4f967	d0d4cef4f967				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:36:57	cp_cellprofiler	False	Installed	bgruening	e917a2424690	e917a2424690				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:37:39	cp_common	False	Installed	bgruening	e7273daa5ae2	e7273daa5ae2				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:38:22	cp_convert_objects_to_image	False	Installed	bgruening	df3ad3ba5c6f	df3ad3ba5c6f				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:39:04	cp_display_data_on_image	False	Installed	bgruening	2484086dee41	2484086dee41				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:39:45	cp_enhance_or_suppress_features	False	Installed	bgruening	f2ed92b011a9	f2ed92b011a9				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:40:27	cp_export_to_spreadsheet	False	Installed	bgruening	f8fa0f6718a3	f8fa0f6718a3				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:41:08	cp_gray_to_color	False	Installed	bgruening	31d195bedf6d	31d195bedf6d				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:41:48	cp_identify_primary_objects	False	Installed	bgruening	993faa34333b	993faa34333b				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:42:30	cp_image_math	False	Installed	bgruening	c09dcda1143f	c09dcda1143f				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:43:11	cp_mask_image	False	Installed	bgruening	3a05117669cf	3a05117669cf				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:43:52	cp_measure_granularity	False	Installed	bgruening	a1a961c46d4b	a1a961c46d4b				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:44:33	cp_measure_image_area_occupied	False	Installed	bgruening	20dbb1f7ec7b	20dbb1f7ec7b				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:45:14	cp_measure_image_intensity	False	Installed	bgruening	5499dc6f8ac1	5499dc6f8ac1				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:45:53	cp_measure_image_quality	False	Installed	bgruening	e972e07c7845	e972e07c7845				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:46:31	cp_measure_object_intensity	False	Installed	bgruening	980aed9e8fd5	980aed9e8fd5				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:47:10	cp_measure_object_size_shape	False	Installed	bgruening	79e10d12d90a	79e10d12d90a				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:47:50	cp_measure_texture	False	Installed	bgruening	035a58c7f54a	035a58c7f54a				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:48:29	cp_relate_objects	False	Installed	bgruening	8083a87d2fdf	8083a87d2fdf				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:49:11	cp_save_images	False	Installed	bgruening	4ecf93628f97	4ecf93628f97				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:49:54	filter_tabular	False	Installed	iuc	6544e4b87a4f	6544e4b87a4f				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:50:40	iedb_api	False	Installed	iuc	7ed6dda64a81	7ed6dda64a81				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:51:16	jbrowse	False	Installed	iuc	6cd09d7b5f37	6cd09d7b5f37				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:51:56	medaka_consensus	False	Installed	iuc	fbf007713188	fbf007713188				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:52:39	medaka_consensus_pipeline	False	Installed	iuc	d915879a88bc	d915879a88bc				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:53:25	medaka_variant	False	Installed	iuc	aabb4e1c0b7b	aabb4e1c0b7b				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:54:05	medaka_variant_pipeline	False	Installed	iuc	ea1833858055	ea1833858055				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:54:53	minimap2	False	Installed	iuc	77b2770508f6	77b2770508f6				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:55:37	query_tabular	False	Installed	iuc	83069b38aa85	83069b38aa85				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:56:15	sqlite_to_tabular	False	Installed	iuc	bce29ec10b78	bce29ec10b78				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:56:56	umi_tools_count	False	Installed	iuc	8250ea3a1501	8250ea3a1501				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:57:42	umi_tools_dedup	False	Installed	iuc	7fa28eb10fed	7fa28eb10fed				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:58:24	umi_tools_extract	False	Installed	iuc	6a675c3aa610	6a675c3aa610				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:59:03	umi_tools_group	False	Installed	iuc	bc082a79d655	bc082a79d655				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	47	13/02/21 14:59:46	umi_tools_whitelist	False	Installed	iuc	49bfe13676a1	49bfe13676a1				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
