@@ -506,7 +506,7 @@ tools:
 - name: umi_tools_count
   owner: iuc
   revisions:
-  - 276b4111b253
+  - 8250ea3a1501
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -520,21 +520,21 @@ tools:
 - name: umi_tools_extract
   owner: iuc
   revisions:
-  - d5ff68d2d5ff
+  - 6a675c3aa610
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: umi_tools_group
   owner: iuc
   revisions:
-  - 30c3906fbf43
+  - bc082a79d655
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: umi_tools_whitelist
   owner: iuc
   revisions:
-  - 262026eb36a5
+  - 49bfe13676a1
   tool_panel_section_id: fasta/fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu

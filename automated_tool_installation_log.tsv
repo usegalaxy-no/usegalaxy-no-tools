@@ -917,3 +917,14 @@ Update	47	13/02/21 14:57:42	umi_tools_dedup	False	Installed	iuc	7fa28eb10fed	7fa
 Update	47	13/02/21 14:58:24	umi_tools_extract	False	Installed	iuc	6a675c3aa610	6a675c3aa610				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	47	13/02/21 14:59:03	umi_tools_group	False	Installed	iuc	bc082a79d655	bc082a79d655				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	47	13/02/21 14:59:46	umi_tools_whitelist	False	Installed	iuc	49bfe13676a1	49bfe13676a1				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:37:50	anndata_export	False	Installed	iuc	c5ac926c838f	c5ac926c838f				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:38:38	anndata_import	False	Installed	iuc	ae1e5d9d8972	ae1e5d9d8972				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:39:20	anndata_inspect	False	Installed	iuc	383dcb0500f9	383dcb0500f9				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:40:05	anndata_manipulate	False	Installed	iuc	8db95f488f0f	8db95f488f0f				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:40:52	canu	False	Installed	bgruening	5732f959936a	5732f959936a				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:41:36	ctb_rdkit_descriptors	False	Installed	bgruening	a1c53f0533b0	a1c53f0533b0				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:42:14	enumerate_charges	False	Installed	bgruening	bbbf5fb356dd	bbbf5fb356dd				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:43:01	kraken2	False	Installed	iuc	e674066930b2	e674066930b2				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:43:49	modify_loom	False	Installed	iuc	7784821452ac	7784821452ac				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:44:31	roary	False	Installed	iuc	78608ec02d62	78608ec02d62				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	48	20/02/21 14:45:12	sdf_to_tab	False	Installed	bgruening	351fbd750a6d	351fbd750a6d				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
