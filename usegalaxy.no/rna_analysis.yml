@@ -563,8 +563,8 @@ tools:
   owner: nilesh
   revisions:
   - daae0a118c36
-  - 1a052c827e88
   - 2e6190c29c54
+  - 1a052c827e88
   - 09846d5169fa
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -600,7 +600,7 @@ tools:
 - name: scpipe
   owner: iuc
   revisions:
-  - 3ffca09599ca
+  - a3b3ec00bf8f
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

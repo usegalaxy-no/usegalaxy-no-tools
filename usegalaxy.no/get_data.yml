@@ -107,7 +107,7 @@ tools:
 - name: ncbi_eutils_efetch
   owner: iuc
   revisions:
-  - 2180fafdfe60
+  - 4194e47b45d4
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu

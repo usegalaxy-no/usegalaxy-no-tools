@@ -1,4 +1,11 @@
 tools:
+- name: annotation_profiler
+  owner: devteam
+  revisions:
+  - 3b33da018e74
+  tool_panel_section_id: bxops
+  tool_panel_section_label: Operate on Genomic Intervals
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: basecoverage
   owner: devteam
   revisions:
