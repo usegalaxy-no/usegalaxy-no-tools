@@ -2,21 +2,21 @@ tools:
 - name: medaka_consensus_pipeline
   owner: iuc
   revisions:
-  - d915879a88bc
+  - 2c72b8c09a70
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: medaka_consensus
   owner: iuc
   revisions:
-  - fbf007713188
+  - eb1f4ba66dc6
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: medaka_variant_pipeline
   owner: iuc
   revisions:
-  - ea1833858055
+  - 1040a307be0c
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu

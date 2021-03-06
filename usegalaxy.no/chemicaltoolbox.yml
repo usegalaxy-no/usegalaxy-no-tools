@@ -247,7 +247,7 @@ tools:
 - name: enumerate_charges
   owner: bgruening
   revisions:
-  - 36360fa103d6
+  - bbbf5fb356dd
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -696,7 +696,7 @@ tools:
 - name: sdf_to_tab
   owner: bgruening
   revisions:
-  - 55553120df69
+  - 351fbd750a6d
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

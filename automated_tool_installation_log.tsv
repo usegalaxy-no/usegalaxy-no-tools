@@ -968,3 +968,6 @@ Update	49	27/02/21 15:06:31	medaka_variant_pipeline	False	Installed	iuc	1040a307
 Update	49	27/02/21 15:07:09	ncbi_eutils_efetch	False	Installed	iuc	4194e47b45d4	4194e47b45d4				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	49	27/02/21 15:07:52	scpipe	False	Installed	iuc	a3b3ec00bf8f	a3b3ec00bf8f				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	49	27/02/21 15:08:29	split_file_on_column	False	Installed	bgruening	37a53100b67e	37a53100b67e				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	50	06/03/21 14:41:52	gfa_to_fa	False	Installed	iuc	e33c82b63727	e33c82b63727				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	50	06/03/21 14:42:44	multiqc	False	Installed	iuc	75c93c70d094	75c93c70d094				Quality Control	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	50	06/03/21 14:43:33	staramr	False	Installed	nml	4b9a8031ab74	4b9a8031ab74				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
