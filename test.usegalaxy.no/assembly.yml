@@ -41,6 +41,13 @@ tools:
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: flye_cigene
+  owner: hien
+  revisions:
+  - a1a174d73c7c
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: flye
   owner: bgruening
   revisions:
@@ -69,6 +76,20 @@ tools:
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: lr_gapcloser
+  owner: hien
+  revisions:
+  - a6a717fd2d46
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: lrscaf
+  owner: hien
+  revisions:
+  - 2083bf6e6871
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: metaspades
   owner: nml
   revisions:
@@ -118,6 +139,13 @@ tools:
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: quickmerge
+  owner: hien
+  revisions:
+  - 18a422854059
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: racon
   owner: bgruening
   revisions:

@@ -971,3 +971,5 @@ Update	49	27/02/21 15:08:29	split_file_on_column	False	Installed	bgruening	37a53
 Update	50	06/03/21 14:41:52	gfa_to_fa	False	Installed	iuc	e33c82b63727	e33c82b63727				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	50	06/03/21 14:42:44	multiqc	False	Installed	iuc	75c93c70d094	75c93c70d094				Quality Control	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	50	06/03/21 14:43:33	staramr	False	Installed	nml	4b9a8031ab74	4b9a8031ab74				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	51	13/03/21 14:40:26	column_maker	False	Installed	devteam	02026300aa45	02026300aa45				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	51	13/03/21 14:41:14	diff	False	Installed	bgruening	156d0908e232	156d0908e232				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

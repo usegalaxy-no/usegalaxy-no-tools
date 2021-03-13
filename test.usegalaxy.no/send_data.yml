@@ -6,10 +6,3 @@ tools:
   tool_panel_section_id: send
   tool_panel_section_label: Send Data
   tool_shed_url: toolshed.g2.bx.psu.edu
-- name: ena_upload
-  owner: ieguinoa
-  revisions:
-  - 87de778e0630
-  tool_panel_section_id: send
-  tool_panel_section_label: Send Data
-  tool_shed_url: testtoolshed.g2.bx.psu.edu

@@ -7,6 +7,14 @@ tools:
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: blasr
+  owner: hien
+  revisions:
+  - 8d8223d9148b
+  - ead68dd19206
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: bowtie2
   owner: devteam
   revisions:
@@ -77,6 +85,13 @@ tools:
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: lastzsubwrapper
+  owner: hien
+  revisions:
+  - 0fe98267c32e
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: megablast_wrapper
   owner: devteam
   revisions:
