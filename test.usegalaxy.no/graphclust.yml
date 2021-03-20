@@ -79,8 +79,8 @@ tools:
 - name: infernal
   owner: bgruening
   revisions:
-  - 55bb96edfc07
   - c47a7c52ac4f
+  - 55bb96edfc07
   tool_panel_section_id: graphclust
   tool_panel_section_label: GraphClust
   tool_shed_url: toolshed.g2.bx.psu.edu

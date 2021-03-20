@@ -388,8 +388,8 @@ tools:
 - name: last
   owner: iuc
   revisions:
-  - bf30030e5265
   - 3de2195f32c0
+  - bf30030e5265
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

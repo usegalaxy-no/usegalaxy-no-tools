@@ -45,7 +45,14 @@ tools:
 - name: pileup_interval
   owner: devteam
   revisions:
-  - ef11139d4545
+  - 9c1c0b947e46
+  tool_panel_section_id: sam_bam
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: pileup_parser
+  owner: devteam
+  revisions:
+  - 85bedbea8a12
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -67,6 +74,13 @@ tools:
   owner: devteam
   revisions:
   - 75557c0908a9
+  tool_panel_section_id: sam_bam
+  tool_panel_section_label: SAM/BAM
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sam_bitwise_flag_filter
+  owner: devteam
+  revisions:
+  - 0b2424a404d9
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
