@@ -1,0 +1,7 @@
+tools:
+- name: sistr_cmd
+  owner: nml
+  revisions:
+  - 24a7a95867b0
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
