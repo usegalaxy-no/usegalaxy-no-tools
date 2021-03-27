@@ -1,0 +1,7 @@
+tools:
+- name: busco
+  owner: iuc
+  revisions:
+  - cf13a1e03e5b
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu

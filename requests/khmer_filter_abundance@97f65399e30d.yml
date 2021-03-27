@@ -1,0 +1,7 @@
+tools:
+- name: khmer_filter_abundance
+  owner: iuc
+  revisions:
+  - 97f65399e30d
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
