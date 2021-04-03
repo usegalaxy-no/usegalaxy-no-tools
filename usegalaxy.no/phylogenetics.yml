@@ -9,8 +9,8 @@ tools:
 - name: ete
   owner: earlhaminst
   revisions:
-  - 276e3ee68c37
   - 16e925bf567e
+  - 276e3ee68c37
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -157,8 +157,8 @@ tools:
 - name: treebest_best
   owner: earlhaminst
   revisions:
-  - b78b529f66db
   - 4f9e5110914b
+  - b78b529f66db
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
