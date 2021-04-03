@@ -1,0 +1,7 @@
+tools:
+- name: hicexplorer_hicinfo
+  owner: bgruening
+  revisions:
+  - 3a74a441b11f
+  tool_panel_section_label: HiCExplorer
+  tool_shed_url: toolshed.g2.bx.psu.edu

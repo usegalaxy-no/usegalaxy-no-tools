@@ -1,0 +1,7 @@
+tools:
+- name: hicexplorer_hicvalidatelocations
+  owner: bgruening
+  revisions:
+  - 662109a754b5
+  tool_panel_section_label: HiCExplorer
+  tool_shed_url: toolshed.g2.bx.psu.edu

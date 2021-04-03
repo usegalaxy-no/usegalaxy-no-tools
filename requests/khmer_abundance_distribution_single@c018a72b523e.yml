@@ -1,0 +1,7 @@
+tools:
+- name: khmer_abundance_distribution_single
+  owner: iuc
+  revisions:
+  - c018a72b523e
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

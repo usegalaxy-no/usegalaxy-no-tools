@@ -1,0 +1,7 @@
+tools:
+- name: trinity_align_and_estimate_abundance
+  owner: iuc
+  revisions:
+  - 893655fa55f9
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

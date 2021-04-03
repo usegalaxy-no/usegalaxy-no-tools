@@ -1,0 +1,7 @@
+tools:
+- name: khmer_filter_below_abundance_cutoff
+  owner: iuc
+  revisions:
+  - b469ab47b490
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

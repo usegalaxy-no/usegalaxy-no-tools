@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: metaphlan_hclust_heatmap
+  owner: iuc
+  revisions:
+  - 2e3056f02c60
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

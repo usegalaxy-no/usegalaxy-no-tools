@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: humann2_strain_profiler
+  owner: iuc
+  revisions:
+  - 50f98eb4854d
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

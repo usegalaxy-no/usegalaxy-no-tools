@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: trinity_gene_to_trans_map
+  owner: iuc
+  revisions:
+  - d80f0f1d6c9d
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
