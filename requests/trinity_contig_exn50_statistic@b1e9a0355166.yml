@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: trinity_contig_exn50_statistic
+  owner: iuc
+  revisions:
+  - b1e9a0355166
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

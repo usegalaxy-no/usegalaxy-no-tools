@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_gard
+  owner: iuc
+  revisions:
+  - 3b96e92e8ec3
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

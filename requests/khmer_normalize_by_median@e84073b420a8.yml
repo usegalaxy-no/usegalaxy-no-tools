@@ -1,0 +1,7 @@
+tools:
+- name: khmer_normalize_by_median
+  owner: iuc
+  revisions:
+  - e84073b420a8
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

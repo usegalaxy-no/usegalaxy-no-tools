@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: kallisto_quant
+  owner: iuc
+  revisions:
+  - 40985510cd98
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

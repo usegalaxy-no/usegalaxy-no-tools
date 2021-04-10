@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: trinity_super_transcripts
+  owner: iuc
+  revisions:
+  - 29472bde8854
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
