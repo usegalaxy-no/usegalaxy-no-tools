@@ -1,0 +1,7 @@
+tools:
+- name: khmer_extract_partitions
+  owner: iuc
+  revisions:
+  - 98b53d46e851
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

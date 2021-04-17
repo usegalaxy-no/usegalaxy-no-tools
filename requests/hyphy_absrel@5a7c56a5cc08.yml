@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_absrel
+  owner: iuc
+  revisions:
+  - 5a7c56a5cc08
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

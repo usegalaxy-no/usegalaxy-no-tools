@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_model_fit
+  owner: bgruening
+  revisions:
+  - 5dc03d8e137e
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

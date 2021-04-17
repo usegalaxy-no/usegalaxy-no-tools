@@ -1,0 +1,7 @@
+tools:
+- name: khmer_count_median
+  owner: iuc
+  revisions:
+  - 06d1d91c67e5
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: sucos_max_score
+  owner: bgruening
+  revisions:
+  - 9b48456a96fe
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu

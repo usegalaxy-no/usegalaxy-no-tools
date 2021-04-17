@@ -1,0 +1,7 @@
+tools:
+- name: sucos_docking_scoring
+  owner: bgruening
+  revisions:
+  - 4f1896782f7c
+  tool_panel_section_label: ChemicalToolBox
+  tool_shed_url: toolshed.g2.bx.psu.edu

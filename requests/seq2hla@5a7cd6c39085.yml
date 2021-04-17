@@ -1,0 +1,7 @@
+tools:
+- name: seq2hla
+  owner: iuc
+  revisions:
+  - 5a7cd6c39085
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu

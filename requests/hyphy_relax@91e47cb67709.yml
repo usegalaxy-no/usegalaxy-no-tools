@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_relax
+  owner: iuc
+  revisions:
+  - 91e47cb67709
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

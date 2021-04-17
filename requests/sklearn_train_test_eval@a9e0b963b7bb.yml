@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_train_test_eval
+  owner: bgruening
+  revisions:
+  - a9e0b963b7bb
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

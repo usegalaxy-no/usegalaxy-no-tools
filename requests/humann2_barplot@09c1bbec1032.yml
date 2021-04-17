@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: humann2_barplot
+  owner: iuc
+  revisions:
+  - 09c1bbec1032
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

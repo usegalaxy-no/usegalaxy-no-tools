@@ -1,0 +1,7 @@
+tools:
+- name: hicexplorer_hicdetectloops
+  owner: bgruening
+  revisions:
+  - c3f9037423bd
+  tool_panel_section_label: HiCExplorer
+  tool_shed_url: toolshed.g2.bx.psu.edu

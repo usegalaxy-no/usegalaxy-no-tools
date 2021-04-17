@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_data_preprocess
+  owner: bgruening
+  revisions:
+  - b75cae00f980
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

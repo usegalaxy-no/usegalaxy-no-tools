@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: keras_model_builder
+  owner: bgruening
+  revisions:
+  - e3b420d0b71a
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu
