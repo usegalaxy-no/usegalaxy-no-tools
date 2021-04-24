@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_fitted_model_eval
+  owner: bgruening
+  revisions:
+  - e00c1c9d206b
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

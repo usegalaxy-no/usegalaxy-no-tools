@@ -1,0 +1,7 @@
+tools:
+- name: chira_collapse
+  owner: iuc
+  revisions:
+  - 00187b27f5e5
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

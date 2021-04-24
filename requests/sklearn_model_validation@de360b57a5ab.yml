@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_model_validation
+  owner: bgruening
+  revisions:
+  - de360b57a5ab
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

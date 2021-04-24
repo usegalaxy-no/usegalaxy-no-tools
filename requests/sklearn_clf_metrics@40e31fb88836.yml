@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_clf_metrics
+  owner: bgruening
+  revisions:
+  - 40e31fb88836
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_fubar
+  owner: iuc
+  revisions:
+  - '296409764676'
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

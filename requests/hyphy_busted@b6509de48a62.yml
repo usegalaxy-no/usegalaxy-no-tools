@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_busted
+  owner: iuc
+  revisions:
+  - b6509de48a62
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

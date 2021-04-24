@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_prime
+  owner: iuc
+  revisions:
+  - a61b2b6c7089
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

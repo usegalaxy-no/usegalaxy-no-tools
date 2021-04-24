@@ -1,0 +1,7 @@
+tools:
+- name: hyphy_sm19
+  owner: iuc
+  revisions:
+  - 6d529bf13e2e
+  tool_panel_section_label: Phylogenetics
+  tool_shed_url: toolshed.g2.bx.psu.edu

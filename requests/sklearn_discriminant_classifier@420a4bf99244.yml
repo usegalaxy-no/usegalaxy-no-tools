@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_discriminant_classifier
+  owner: bgruening
+  revisions:
+  - 420a4bf99244
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

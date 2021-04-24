@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: chira_quantify
+  owner: iuc
+  revisions:
+  - 8e3da3c5b851
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

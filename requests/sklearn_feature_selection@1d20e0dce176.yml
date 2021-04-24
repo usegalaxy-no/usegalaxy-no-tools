@@ -1,0 +1,7 @@
+tools:
+- name: sklearn_feature_selection
+  owner: bgruening
+  revisions:
+  - 1d20e0dce176
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

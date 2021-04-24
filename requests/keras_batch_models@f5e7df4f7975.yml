@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: keras_batch_models
+  owner: bgruening
+  revisions:
+  - f5e7df4f7975
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu
