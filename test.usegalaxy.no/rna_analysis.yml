@@ -2,7 +2,7 @@ tools:
 - name: alevin
   owner: bgruening
   revisions:
-  - 04b494623f8e
+  - ecb9ea6269ee
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -170,7 +170,7 @@ tools:
 - name: describe_samples
   owner: iuc
   revisions:
-  - 8bfbdb039d4e
+  - 6d6982a1d1d0
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -184,7 +184,7 @@ tools:
 - name: dexseq
   owner: iuc
   revisions:
-  - 9fd8b69e6e68
+  - 62adf13b86ea
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -317,14 +317,14 @@ tools:
 - name: kallisto_pseudo
   owner: iuc
   revisions:
-  - 5ae5c312d718
+  - 01247aaf0a10
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: kallisto_quant
   owner: iuc
   revisions:
-  - 60f888039fb2
+  - 40985510cd98
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -366,7 +366,7 @@ tools:
 - name: migmap
   owner: iuc
   revisions:
-  - 29ec7b3a458b
+  - 2c9f2a24f7a4
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -555,10 +555,10 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - 1a052c827e88
-  - daae0a118c36
   - 09846d5169fa
   - 2e6190c29c54
+  - daae0a118c36
+  - 1a052c827e88
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -691,77 +691,77 @@ tools:
 - name: trinity_abundance_estimates_to_matrix
   owner: iuc
   revisions:
-  - 59fff1388bc2
+  - 81a4697677e7
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_align_and_estimate_abundance
   owner: iuc
   revisions:
-  - 56162e446004
+  - 893655fa55f9
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_analyze_diff_expr
   owner: iuc
   revisions:
-  - 56ac80587187
+  - 4a816294c512
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_contig_exn50_statistic
   owner: iuc
   revisions:
-  - 62b05e565a45
+  - b1e9a0355166
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_define_clusters_by_cutting_tree
   owner: iuc
   revisions:
-  - 55292a66e7c1
+  - d40101d3a2af
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_filter_low_expr_transcripts
   owner: iuc
   revisions:
-  - 42c5172815f7
+  - 1007cdb58d91
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_gene_to_trans_map
   owner: iuc
   revisions:
-  - 297a1c03c702
+  - d80f0f1d6c9d
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_run_de_analysis
   owner: iuc
   revisions:
-  - 04936df18de3
+  - bbbb39ad9a7e
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_samples_qccheck
   owner: iuc
   revisions:
-  - 7377140e39f8
+  - d83aa367a381
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_super_transcripts
   owner: iuc
   revisions:
-  - 6f480aee5877
+  - 29472bde8854
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity
   owner: iuc
   revisions:
-  - d84caa5a98ad
+  - 26d5493b20b6
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

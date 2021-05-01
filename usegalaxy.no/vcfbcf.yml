@@ -52,7 +52,7 @@ tools:
 - name: snippy
   owner: iuc
   revisions:
-  - 82f2b6f20fa2
+  - fa016f1eea1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu

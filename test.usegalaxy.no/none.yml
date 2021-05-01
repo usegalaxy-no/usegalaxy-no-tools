@@ -1,11 +1,4 @@
 tools:
-- name: data_manager_build_kraken2_database
-  owner: iuc
-  revisions:
-  - 0eebe086fd58
-  tool_panel_section_id: None
-  tool_panel_section_label: None
-  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: data_manager_bwa_mem_index_builder
   owner: devteam
   revisions:
@@ -39,13 +32,6 @@ tools:
   owner: iuc
   revisions:
   - 83f07f40b200
-  tool_panel_section_id: None
-  tool_panel_section_label: None
-  tool_shed_url: toolshed.g2.bx.psu.edu
-- name: data_manager_snpeff
-  owner: iuc
-  revisions:
-  - def511e8e005
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu

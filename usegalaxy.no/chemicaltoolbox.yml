@@ -114,7 +114,7 @@ tools:
 - name: chembl
   owner: bgruening
   revisions:
-  - a43a00845834
+  - a446ea7e2bc1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -387,8 +387,8 @@ tools:
 - name: md_converter
   owner: chemteam
   revisions:
-  - d76bea4c85f3
   - 79e8ab8f1e81
+  - d76bea4c85f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -724,7 +724,7 @@ tools:
 - name: sucos_docking_scoring
   owner: bgruening
   revisions:
-  - fe318c648502
+  - 4f1896782f7c
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

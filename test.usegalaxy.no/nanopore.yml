@@ -121,7 +121,7 @@ tools:
 - name: porechop
   owner: iuc
   revisions:
-  - 93d623d9979c
+  - 5f76b20953e5
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -114,7 +114,7 @@ tools:
 - name: chembl
   owner: bgruening
   revisions:
-  - a43a00845834
+  - a446ea7e2bc1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -717,21 +717,21 @@ tools:
 - name: sucos_clustering
   owner: bgruening
   revisions:
-  - 12725d4b90f3
+  - b8725fec8c7b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sucos_docking_scoring
   owner: bgruening
   revisions:
-  - fe318c648502
+  - 4f1896782f7c
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sucos_max_score
   owner: bgruening
   revisions:
-  - 55ac04db36aa
+  - 9b48456a96fe
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

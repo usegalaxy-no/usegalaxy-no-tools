@@ -9,7 +9,7 @@ tools:
 - name: bax2bam
   owner: iuc
   revisions:
-  - ee356d7a5518
+  - 5bd67e012d54
   tool_panel_section_id: convert
   tool_panel_section_label: Convert Formats
   tool_shed_url: toolshed.g2.bx.psu.edu
