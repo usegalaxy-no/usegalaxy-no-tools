@@ -9,7 +9,7 @@ tools:
 - name: bio_hansel
   owner: iuc
   revisions:
-  - e3698ac146d7
+  - 4deefd708943
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
