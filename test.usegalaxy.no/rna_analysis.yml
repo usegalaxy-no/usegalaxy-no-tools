@@ -555,9 +555,9 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
+  - 1a052c827e88
   - 09846d5169fa
   - daae0a118c36
-  - 1a052c827e88
   - 2e6190c29c54
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -761,7 +761,7 @@ tools:
 - name: trinity
   owner: iuc
   revisions:
-  - 26d5493b20b6
+  - 5b60313a6ce7
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
