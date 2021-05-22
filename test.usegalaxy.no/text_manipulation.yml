@@ -212,8 +212,8 @@ tools:
 - name: text_processing
   owner: bgruening
   revisions:
-  - ddf54b12c295
   - 20344ce0c811
+  - ddf54b12c295
   - 74a8bef53a00
   - 9ff72e942410
   tool_panel_section_id: textutil

@@ -444,7 +444,7 @@ tools:
 - name: merge_metaphlan_tables
   owner: iuc
   revisions:
-  - 3f05bf162005
+  - 2e5ae05160e0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
