@@ -11,8 +11,8 @@ tools:
 - name: blasr
   owner: hien
   revisions:
-  - ead68dd19206
   - 8d8223d9148b
+  - ead68dd19206
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
@@ -110,7 +110,7 @@ tools:
 - name: minimap2
   owner: iuc
   revisions:
-  - f54f5baedfdd
+  - 037c6e54df11
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
