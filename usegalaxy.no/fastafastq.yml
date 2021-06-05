@@ -520,7 +520,7 @@ tools:
 - name: umi_tools_extract
   owner: iuc
   revisions:
-  - 6a675c3aa610
+  - 9fa7803d1c51
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
