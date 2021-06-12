@@ -380,7 +380,7 @@ tools:
 - name: goseq
   owner: iuc
   revisions:
-  - 9d1256d9ef0b
+  - ef2ad746b589
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -717,7 +717,7 @@ tools:
 - name: sucos_clustering
   owner: bgruening
   revisions:
-  - 12725d4b90f3
+  - b8725fec8c7b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -731,7 +731,7 @@ tools:
 - name: sucos_max_score
   owner: bgruening
   revisions:
-  - 55ac04db36aa
+  - 9b48456a96fe
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
