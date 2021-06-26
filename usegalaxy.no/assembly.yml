@@ -51,7 +51,7 @@ tools:
 - name: flye
   owner: bgruening
   revisions:
-  - de24438c9988
+  - 8d4f03b5fe9d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
