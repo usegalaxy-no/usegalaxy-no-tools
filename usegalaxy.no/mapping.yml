@@ -10,8 +10,8 @@ tools:
 - name: blasr
   owner: hien
   revisions:
-  - 8d8223d9148b
   - ead68dd19206
+  - 8d8223d9148b
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
@@ -116,7 +116,7 @@ tools:
 - name: rgrnastar
   owner: iuc
   revisions:
-  - c772497b2c32
+  - 44959aa06aeb
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
