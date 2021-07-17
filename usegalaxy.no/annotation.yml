@@ -2,8 +2,8 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
-  - c2ef298da409
   - b734db305578
+  - c2ef298da409
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -24,14 +24,14 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
-  - 6519ebe25019
+  - 7be22100e5e1
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: augustus
   owner: bgruening
   revisions:
-  - ca6d970d931c
+  - 09855551d713
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -59,7 +59,7 @@ tools:
 - name: busco
   owner: iuc
   revisions:
-  - cf13a1e03e5b
+  - 2dd755c1c6ff
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -256,7 +256,7 @@ tools:
 - name: maker
   owner: iuc
   revisions:
-  - 7bac6f5fcfa2
+  - 3c1a01127868
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -354,8 +354,8 @@ tools:
 - name: segmentation_fold
   owner: yhoogstrate
   revisions:
-  - 4d16cf9414cf
   - 09e921a25c68
+  - 4d16cf9414cf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

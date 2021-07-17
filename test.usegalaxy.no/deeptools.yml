@@ -2,7 +2,7 @@ tools:
 - name: bowtie2
   owner: devteam
   revisions:
-  - 09b2cdb7ace5
+  - a6d65b0c67af
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
   tool_shed_url: toolshed.g2.bx.psu.edu
