@@ -184,7 +184,7 @@ tools:
 - name: seqwish
   owner: iuc
   revisions:
-  - 189ae8d7e08e
+  - d90d8d79bca9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -233,9 +233,9 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
+  - 74aebe30fb52
   - 268d162b9c49
   - e8adfc4c0a6b
-  - 74aebe30fb52
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -263,10 +263,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 2e497a770bca
   - 2b3e65a4252f
-  - b04635ebfab0
+  - 2e497a770bca
   - 09d6806c609e
+  - b04635ebfab0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -280,7 +280,7 @@ tools:
 - name: tb_variant_filter
   owner: iuc
   revisions:
-  - 3b1e7c170b10
+  - 40f0591deda0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

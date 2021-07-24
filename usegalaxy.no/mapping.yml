@@ -60,7 +60,7 @@ tools:
 - name: hisat2
   owner: iuc
   revisions:
-  - 26371a1df031
+  - 6c19daec423d
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu

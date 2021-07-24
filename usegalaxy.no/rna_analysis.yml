@@ -324,14 +324,14 @@ tools:
 - name: kallisto_pseudo
   owner: iuc
   revisions:
-  - 01247aaf0a10
+  - 87c11c05d238
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: kallisto_quant
   owner: iuc
   revisions:
-  - 40985510cd98
+  - c971db6f0fe5
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -562,17 +562,17 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - 1a052c827e88
   - 09846d5169fa
   - daae0a118c36
   - 2e6190c29c54
+  - 1a052c827e88
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ruvseq
   owner: iuc
   revisions:
-  - fed9d0350d72
+  - d1f7fa5bb3cb
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -586,14 +586,14 @@ tools:
 - name: salmon
   owner: bgruening
   revisions:
-  - cc05793bb896
+  - 49121db48873
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: salmonquantmerge
   owner: bgruening
   revisions:
-  - cfb0849582e1
+  - 88c07fc4024c
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
