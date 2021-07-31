@@ -647,7 +647,7 @@ tools:
 - name: qed
   owner: bgruening
   revisions:
-  - fc45bf8b6e01
+  - 52a8d34dd08f
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
