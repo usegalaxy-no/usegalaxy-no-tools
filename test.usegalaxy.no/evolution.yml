@@ -9,7 +9,7 @@ tools:
 - name: iqtree
   owner: iuc
   revisions:
-  - f97743d52b87
+  - 524d31add34a
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
   tool_shed_url: toolshed.g2.bx.psu.edu
