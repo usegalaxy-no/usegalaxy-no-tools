@@ -9,7 +9,7 @@ tools:
 - name: artic_minion
   owner: iuc
   revisions:
-  - a346730e5552
+  - 7a7d7f30ddfc
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -270,10 +270,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 2b3e65a4252f
   - 2e497a770bca
-  - b04635ebfab0
   - 09d6806c609e
+  - 2b3e65a4252f
+  - b04635ebfab0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

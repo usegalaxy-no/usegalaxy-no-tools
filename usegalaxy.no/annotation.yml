@@ -2,8 +2,8 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
-  - b734db305578
   - c2ef298da409
+  - b734db305578
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -24,14 +24,14 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
-  - 7be22100e5e1
+  - dc027fa56d55
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: augustus
   owner: bgruening
   revisions:
-  - 09855551d713
+  - 28433faa6e42
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -73,8 +73,8 @@ tools:
 - name: dgidb_annotator
   owner: devteam
   revisions:
-  - 792f3cb0eff4
   - c5bb987015c5
+  - 792f3cb0eff4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -404,7 +404,7 @@ tools:
 - name: tbprofiler
   owner: iuc
   revisions:
-  - ba6f87115e13
+  - c6f7442355e9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

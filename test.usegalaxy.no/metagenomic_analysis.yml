@@ -525,6 +525,20 @@ tools:
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: rarefaction_analyzer
+  owner: nuc
+  revisions:
+  - f03b8d07cbd2
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: resistome_analyzer
+  owner: nuc
+  revisions:
+  - 7eff2bf159ae
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: samtools_flag_filter_1_2
   owner: brenninc
   revisions:
@@ -539,6 +553,13 @@ tools:
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: snpfinder
+  owner: nuc
+  revisions:
+  - 8bc0cbff417f
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: staramr
   owner: nml
   revisions:
@@ -598,8 +619,8 @@ tools:
 - name: vsearch
   owner: iuc
   revisions:
-  - b3c7199d8786
   - 9495df9dd6ef
+  - b3c7199d8786
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

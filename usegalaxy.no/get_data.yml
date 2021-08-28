@@ -128,7 +128,7 @@ tools:
 - name: ncbi_eutils_elink
   owner: iuc
   revisions:
-  - 5c42fe46188f
+  - 9b628ed09553
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -156,8 +156,8 @@ tools:
 - name: sra_tools
   owner: iuc
   revisions:
-  - f5ea3ce9b9b0
   - 69ebb7f46e45
+  - f5ea3ce9b9b0
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
