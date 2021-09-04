@@ -73,7 +73,7 @@ tools:
 - name: moabs
   owner: iuc
   revisions:
-  - 214874e24cd6
+  - 8c8cc81b34cd
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
   tool_shed_url: toolshed.g2.bx.psu.edu

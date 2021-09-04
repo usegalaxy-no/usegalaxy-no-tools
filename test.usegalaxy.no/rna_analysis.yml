@@ -226,7 +226,7 @@ tools:
 - name: featurecounts
   owner: iuc
   revisions:
-  - ce44c6f2ba38
+  - 7db9d3ea71c9
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -555,10 +555,10 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - daae0a118c36
-  - 2e6190c29c54
   - 1a052c827e88
   - 09846d5169fa
+  - daae0a118c36
+  - 2e6190c29c54
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

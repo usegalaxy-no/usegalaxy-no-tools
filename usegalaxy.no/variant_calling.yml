@@ -287,7 +287,7 @@ tools:
 - name: tb_variant_filter
   owner: iuc
   revisions:
-  - 40f0591deda0
+  - e7aff4a85df5
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

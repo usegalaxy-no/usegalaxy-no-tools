@@ -2218,3 +2218,23 @@ Update	75	28/08/21 15:21:39	sklearn_train_test_eval	False	Installed	bgruening	44
 Update	75	28/08/21 15:22:22	sklearn_train_test_split	False	Installed	bgruening	03611d7232f6	03611d7232f6				Machine Learning	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	75	28/08/21 15:23:01	sqlite_to_tabular	False	Installed	iuc	c29d2f80a066	c29d2f80a066				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	75	28/08/21 15:23:51	tbprofiler	False	Installed	iuc	c6f7442355e9	c6f7442355e9				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:41:39	autodock_vina_prepare_box	False	Installed	bgruening	8f766d9652a2	8f766d9652a2				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:42:36	bedtools	False	Installed	iuc	3e38c9b3214f	3e38c9b3214f				BED	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:44:50	fastqe	False	Installed	iuc	89d299153577	89d299153577				FASTQ Quality Control	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:45:36	featurecounts	False	Installed	iuc	7db9d3ea71c9	7db9d3ea71c9				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:46:33	racon	False	Installed	bgruening	cd06929b224b	cd06929b224b				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:47:36	sra_tools	False	Installed	iuc	83c7d564b128	83c7d564b128				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:48:32	stacks2_clonefilter	False	Installed	iuc	e345aadf914f	e345aadf914f				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:49:23	stacks2_cstacks	False	Installed	iuc	0345dbaaa79b	0345dbaaa79b				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:50:10	stacks2_denovomap	False	Installed	iuc	405a212b32ab	405a212b32ab				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:51:08	stacks2_gstacks	False	Installed	iuc	7370bb65bad4	7370bb65bad4				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:52:04	stacks2_kmerfilter	False	Installed	iuc	c9b77ced9a78	c9b77ced9a78				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:52:52	stacks2_populations	False	Installed	iuc	7b881f5f5ad5	7b881f5f5ad5				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:53:51	stacks2_procrad	False	Installed	iuc	9a171f9a450b	9a171f9a450b				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:54:42	stacks2_refmap	False	Installed	iuc	5e10f396979e	5e10f396979e				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:55:39	stacks2_shortreads	False	Installed	iuc	17d39bf0a63a	17d39bf0a63a				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:56:32	stacks2_sstacks	False	Installed	iuc	d9bf483266a1	d9bf483266a1				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:57:28	stacks2_tsv2bam	False	Installed	iuc	69842dd5aa48	69842dd5aa48				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:58:23	stacks2_ustacks	False	Installed	iuc	8a35a3bc6752	8a35a3bc6752				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 14:59:17	tb_variant_filter	False	Installed	iuc	e7aff4a85df5	e7aff4a85df5				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	76	04/09/21 15:00:06	vcfsort	False	Installed	devteam	dd44c3f416c3	dd44c3f416c3				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
