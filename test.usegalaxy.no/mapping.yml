@@ -2,8 +2,8 @@ tools:
 - name: bismark
   owner: bgruening
   revisions:
-  - 9d02cd7883ad
   - ff6ee551b153
+  - 9d02cd7883ad
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -116,7 +116,7 @@ tools:
 - name: rgrnastar
   owner: iuc
   revisions:
-  - 44959aa06aeb
+  - 4074fc1940e2
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu

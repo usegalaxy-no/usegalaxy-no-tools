@@ -128,14 +128,14 @@ tools:
 - name: scater_create_qcmetric_ready_sce
   owner: iuc
   revisions:
-  - fd808de478b1
+  - b834074a9aff
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: scater_filter
   owner: iuc
   revisions:
-  - b7ea9f09c02f
+  - 7a365ec81b52
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -149,7 +149,7 @@ tools:
 - name: scater_plot_dist_scatter
   owner: iuc
   revisions:
-  - 2e41b35b5bdd
+  - 81e5bdff4853
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -163,14 +163,14 @@ tools:
 - name: scater_plot_pca
   owner: iuc
   revisions:
-  - 46fc6751d746
+  - 9e5c0bb18d08
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: scater_plot_tsne
   owner: iuc
   revisions:
-  - a30f4bfe8f01
+  - 2b09ca1c5e41
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
