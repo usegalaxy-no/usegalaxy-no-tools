@@ -1,8 +1,29 @@
 tools:
+- name: cd_hit
+  owner: iuc
+  revisions:
+  - e0da3400ac2f
+  tool_panel_section_id: other_tools
+  tool_panel_section_label: Other Tools
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: dnaclust
+  owner: john-mccallum
+  revisions:
+  - 0b4f4d41b47b
+  tool_panel_section_id: other_tools
+  tool_panel_section_label: Other Tools
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: extract_genomic_dna
   owner: iuc
   revisions:
   - 5cc8e93ee98f
+  tool_panel_section_id: other_tools
+  tool_panel_section_label: Other Tools
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: mcl
+  owner: brinkmanlab
+  revisions:
+  - 60609b076830
   tool_panel_section_id: other_tools
   tool_panel_section_label: Other Tools
   tool_shed_url: toolshed.g2.bx.psu.edu

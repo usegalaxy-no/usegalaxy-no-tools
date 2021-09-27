@@ -2,8 +2,7 @@ tools:
 - name: bandage
   owner: iuc
   revisions:
-  - b2860df42e16
-  - 94fe43e75ddc
+  - d8b1027d6ce0
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -2,7 +2,7 @@ tools:
 - name: abyss
   owner: iuc
   revisions:
-  - fa5259cc561b
+  - 0e93176640ac
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -93,7 +93,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
-  - ce02f513e598
+  - 3ca2d2a9068c
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -107,7 +107,7 @@ tools:
 - name: minia
   owner: iuc
   revisions:
-  - 0a66ef6dacb7
+  - b2dc51639ad5
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -149,7 +149,7 @@ tools:
 - name: racon
   owner: bgruening
   revisions:
-  - cd06929b224b
+  - 7c847ec300b8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -185,6 +185,13 @@ tools:
   owner: crs4
   revisions:
   - f20db7280f89
+  tool_panel_section_id: assembly
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: trinity
+  owner: iuc
+  revisions:
+  - 48636f857c4b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

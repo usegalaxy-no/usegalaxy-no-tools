@@ -121,7 +121,7 @@ tools:
 - name: chemfp
   owner: bgruening
   revisions:
-  - 92c7cdc243e8
+  - 3b14765c22ee
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -703,7 +703,7 @@ tools:
 - name: simsearch
   owner: bgruening
   revisions:
-  - 9f1a8df0b437
+  - 425469deb136
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

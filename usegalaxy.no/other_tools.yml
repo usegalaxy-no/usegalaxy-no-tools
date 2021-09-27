@@ -6,3 +6,10 @@ tools:
   tool_panel_section_id: other_tools
   tool_panel_section_label: Other Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: mcl
+  owner: brinkmanlab
+  revisions:
+  - 60609b076830
+  tool_panel_section_id: other_tools
+  tool_panel_section_label: Other Tools
+  tool_shed_url: toolshed.g2.bx.psu.edu

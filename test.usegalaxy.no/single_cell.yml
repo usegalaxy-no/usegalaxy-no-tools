@@ -16,7 +16,7 @@ tools:
 - name: anndata_import
   owner: iuc
   revisions:
-  - ae1e5d9d8972
+  - '499059586799'
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -100,7 +100,7 @@ tools:
 - name: scanpy_inspect
   owner: iuc
   revisions:
-  - e4c99c83dfbf
+  - c5d3684f7c4c
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu

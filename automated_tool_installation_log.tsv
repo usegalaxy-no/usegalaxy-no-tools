@@ -2261,3 +2261,50 @@ Update	77	11/09/21 14:55:28	trinity_gene_to_trans_map	False	Installed	iuc	318fd1
 Update	77	11/09/21 14:56:09	trinity_run_de_analysis	False	Installed	iuc	3bff7c3cf63c	3bff7c3cf63c				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	77	11/09/21 14:56:50	trinity_samples_qccheck	False	Installed	iuc	b58468eb4e64	b58468eb4e64				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	77	11/09/21 14:57:32	trinity_super_transcripts	False	Installed	iuc	18a069ea4b96	18a069ea4b96				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:15:00	abyss	False	Installed	iuc	0e93176640ac	0e93176640ac				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:15:44	anndata_import	False	Installed	iuc	499059586799	499059586799				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:16:46	bandage	False	Installed	iuc	d8b1027d6ce0	d8b1027d6ce0				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:17:40	chemfp	False	Installed	bgruening	3b14765c22ee	3b14765c22ee				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:18:22	chira_collapse	False	Installed	iuc	75342b9ef628	75342b9ef628				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:19:06	chira_extract	False	Installed	iuc	e7ee3aadf1a5	e7ee3aadf1a5				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:19:49	chira_map	False	Installed	iuc	95ddee768b61	95ddee768b61				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:20:29	chira_merge	False	Installed	iuc	6492560fe1b4	6492560fe1b4				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:21:12	chira_quantify	False	Installed	iuc	06ac35533793	06ac35533793				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:23:51	fastqc	False	Installed	devteam	3d0c7bdf12f5	3d0c7bdf12f5				FASTQ Quality Control	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:24:41	feelnc	False	Installed	iuc	67af24676bd6	67af24676bd6				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:25:40	gffread	False	Installed	devteam	154d00cbbf2d	154d00cbbf2d				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:26:51	infernal	False	Installed	bgruening	c9e29ac5d099	c9e29ac5d099				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:27:40	medaka_consensus	False	Installed	iuc	fa11aa8103b2	fa11aa8103b2				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:28:25	medaka_consensus_pipeline	False	Installed	iuc	0e9e7fcdd543	0e9e7fcdd543				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:29:16	medaka_variant	False	Installed	iuc	0f5f4a208660	0f5f4a208660				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:30:02	medaka_variant_pipeline	False	Installed	iuc	597407d61386	597407d61386				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:31:00	merge_metaphlan_tables	False	Installed	iuc	cd298ff669fd	cd298ff669fd				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:31:46	metaspades	False	Installed	nml	3ca2d2a9068c	3ca2d2a9068c				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:32:44	minia	False	Installed	iuc	b2dc51639ad5	b2dc51639ad5				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:33:35	natural_product_likeness	False	Installed	bgruening	6052dd3fa475	6052dd3fa475				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:34:27	padel	False	Installed	bgruening	a84bcb007b09	a84bcb007b09				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:35:23	proteinortho	False	Installed	iuc	26abc7846e6f	26abc7846e6f				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:36:16	proteinortho_grab_proteins	False	Installed	iuc	85ffb2cc6b64	85ffb2cc6b64				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:37:14	proteinortho_summary	False	Installed	iuc	c3f58c2eee1e	c3f58c2eee1e				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:38:13	racon	False	Installed	bgruening	7c847ec300b8	7c847ec300b8				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:39:02	rnaspades	False	Installed	iuc	16e0eb91072f	16e0eb91072f				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:39:50	roary	False	Installed	iuc	e88a7de55d6e	e88a7de55d6e				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:40:45	samtools_mpileup	False	Installed	devteam	8da515fbc1bf	8da515fbc1bf				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:41:33	scanpy_cluster_reduce_dimension	False	Installed	iuc	aaa5da8e73a9	aaa5da8e73a9				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:42:22	scanpy_filter	False	Installed	iuc	b409c2486353	b409c2486353				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:43:11	scanpy_inspect	False	Installed	iuc	c5d3684f7c4c	c5d3684f7c4c				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:44:01	scanpy_normalize	False	Installed	iuc	ab55fe8030b6	ab55fe8030b6				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:44:53	scanpy_plot	False	Installed	iuc	aa0c474463c2	aa0c474463c2				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:45:41	scanpy_remove_confounders	False	Installed	iuc	bf2017df9837	bf2017df9837				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:46:40	seqwish	False	Installed	iuc	ca1fb032116d	ca1fb032116d				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:47:33	simsearch	False	Installed	bgruening	425469deb136	425469deb136				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:48:27	slamdunk	False	Installed	iuc	5a26589d95ad	5a26589d95ad				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:49:16	snpsift	False	Installed	iuc	5fab4f81391d	5fab4f81391d				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:50:10	spades	False	Installed	nml	b7829778729f	b7829778729f				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:51:12	stringtie	False	Installed	iuc	258d696dbd7e	258d696dbd7e				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:52:11	tximport	False	Installed	iuc	2c338211927c	2c338211927c				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:53:16	umi_tools_count	False	Installed	iuc	e654095ab143	e654095ab143				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:54:17	umi_tools_dedup	False	Installed	iuc	4098ab380097	4098ab380097				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:55:18	umi_tools_extract	False	Installed	iuc	27ac32a22ad2	27ac32a22ad2				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:56:18	umi_tools_group	False	Installed	iuc	cf25b50eff0a	cf25b50eff0a				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	80	27/09/21 20:57:18	umi_tools_whitelist	False	Installed	iuc	345bdf4546fd	345bdf4546fd				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

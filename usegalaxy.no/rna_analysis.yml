@@ -37,35 +37,35 @@ tools:
 - name: chira_collapse
   owner: iuc
   revisions:
-  - 00187b27f5e5
+  - 75342b9ef628
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_extract
   owner: iuc
   revisions:
-  - 8b2c1d1556ac
+  - e7ee3aadf1a5
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_map
   owner: iuc
   revisions:
-  - e7a9859e0040
+  - 95ddee768b61
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_merge
   owner: iuc
   revisions:
-  - b8cb089a8e59
+  - 6492560fe1b4
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_quantify
   owner: iuc
   revisions:
-  - 8e3da3c5b851
+  - 7fb3fc24be0e
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -240,7 +240,7 @@ tools:
 - name: feelnc
   owner: iuc
   revisions:
-  - 095162ba8e90
+  - 67af24676bd6
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -310,7 +310,7 @@ tools:
 - name: infernal
   owner: bgruening
   revisions:
-  - 477d829d3250
+  - c9e29ac5d099
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -564,8 +564,8 @@ tools:
   revisions:
   - 09846d5169fa
   - daae0a118c36
-  - 1a052c827e88
   - 2e6190c29c54
+  - 1a052c827e88
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -628,7 +628,7 @@ tools:
 - name: slamdunk
   owner: iuc
   revisions:
-  - 141f65f7c7c8
+  - 5a26589d95ad
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -656,7 +656,7 @@ tools:
 - name: stringtie
   owner: iuc
   revisions:
-  - 1ebd14235b92
+  - 258d696dbd7e
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -765,13 +765,6 @@ tools:
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
-- name: trinity
-  owner: iuc
-  revisions:
-  - 48636f857c4b
-  tool_panel_section_id: rna_analysis
-  tool_panel_section_label: RNA Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinotate
   owner: iuc
   revisions:
@@ -782,7 +775,7 @@ tools:
 - name: tximport
   owner: iuc
   revisions:
-  - 206a71a69161
+  - 2c338211927c
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
