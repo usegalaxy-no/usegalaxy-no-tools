@@ -2328,3 +2328,28 @@ Update	81	02/10/21 14:53:30	samtools_sort	False	Installed	devteam	6c2c1836728b	6
 Update	81	02/10/21 14:54:17	samtools_split	False	Installed	devteam	5d9ae78f34d3	5d9ae78f34d3				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	81	02/10/21 14:55:10	samtools_stats	False	Installed	devteam	e28839a4b932	e28839a4b932				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	81	02/10/21 14:55:59	samtools_view	False	Installed	iuc	350bbc5c2ffd	350bbc5c2ffd				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:39:13	artic_minion	False	Installed	iuc	f212134e204c	f212134e204c				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:41:25	gatk4_mutect2	False	Installed	iuc	53ce8be43212	53ce8be43212				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:42:04	hyphy_absrel	False	Installed	iuc	26de3a7b1cb9	26de3a7b1cb9				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:42:45	hyphy_bgm	False	Installed	iuc	a8ea0db2c606	a8ea0db2c606				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:43:26	hyphy_busted	False	Installed	iuc	d723b65a4291	d723b65a4291				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:44:07	hyphy_fade	False	Installed	iuc	96817f0fd28b	96817f0fd28b				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:44:46	hyphy_fel	False	Installed	iuc	2b1c3e81add3	2b1c3e81add3				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:45:28	hyphy_fubar	False	Installed	iuc	099fc3ec12d2	099fc3ec12d2				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:46:09	hyphy_gard	False	Installed	iuc	45d39a499816	45d39a499816				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:46:50	hyphy_meme	False	Installed	iuc	45a2366d777e	45a2366d777e				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:47:30	hyphy_prime	False	Installed	iuc	b044a346c00d	b044a346c00d				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:48:12	hyphy_relax	False	Installed	iuc	3415a580926d	3415a580926d				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:48:52	hyphy_slac	False	Installed	iuc	c010cbc8ff3a	c010cbc8ff3a				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:49:33	hyphy_sm19	False	Installed	iuc	23b041c0d7d2	23b041c0d7d2				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:50:23	minimap2	False	Installed	iuc	6b1e195506a3	6b1e195506a3				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:51:04	ncbi_eutils_ecitmatch	False	Installed	iuc	554c807c6503	554c807c6503				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:51:43	ncbi_eutils_efetch	False	Installed	iuc	796d694b41dc	796d694b41dc				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:52:23	ncbi_eutils_egquery	False	Installed	iuc	fa46c83fd82a	fa46c83fd82a				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:53:03	ncbi_eutils_einfo	False	Installed	iuc	d4c801a0a1d9	d4c801a0a1d9				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:53:41	ncbi_eutils_elink	False	Installed	iuc	e4f8623b8b9b	e4f8623b8b9b				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:54:20	ncbi_eutils_epost	False	Installed	iuc	a67115800e09	a67115800e09				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:54:59	ncbi_eutils_esearch	False	Installed	iuc	a0275c22442f	a0275c22442f				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:55:37	ncbi_eutils_esummary	False	Installed	iuc	a4c38f10eec9	a4c38f10eec9				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:56:25	snp_dists	False	Installed	iuc	f78492521996	f78492521996				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	82	09/10/21 14:57:15	trim_galore	False	Installed	bgruening	cd7e644cae1d	cd7e644cae1d				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

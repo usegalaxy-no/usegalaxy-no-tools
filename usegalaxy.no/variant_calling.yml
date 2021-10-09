@@ -9,7 +9,7 @@ tools:
 - name: artic_minion
   owner: iuc
   revisions:
-  - 7a7d7f30ddfc
+  - f212134e204c
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -114,7 +114,7 @@ tools:
 - name: gatk4_mutect2
   owner: iuc
   revisions:
-  - 1cea23583655
+  - 53ce8be43212
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -205,7 +205,7 @@ tools:
 - name: snp_dists
   owner: iuc
   revisions:
-  - 1959cc43b414
+  - f78492521996
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -240,9 +240,9 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - e8adfc4c0a6b
-  - 268d162b9c49
   - 74aebe30fb52
+  - 268d162b9c49
+  - e8adfc4c0a6b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -270,9 +270,9 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 09d6806c609e
+  - 5fab4f81391d
   - 2b3e65a4252f
-  - 2e497a770bca
+  - 09d6806c609e
   - b04635ebfab0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

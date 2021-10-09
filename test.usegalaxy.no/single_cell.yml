@@ -86,14 +86,14 @@ tools:
 - name: scanpy_cluster_reduce_dimension
   owner: iuc
   revisions:
-  - 3e4e1cf73d98
+  - aaa5da8e73a9
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: scanpy_filter
   owner: iuc
   revisions:
-  - 5511647110ff
+  - b409c2486353
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -107,21 +107,21 @@ tools:
 - name: scanpy_normalize
   owner: iuc
   revisions:
-  - 51d945eab1e1
+  - ab55fe8030b6
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: scanpy_plot
   owner: iuc
   revisions:
-  - 9a169729c9f9
+  - aa0c474463c2
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: scanpy_remove_confounders
   owner: iuc
   revisions:
-  - c2ef03559dc6
+  - bf2017df9837
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
