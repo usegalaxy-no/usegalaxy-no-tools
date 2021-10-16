@@ -30,7 +30,7 @@ tools:
 - name: bcftools_cnv
   owner: iuc
   revisions:
-  - b2d1b7dda2b7
+  - 4891338c6c54
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -44,7 +44,7 @@ tools:
 - name: bcftools_consensus
   owner: iuc
   revisions:
-  - d6dc477167f8
+  - 92182c270ce4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -233,8 +233,6 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - 74aebe30fb52
-  - 268d162b9c49
   - e8adfc4c0a6b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -263,10 +261,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - b04635ebfab0
-  - 09d6806c609e
   - 2b3e65a4252f
   - 5fab4f81391d
+  - 09d6806c609e
+  - b04635ebfab0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

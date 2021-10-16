@@ -45,6 +45,14 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
+  - 268d162b9c49
+  - 74aebe30fb52
+  tool_panel_section_id: none
+  tool_panel_section_label: None
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: snpeff
+  owner: iuc
+  revisions:
   - e8adfc4c0a6b
   tool_panel_section_id: None
   tool_panel_section_label: None

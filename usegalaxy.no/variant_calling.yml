@@ -23,63 +23,63 @@ tools:
 - name: bcftools_call
   owner: iuc
   revisions:
-  - 072f606e2e69
+  - 912a8ff07fc9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_cnv
   owner: iuc
   revisions:
-  - 01d6b7d6365e
+  - 4891338c6c54
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_concat
   owner: iuc
   revisions:
-  - d40d4bf05718
+  - 5ee777f9db23
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_consensus
   owner: iuc
   revisions:
-  - d6dc477167f8
+  - 92182c270ce4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_csq
   owner: iuc
   revisions:
-  - fdd127bd4a32
+  - 8899a6d50699
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_merge
   owner: iuc
   revisions:
-  - e03f2f3ac3a9
+  - 3e0e55c628b8
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_norm
   owner: iuc
   revisions:
-  - c077f71d351f
+  - ff9e769ccd6c
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_plugin_color_chrs
   owner: iuc
   revisions:
-  - c39113e2ae34
+  - ebcd8649c621
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_plugin_frameshifts
   owner: iuc
   revisions:
-  - eb22990a2be9
+  - c0b17fc737d4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -240,9 +240,9 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - 74aebe30fb52
-  - 268d162b9c49
   - e8adfc4c0a6b
+  - cfcf33df7fc0
+  - 268d162b9c49
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -270,10 +270,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 5fab4f81391d
   - 2b3e65a4252f
-  - 09d6806c609e
+  - 5fab4f81391d
   - b04635ebfab0
+  - 09d6806c609e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

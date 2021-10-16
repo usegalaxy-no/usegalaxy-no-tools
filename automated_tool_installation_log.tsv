@@ -2353,3 +2353,18 @@ Update	82	09/10/21 14:54:59	ncbi_eutils_esearch	False	Installed	iuc	a0275c22442f
 Update	82	09/10/21 14:55:37	ncbi_eutils_esummary	False	Installed	iuc	a4c38f10eec9	a4c38f10eec9				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	82	09/10/21 14:56:25	snp_dists	False	Installed	iuc	f78492521996	f78492521996				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	82	09/10/21 14:57:15	trim_galore	False	Installed	bgruening	cd7e644cae1d	cd7e644cae1d				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:38:12	bcftools_call	False	Installed	iuc	912a8ff07fc9	912a8ff07fc9				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:39:05	bcftools_cnv	False	Installed	iuc	4891338c6c54	4891338c6c54				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:40:22	bcftools_concat	False	Installed	iuc	5ee777f9db23	5ee777f9db23				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:41:06	bcftools_consensus	False	Installed	iuc	92182c270ce4	92182c270ce4				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:41:49	bcftools_csq	False	Installed	iuc	8899a6d50699	8899a6d50699				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:42:33	bcftools_merge	False	Installed	iuc	3e0e55c628b8	3e0e55c628b8				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:43:18	bcftools_norm	False	Installed	iuc	ff9e769ccd6c	ff9e769ccd6c				VCF/BCF	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:43:58	bcftools_plugin_color_chrs	False	Installed	iuc	ebcd8649c621	ebcd8649c621				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:44:40	bcftools_plugin_frameshifts	False	Installed	iuc	c0b17fc737d4	c0b17fc737d4				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:45:30	circos	False	Installed	iuc	7f13dc906cb9	7f13dc906cb9				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:47:27	gff3_rebase	False	Installed	iuc	f7ad5e69aa60	f7ad5e69aa60				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:48:17	progressivemauve	False	Installed	iuc	4d869208bd52	4d869208bd52				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:49:08	samtools_view	False	Installed	iuc	df20f1fd453f	df20f1fd453f				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:49:50	seqtk	False	Installed	iuc	3da72230c066	3da72230c066				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	83	16/10/21 14:50:37	snpeff	False	Installed	iuc	cfcf33df7fc0	cfcf33df7fc0				None	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
