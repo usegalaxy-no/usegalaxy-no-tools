@@ -555,10 +555,10 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - 2e6190c29c54
-  - daae0a118c36
-  - 1a052c827e88
   - 09846d5169fa
+  - daae0a118c36
+  - 2e6190c29c54
+  - 1a052c827e88
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -614,7 +614,7 @@ tools:
 - name: seurat
   owner: iuc
   revisions:
-  - 828324f3292f
+  - c4db6ec33fec
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -684,7 +684,7 @@ tools:
 - name: transdecoder
   owner: iuc
   revisions:
-  - d0d4cef4f967
+  - ffd1300599a1
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

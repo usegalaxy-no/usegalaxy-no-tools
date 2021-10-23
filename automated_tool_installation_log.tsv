@@ -2368,3 +2368,9 @@ Update	83	16/10/21 14:48:17	progressivemauve	False	Installed	iuc	4d869208bd52	4d
 Update	83	16/10/21 14:49:08	samtools_view	False	Installed	iuc	df20f1fd453f	df20f1fd453f				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	83	16/10/21 14:49:50	seqtk	False	Installed	iuc	3da72230c066	3da72230c066				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	83	16/10/21 14:50:37	snpeff	False	Installed	iuc	cfcf33df7fc0	cfcf33df7fc0				None	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	84	23/10/21 14:44:12	abyss	False	Installed	iuc	841084c5fc46	841084c5fc46				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	84	23/10/21 14:47:08	metaeuk_easy_predict	False	Installed	iuc	be6bbdeafcb8	be6bbdeafcb8				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	84	23/10/21 14:48:16	repeat_masker	False	Installed	bgruening	3f987772e283	3f987772e283				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	84	23/10/21 14:49:12	rnaspades	False	Installed	iuc	1035adb112c0	1035adb112c0				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	84	23/10/21 14:50:09	seurat	False	Installed	iuc	c4db6ec33fec	c4db6ec33fec				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	84	23/10/21 14:51:04	transdecoder	False	Installed	iuc	ffd1300599a1	ffd1300599a1				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

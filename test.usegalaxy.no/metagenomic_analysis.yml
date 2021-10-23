@@ -366,8 +366,8 @@ tools:
 - name: kraken_report
   owner: devteam
   revisions:
-  - 6c09bed3444f
   - 1902d3de4a4f
+  - 6c09bed3444f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -458,7 +458,7 @@ tools:
 - name: metaeuk_easy_predict
   owner: iuc
   revisions:
-  - f91548912113
+  - be6bbdeafcb8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
