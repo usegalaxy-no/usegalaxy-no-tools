@@ -93,28 +93,28 @@ tools:
 - name: ont_fast5_api_compress_fast5
   owner: iuc
   revisions:
-  - 52da1e2c82d3
+  - 82c6009bc120
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ont_fast5_api_fast5_subset
   owner: iuc
   revisions:
-  - 33a0ff1bb7df
+  - 0defe443ea04
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ont_fast5_api_multi_to_single_fast5
   owner: iuc
   revisions:
-  - 68fc6a9c05df
+  - f98c015cebd8
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ont_fast5_api_single_to_multi_fast5
   owner: iuc
   revisions:
-  - ea77d69db382
+  - 435344af6dc9
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu

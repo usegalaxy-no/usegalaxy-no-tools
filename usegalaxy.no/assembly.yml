@@ -114,7 +114,7 @@ tools:
 - name: miniasm
   owner: iuc
   revisions:
-  - a7b889b90140
+  - 80d1250bd5fd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

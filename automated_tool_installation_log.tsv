@@ -2374,3 +2374,19 @@ Update	84	23/10/21 14:48:16	repeat_masker	False	Installed	bgruening	3f987772e283
 Update	84	23/10/21 14:49:12	rnaspades	False	Installed	iuc	1035adb112c0	1035adb112c0				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	84	23/10/21 14:50:09	seurat	False	Installed	iuc	c4db6ec33fec	c4db6ec33fec				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	84	23/10/21 14:51:04	transdecoder	False	Installed	iuc	ffd1300599a1	ffd1300599a1				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:39:22	biom_convert	False	Installed	iuc	54ccb7e1f49a	54ccb7e1f49a				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:41:52	ggplot2_heatmap	False	Installed	iuc	391a4cc45fea	391a4cc45fea				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:42:36	ggplot2_histogram	False	Installed	iuc	398e5104f8a2	398e5104f8a2				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:43:19	ggplot2_pca	False	Installed	iuc	7e616a1bdb07	7e616a1bdb07				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:43:59	ggplot2_point	False	Installed	iuc	e3a675da7fd0	e3a675da7fd0				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:44:39	ggplot2_violin	False	Installed	iuc	dfd5d981b5a4	dfd5d981b5a4				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:45:32	miniasm	False	Installed	iuc	80d1250bd5fd	80d1250bd5fd				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:46:21	ont_fast5_api_compress_fast5	False	Installed	iuc	82c6009bc120	82c6009bc120				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:47:08	ont_fast5_api_fast5_subset	False	Installed	iuc	0defe443ea04	0defe443ea04				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:47:54	ont_fast5_api_multi_to_single_fast5	False	Installed	iuc	f98c015cebd8	f98c015cebd8				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:48:43	ont_fast5_api_single_to_multi_fast5	False	Installed	iuc	435344af6dc9	435344af6dc9				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:49:36	umi_tools_count	False	Installed	iuc	24013bf85a6f	24013bf85a6f				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:50:33	umi_tools_dedup	False	Installed	iuc	aa9a4233c641	aa9a4233c641				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:51:19	umi_tools_extract	False	Installed	iuc	7accf7407811	7accf7407811				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:52:14	umi_tools_group	False	Installed	iuc	1263189f6204	1263189f6204				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	85	30/10/21 14:53:13	umi_tools_whitelist	False	Installed	iuc	81bebc3027fc	81bebc3027fc				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

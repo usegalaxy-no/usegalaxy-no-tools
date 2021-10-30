@@ -499,35 +499,35 @@ tools:
 - name: umi_tools_count
   owner: iuc
   revisions:
-  - e654095ab143
+  - 24013bf85a6f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: umi_tools_dedup
   owner: iuc
   revisions:
-  - 4098ab380097
+  - aa9a4233c641
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: umi_tools_extract
   owner: iuc
   revisions:
-  - 27ac32a22ad2
+  - 7accf7407811
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: umi_tools_group
   owner: iuc
   revisions:
-  - cf25b50eff0a
+  - 1263189f6204
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: umi_tools_whitelist
   owner: iuc
   revisions:
-  - 345bdf4546fd
+  - 81bebc3027fc
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
