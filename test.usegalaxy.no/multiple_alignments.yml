@@ -1,4 +1,11 @@
 tools:
+- name: cd_hit
+  owner: iuc
+  revisions:
+  - 7807800a3d03
+  tool_panel_section_id: multiple_alignments
+  tool_panel_section_label: Multiple Alignments
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: cdhit
   owner: bebatut
   revisions:

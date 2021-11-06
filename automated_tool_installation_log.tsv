@@ -2390,3 +2390,9 @@ Update	85	30/10/21 14:50:33	umi_tools_dedup	False	Installed	iuc	aa9a4233c641	aa9
 Update	85	30/10/21 14:51:19	umi_tools_extract	False	Installed	iuc	7accf7407811	7accf7407811				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	85	30/10/21 14:52:14	umi_tools_group	False	Installed	iuc	1263189f6204	1263189f6204				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	85	30/10/21 14:53:13	umi_tools_whitelist	False	Installed	iuc	81bebc3027fc	81bebc3027fc				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	86	06/11/21 14:38:51	bedtools	False	Installed	iuc	7ab85ac5f64b	7ab85ac5f64b				BED	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	86	06/11/21 14:39:43	busco	False	Installed	iuc	46ae58b1d792	46ae58b1d792				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	86	06/11/21 14:40:36	canu	False	Installed	bgruening	86f150c8019d	86f150c8019d				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	86	06/11/21 14:41:30	cd_hit	False	Installed	iuc	7807800a3d03	7807800a3d03				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	86	06/11/21 14:43:42	multiqc	False	Installed	iuc	9a913cdee30e	9a913cdee30e				Quality Control	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	86	06/11/21 14:44:34	trinity	False	Installed	iuc	d5e8807a407d	d5e8807a407d				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

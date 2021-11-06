@@ -555,9 +555,9 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - daae0a118c36
   - 1a052c827e88
   - 2e6190c29c54
+  - daae0a118c36
   - 09846d5169fa
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis

@@ -9,7 +9,7 @@ tools:
 - name: canu
   owner: bgruening
   revisions:
-  - 5732f959936a
+  - 86f150c8019d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -191,7 +191,7 @@ tools:
 - name: trinity
   owner: iuc
   revisions:
-  - 48636f857c4b
+  - d5e8807a407d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
