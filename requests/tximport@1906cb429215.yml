@@ -1,0 +1,7 @@
+tools:
+- name: tximport
+  owner: iuc
+  revisions:
+  - 1906cb429215
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: crossmap_bed
+  owner: iuc
+  revisions:
+  - f4a70882a71b
+  tool_panel_section_label: Convert Formats
+  tool_shed_url: toolshed.g2.bx.psu.edu
