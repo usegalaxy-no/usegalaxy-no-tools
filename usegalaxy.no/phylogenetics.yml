@@ -45,14 +45,14 @@ tools:
 - name: hyphy_bgm
   owner: iuc
   revisions:
-  - d1c977aee228
+  - a8ea0db2c606
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_busted
   owner: iuc
   revisions:
-  - 70fab57f3c05
+  - d723b65a4291
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -73,14 +73,14 @@ tools:
 - name: hyphy_fubar
   owner: iuc
   revisions:
-  - cd41e7a4d35f
+  - 099fc3ec12d2
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_gard
   owner: iuc
   revisions:
-  - 1fb98a84e86d
+  - 45d39a499816
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu

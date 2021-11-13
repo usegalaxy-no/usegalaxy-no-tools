@@ -387,8 +387,8 @@ tools:
 - name: kraken_report
   owner: devteam
   revisions:
-  - 6c09bed3444f
   - 1902d3de4a4f
+  - 6c09bed3444f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -547,19 +547,19 @@ tools:
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: rarefaction_analyzer
-  owner: chrisd
+  owner: nuc
   revisions:
-  - 5ec8b052e389
+  - f03b8d07cbd2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: resistome_analyzer
-  owner: chrisd
+  owner: nuc
   revisions:
-  - c9fbf44a96f7
+  - 7eff2bf159ae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: samtools_sort
   owner: devteam
   revisions:
@@ -575,12 +575,12 @@ tools:
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: snpfinder
-  owner: chrisd
+  owner: nuc
   revisions:
-  - 7073825e4338
+  - 8bc0cbff417f
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
-  tool_shed_url: toolshed.g2.bx.psu.edu
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: staramr
   owner: nml
   revisions:
@@ -640,8 +640,8 @@ tools:
 - name: vsearch
   owner: iuc
   revisions:
-  - b3c7199d8786
   - 9495df9dd6ef
+  - b3c7199d8786
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

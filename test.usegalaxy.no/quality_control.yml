@@ -1,8 +1,0 @@
-tools:
-- name: multiqc
-  owner: iuc
-  revisions:
-  - 9a913cdee30e
-  tool_panel_section_id: quality_control
-  tool_panel_section_label: Quality Control
-  tool_shed_url: toolshed.g2.bx.psu.edu

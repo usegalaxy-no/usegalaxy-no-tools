@@ -100,56 +100,56 @@ tools:
 - name: ncbi_eutils_ecitmatch
   owner: iuc
   revisions:
-  - 486cb0e234fe
+  - 554c807c6503
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ncbi_eutils_efetch
   owner: iuc
   revisions:
-  - 08b4f9ddee36
+  - 796d694b41dc
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ncbi_eutils_egquery
   owner: iuc
   revisions:
-  - 0c63519ae4e0
+  - fa46c83fd82a
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ncbi_eutils_einfo
   owner: iuc
   revisions:
-  - e61965d8a3e2
+  - d4c801a0a1d9
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ncbi_eutils_elink
   owner: iuc
   revisions:
-  - 55b3067762f9
+  - e4f8623b8b9b
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ncbi_eutils_epost
   owner: iuc
   revisions:
-  - 19346cc0c150
+  - a67115800e09
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ncbi_eutils_esearch
   owner: iuc
   revisions:
-  - 79bc38fca3d9
+  - a0275c22442f
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ncbi_eutils_esummary
   owner: iuc
   revisions:
-  - 4cd4888e7d2d
+  - a4c38f10eec9
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
   tool_shed_url: toolshed.g2.bx.psu.edu

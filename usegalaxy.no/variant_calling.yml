@@ -23,7 +23,7 @@ tools:
 - name: bcftools_call
   owner: iuc
   revisions:
-  - 5801eff9ac7e
+  - 912a8ff07fc9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -44,14 +44,14 @@ tools:
 - name: bcftools_consensus
   owner: iuc
   revisions:
-  - d6dc477167f8
+  - 92182c270ce4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_csq
   owner: iuc
   revisions:
-  - f10f5b4e7854
+  - 8899a6d50699
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -72,7 +72,7 @@ tools:
 - name: bcftools_plugin_color_chrs
   owner: iuc
   revisions:
-  - 71dfde92fd57
+  - ebcd8649c621
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -83,6 +83,20 @@ tools:
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: breseq_bam2aln
+  owner: nuc
+  revisions:
+  - eb93841aa38d
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: breseq_bam2cov
+  owner: nuc
+  revisions:
+  - c62406ffce5a
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: breseq
   owner: iuc
   revisions:
@@ -277,10 +291,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
+  - 5fab4f81391d
+  - 09d6806c609e
   - b04635ebfab0
   - 2b3e65a4252f
-  - 09d6806c609e
-  - 5fab4f81391d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
