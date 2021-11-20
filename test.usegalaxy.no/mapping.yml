@@ -1,0 +1,157 @@
+tools:
+- name: bismark
+  owner: bgruening
+  revisions:
+  - ff6ee551b153
+  - 9d02cd7883ad
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: blasr
+  owner: hien
+  revisions:
+  - ead68dd19206
+  - 8d8223d9148b
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: bowtie2
+  owner: devteam
+  revisions:
+  - 749c918495f7
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: bowtie_color_wrappers
+  owner: devteam
+  revisions:
+  - a3825c73805c
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: bowtie_wrappers
+  owner: devteam
+  revisions:
+  - b46e7d48076a
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: bwa
+  owner: devteam
+  revisions:
+  - 64f11cf59c6e
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: graphmap_align
+  owner: bgruening
+  revisions:
+  - 190175f4e143
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: graphmap_overlap
+  owner: bgruening
+  revisions:
+  - d0a712cf0518
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hisat2
+  owner: iuc
+  revisions:
+  - 6c19daec423d
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: kma
+  owner: iuc
+  revisions:
+  - 2595c27071c2
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: lastz_paired_reads
+  owner: devteam
+  revisions:
+  - ecc974513241
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: lastz
+  owner: devteam
+  revisions:
+  - 2ff111fac1d7
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: lastzsubwrapper
+  owner: hien
+  revisions:
+  - 0fe98267c32e
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: megablast_wrapper
+  owner: devteam
+  revisions:
+  - fb2e0e1dac89
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: megablast_xml_parser
+  owner: devteam
+  revisions:
+  - fbff957a3655
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: minimap2
+  owner: iuc
+  revisions:
+  - 77b2770508f6
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: rgrnastar
+  owner: iuc
+  revisions:
+  - 4074fc1940e2
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: rna_starsolo
+  owner: iuc
+  revisions:
+  - eec9494fdafa
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: segemehl
+  owner: rnateam
+  revisions:
+  - 9c0d4ec99ba9
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: star_fusion
+  owner: iuc
+  revisions:
+  - 137942fac417
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: tophat2
+  owner: devteam
+  revisions:
+  - 16c4255042be
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: tophat2
+  owner: kjetil
+  revisions:
+  - 6b262e099505
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+  tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels

@@ -1,0 +1,466 @@
+tools:
+- name: abricate
+  owner: iuc
+  revisions:
+  - b734db305578
+  - c2ef298da409
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: annotatemyids
+  owner: iuc
+  revisions:
+  - f29602ae449e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: antismash
+  owner: bgruening
+  revisions:
+  - 5784e268efca
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: augustus_training
+  owner: bgruening
+  revisions:
+  - dc027fa56d55
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: augustus
+  owner: bgruening
+  revisions:
+  - 28433faa6e42
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: blast2go
+  owner: peterjc
+  revisions:
+  - e23b621eb7bb
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: blastxml_to_gapped_gff3
+  owner: iuc
+  revisions:
+  - 561e827baa5f
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: bp_genbank2gff3
+  owner: iuc
+  revisions:
+  - 11c3eb512633
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: busco
+  owner: iuc
+  revisions:
+  - 46ae58b1d792
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: chipseeker
+  owner: rnateam
+  revisions:
+  - 1b9a9409831d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: dgidb_annotator
+  owner: devteam
+  revisions:
+  - c5bb987015c5
+  - 792f3cb0eff4
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: dotknot
+  owner: bgruening
+  revisions:
+  - 42d20ff5da1b
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: exonerate
+  owner: iuc
+  revisions:
+  - a03dead1bede
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: fargene
+  owner: iuc
+  revisions:
+  - 239ce9f24386
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: fasta_stats
+  owner: simon-gladman
+  revisions:
+  - 20ca2574216a
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: fastani
+  owner: iuc
+  revisions:
+  - 2c7ac12ad75a
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: fgsea
+  owner: iuc
+  revisions:
+  - 17eb1e0d711f
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: find_subsequences
+  owner: bgruening
+  revisions:
+  - d882a0a75759
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gff_to_prot
+  owner: iuc
+  revisions:
+  - 2aea122fbd25
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: glimmer3
+  owner: bgruening
+  revisions:
+  - b1ad88bbc5fa
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: goenrichment
+  owner: iuc
+  revisions:
+  - 2c7c9646ccf0
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: goseq
+  owner: iuc
+  revisions:
+  - 8b3e3657034e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: goslimmer
+  owner: iuc
+  revisions:
+  - de3e053bd6a5
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gotohscan
+  owner: rnateam
+  revisions:
+  - 6845ddcd5588
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gprofiler_convert
+  owner: iuc
+  revisions:
+  - 8ee097f1763d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gprofiler_gost
+  owner: iuc
+  revisions:
+  - bf39cdd007f5
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gprofiler_orth
+  owner: iuc
+  revisions:
+  - 727e7e114f9d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gprofiler_random
+  owner: iuc
+  revisions:
+  - 7d18814397a7
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gprofiler_snpense
+  owner: iuc
+  revisions:
+  - 74385d563652
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: gubbins
+  owner: iuc
+  revisions:
+  - 637ec5d5368c
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hammock
+  owner: hammock
+  revisions:
+  - 4db310b7e37c
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: hmmer3
+  owner: iuc
+  revisions:
+  - b5066aa77fea
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: jcvi_gff_stats
+  owner: iuc
+  revisions:
+  - 8cffbd184762
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: kobas
+  owner: iuc
+  revisions:
+  - 20f1b45dea63
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: lcmsmatching
+  owner: prog
+  revisions:
+  - 253d531a0193
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: maker_map_ids
+  owner: iuc
+  revisions:
+  - 2e3535db1bfa
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: maker
+  owner: iuc
+  revisions:
+  - 3c1a01127868
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: mitos2
+  owner: iuc
+  revisions:
+  - 80323066acd4
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: mlst
+  owner: iuc
+  revisions:
+  - ded48b36f3b7
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: nucleosome_prediction
+  owner: bgruening
+  revisions:
+  - 2c42bb973ac3
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: picrust_categorize
+  owner: iuc
+  revisions:
+  - bee527de98ac
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: picrust_compare_biom
+  owner: iuc
+  revisions:
+  - 0ba7dfaa941d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: picrust_format_tree_and_trait_table
+  owner: iuc
+  revisions:
+  - 8ab93cd74444
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: picrust_metagenome_contributions
+  owner: iuc
+  revisions:
+  - da4d1ff7009e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: picrust_predict_metagenomes
+  owner: iuc
+  revisions:
+  - 49b6c4392fdc
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: probmetab
+  owner: mmonsoor
+  revisions:
+  - 3a9914b37f2f
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: progressivemauve
+  owner: iuc
+  revisions:
+  - 4d869208bd52
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: prokka
+  owner: crs4
+  revisions:
+  - 111884f0d912
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: repeat_masker
+  owner: bgruening
+  revisions:
+  - bfc70c8cc5ca
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: roary
+  owner: iuc
+  revisions:
+  - e88a7de55d6e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: segmentation_fold
+  owner: yhoogstrate
+  revisions:
+  - 4d16cf9414cf
+  - 09e921a25c68
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: seq2hla
+  owner: iuc
+  revisions:
+  - 5a7cd6c39085
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sistr_cmd
+  owner: nml
+  revisions:
+  - 24a7a95867b0
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: snap_training
+  owner: iuc
+  revisions:
+  - 2a598c0aa042
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: socru
+  owner: iuc
+  revisions:
+  - ce0c9fe32e04
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sortmerna
+  owner: rnateam
+  revisions:
+  - eb35257d2e29
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: spaln
+  owner: iuc
+  revisions:
+  - dd0cd2319ae5
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: tbprofiler
+  owner: iuc
+  revisions:
+  - 809dfc93d593
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: tetyper
+  owner: iuc
+  revisions:
+  - edcf603bedfd
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: tmhmm_and_signalp
+  owner: peterjc
+  revisions:
+  - a19b3ded8f33
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: transit_gumbel
+  owner: iuc
+  revisions:
+  - f50807720df1
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: transit_hmm
+  owner: iuc
+  revisions:
+  - 532a84f0de1e
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: transit_resampling
+  owner: iuc
+  revisions:
+  - ad4d42fabf32
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: transit_tn5gaps
+  owner: iuc
+  revisions:
+  - 4aaabd55eab8
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: transtermhp
+  owner: iuc
+  revisions:
+  - 012171ba9fce
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: trna_prediction
+  owner: bgruening
+  revisions:
+  - 358f58401cd6
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
