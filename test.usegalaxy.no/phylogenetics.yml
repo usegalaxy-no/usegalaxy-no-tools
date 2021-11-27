@@ -9,8 +9,8 @@ tools:
 - name: ete
   owner: earlhaminst
   revisions:
-  - 16e925bf567e
   - 276e3ee68c37
+  - 16e925bf567e
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -136,7 +136,7 @@ tools:
 - name: sarscov2formatter
   owner: iuc
   revisions:
-  - e3a7995dce75
+  - 2e993ff8e7dc
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -157,8 +157,8 @@ tools:
 - name: treebest_best
   owner: earlhaminst
   revisions:
-  - 4f9e5110914b
   - b78b529f66db
+  - 4f9e5110914b
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu

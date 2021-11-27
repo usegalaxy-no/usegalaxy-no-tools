@@ -45,28 +45,28 @@ tools:
 - name: ggplot2_heatmap
   owner: iuc
   revisions:
-  - de002ba2b849
+  - d3a9e32672ec
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ggplot2_histogram
   owner: iuc
   revisions:
-  - 536078949ae4
+  - 355a82227003
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ggplot2_pca
   owner: iuc
   revisions:
-  - 1b9406a1a769
+  - fcb6a19960c6
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: ggplot2_point
   owner: iuc
   revisions:
-  - 87908c76ca8d
+  - 1acf88921176
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -80,7 +80,7 @@ tools:
 - name: ggplot2_violin
   owner: iuc
   revisions:
-  - 637cf21db396
+  - e44775efb2dc
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -2,8 +2,8 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
-  - b734db305578
   - c2ef298da409
+  - b734db305578
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -347,7 +347,7 @@ tools:
 - name: roary
   owner: iuc
   revisions:
-  - e88a7de55d6e
+  - 91887494eb97
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

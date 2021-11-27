@@ -275,8 +275,8 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - b04635ebfab0
   - 09d6806c609e
+  - b04635ebfab0
   - 2b3e65a4252f
   - 5fab4f81391d
   tool_panel_section_id: variant_calling
@@ -390,7 +390,7 @@ tools:
 - name: vcfcheck
   owner: devteam
   revisions:
-  - 2968c6916579
+  - aa8e8c96ca06
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

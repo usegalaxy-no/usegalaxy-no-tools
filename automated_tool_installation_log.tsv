@@ -2438,3 +2438,18 @@ Update	88	20/11/21 15:01:56	umi_tools_extract	False	Installed	iuc	f3759eec3018	f
 Update	88	20/11/21 15:02:57	umi_tools_group	False	Installed	iuc	d6255614afd7	d6255614afd7				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	88	20/11/21 15:03:58	umi_tools_whitelist	False	Installed	iuc	953b4821b183	953b4821b183				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	88	20/11/21 15:04:54	vardict_java	False	Installed	iuc	d262577e04b0	d262577e04b0				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:39:40	circos	False	Installed	iuc	290a11559985	290a11559985				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:40:19	crossmap_bam	False	Installed	iuc	e13f565068d6	e13f565068d6				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:42:01	fastx_clipper	False	Installed	devteam	cb1e251cac37	cb1e251cac37				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:43:12	flye	False	Installed	bgruening	276f5d8712d5	276f5d8712d5				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:43:51	genebed_maf_to_fasta	False	Installed	iuc	e25ee6bac872	e25ee6bac872				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:44:37	ggplot2_heatmap	False	Installed	iuc	d3a9e32672ec	d3a9e32672ec				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:45:28	ggplot2_histogram	False	Installed	iuc	355a82227003	355a82227003				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:46:22	ggplot2_pca	False	Installed	iuc	fcb6a19960c6	fcb6a19960c6				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:47:09	ggplot2_point	False	Installed	iuc	1acf88921176	1acf88921176				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:48:02	ggplot2_violin	False	Installed	iuc	e44775efb2dc	e44775efb2dc				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:48:43	idr_download_by_ids	False	Installed	iuc	4aed70472589	4aed70472589				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:49:34	roary	False	Installed	iuc	91887494eb97	91887494eb97				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:50:21	sarscov2formatter	False	Installed	iuc	2e993ff8e7dc	2e993ff8e7dc				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:51:17	trinotate	False	Installed	iuc	2b093007fab9	2b093007fab9				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	89	27/11/21 14:52:00	vcfcheck	False	Installed	devteam	aa8e8c96ca06	aa8e8c96ca06				VCF/BCF	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

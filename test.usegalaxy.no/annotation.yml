@@ -347,15 +347,15 @@ tools:
 - name: roary
   owner: iuc
   revisions:
-  - e88a7de55d6e
+  - 91887494eb97
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: segmentation_fold
   owner: yhoogstrate
   revisions:
-  - 4d16cf9414cf
   - 09e921a25c68
+  - 4d16cf9414cf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

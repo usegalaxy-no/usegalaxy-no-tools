@@ -268,7 +268,7 @@ tools:
 - name: idr_download_by_ids
   owner: iuc
   revisions:
-  - 80af973c5277
+  - 4aed70472589
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -534,8 +534,8 @@ tools:
 - name: points2labelimage
   owner: imgteam
   revisions:
-  - dcc8c1d6af48
   - 9bd039f46843
+  - dcc8c1d6af48
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -310,7 +310,7 @@ tools:
 - name: fastx_clipper
   owner: devteam
   revisions:
-  - b8658f852bc7
+  - cb1e251cac37
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
