@@ -1,0 +1,7 @@
+tools:
+- name: edger
+  owner: iuc
+  revisions:
+  - df0c8d0a5992
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu

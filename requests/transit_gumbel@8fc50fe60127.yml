@@ -1,0 +1,7 @@
+tools:
+- name: transit_gumbel
+  owner: iuc
+  revisions:
+  - 8fc50fe60127
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu

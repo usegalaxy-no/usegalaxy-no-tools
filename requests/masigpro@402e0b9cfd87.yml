@@ -1,0 +1,7 @@
+tools:
+- name: masigpro
+  owner: iuc
+  revisions:
+  - 402e0b9cfd87
+  tool_panel_section_label: RNA Analysis
+  tool_shed_url: toolshed.g2.bx.psu.edu
