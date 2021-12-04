@@ -1339,21 +1339,21 @@ tools:
 - name: proteinortho_grab_proteins
   owner: iuc
   revisions:
-  - 85ffb2cc6b64
+  - 6eec1c6410fe
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: proteinortho_summary
   owner: iuc
   revisions:
-  - c3f58c2eee1e
+  - a670bdbf8869
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: proteinortho
   owner: iuc
   revisions:
-  - 26abc7846e6f
+  - a8addd4fb60a
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
   tool_shed_url: toolshed.g2.bx.psu.edu

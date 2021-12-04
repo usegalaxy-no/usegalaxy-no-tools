@@ -67,7 +67,7 @@ tools:
 - name: kma
   owner: iuc
   revisions:
-  - 2595c27071c2
+  - 95ab864b281a
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu

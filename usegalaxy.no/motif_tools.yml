@@ -2,28 +2,28 @@ tools:
 - name: meme_chip
   owner: iuc
   revisions:
-  - 091a9d638d78
+  - cc100e0f61f4
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: meme_dreme
   owner: iuc
   revisions:
-  - 3e5c80594237
+  - e383d4bc8682
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: meme_fimo
   owner: iuc
   revisions:
-  - 0c5239d1aa65
+  - d7a6ea1e3b9d
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: meme_meme
   owner: iuc
   revisions:
-  - 9dd5373f6a5a
+  - 3f0dd362b755
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
   tool_shed_url: toolshed.g2.bx.psu.edu

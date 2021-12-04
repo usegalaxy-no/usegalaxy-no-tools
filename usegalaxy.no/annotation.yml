@@ -2,8 +2,8 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
-  - c2ef298da409
   - b734db305578
+  - c2ef298da409
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -130,7 +130,7 @@ tools:
 - name: gff_to_prot
   owner: iuc
   revisions:
-  - 2aea122fbd25
+  - 07d7991bf205
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -411,7 +411,7 @@ tools:
 - name: tetyper
   owner: iuc
   revisions:
-  - 36093854bfc7
+  - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -432,7 +432,7 @@ tools:
 - name: transit_hmm
   owner: iuc
   revisions:
-  - 532a84f0de1e
+  - 7db455b6434b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -446,7 +446,7 @@ tools:
 - name: transit_tn5gaps
   owner: iuc
   revisions:
-  - 4aaabd55eab8
+  - 3f5fc4b09496
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

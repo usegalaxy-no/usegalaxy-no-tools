@@ -135,7 +135,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
-  - 342a1d1fed7b
+  - 7594365c546b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -205,7 +205,7 @@ tools:
 - name: velvetoptimiser
   owner: simon-gladman
   revisions:
-  - 4a53b89fa703
+  - 82398ba86ba7
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

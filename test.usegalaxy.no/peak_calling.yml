@@ -2,7 +2,7 @@ tools:
 - name: ccat
   owner: devteam
   revisions:
-  - 201d8e7dfc43
+  - 1a6979fbd544
   tool_panel_section_id: peak_calling
   tool_panel_section_label: Peak Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
