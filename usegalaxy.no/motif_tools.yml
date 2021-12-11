@@ -23,14 +23,14 @@ tools:
 - name: meme_meme
   owner: iuc
   revisions:
-  - 3f0dd362b755
+  - e7242484929c
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: meme_psp_gen
   owner: iuc
   revisions:
-  - ff2f53a32d0e
+  - 164067a66a5c
   tool_panel_section_id: motif_tools
   tool_panel_section_label: Motif Tools
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -2538,3 +2538,12 @@ Update	90	04/12/21 16:04:39	trinity_run_de_analysis	False	Installed	iuc	ab87da55
 Update	90	04/12/21 16:05:19	trinity_samples_qccheck	False	Installed	iuc	50ba95fec4a2	50ba95fec4a2				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	90	04/12/21 16:05:59	trinity_super_transcripts	False	Installed	iuc	9c545f1c1a4e	9c545f1c1a4e				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	90	04/12/21 16:06:55	velvetoptimiser	False	Installed	simon-gladman	82398ba86ba7	82398ba86ba7				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:40:56	codeml	False	Installed	iuc	f9cb3a4339c2	f9cb3a4339c2				Evolution	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:43:18	ctb_rdkit_descriptors	False	Installed	bgruening	0993ac4f4a23	0993ac4f4a23				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:44:10	data_manager_diamond_database_builder	False	Installed	bgruening	4a08b7b76b78	4a08b7b76b78				None	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:44:51	enumerate_charges	False	Installed	bgruening	67ee76f0e497	67ee76f0e497				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:45:46	featurecounts	False	Installed	iuc	38b6d12edc68	38b6d12edc68				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:46:31	sdf_to_tab	False	Installed	bgruening	4beb3e026bbb	4beb3e026bbb				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:47:23	varscan_copynumber	False	Installed	iuc	9f8dbbbc0267	9f8dbbbc0267				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:48:13	varscan_mpileup	False	Installed	iuc	db94eadb92c1	db94eadb92c1				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	91	11/12/21 14:48:59	varscan_somatic	False	Installed	iuc	cf8ffc79db67	cf8ffc79db67				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

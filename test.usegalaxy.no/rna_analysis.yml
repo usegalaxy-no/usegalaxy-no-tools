@@ -226,7 +226,7 @@ tools:
 - name: featurecounts
   owner: iuc
   revisions:
-  - 7db9d3ea71c9
+  - 38b6d12edc68
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -557,8 +557,8 @@ tools:
   revisions:
   - daae0a118c36
   - 2e6190c29c54
-  - 1a052c827e88
   - 09846d5169fa
+  - 1a052c827e88
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -712,14 +712,14 @@ tools:
 - name: trinity_contig_exn50_statistic
   owner: iuc
   revisions:
-  - b1e9a0355166
+  - beafdd47f8cf
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: trinity_define_clusters_by_cutting_tree
   owner: iuc
   revisions:
-  - d40101d3a2af
+  - 8928f2226e40
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -754,7 +754,7 @@ tools:
 - name: trinity_super_transcripts
   owner: iuc
   revisions:
-  - 29472bde8854
+  - 9c545f1c1a4e
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

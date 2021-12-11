@@ -45,7 +45,7 @@ tools:
 - name: hyphy_bgm
   owner: iuc
   revisions:
-  - d1c977aee228
+  - 12c2453e5040
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -66,14 +66,14 @@ tools:
 - name: hyphy_fel
   owner: iuc
   revisions:
-  - 8276bb2adea5
+  - fc50c4bac0a3
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_fubar
   owner: iuc
   revisions:
-  - cd41e7a4d35f
+  - 90e57f65ddd9
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -101,21 +101,21 @@ tools:
 - name: hyphy_relax
   owner: iuc
   revisions:
-  - a4c5dc437558
+  - 056cd46735b8
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_slac
   owner: iuc
   revisions:
-  - 0c6724c345d9
+  - 54a5bb259ba2
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: hyphy_sm19
   owner: iuc
   revisions:
-  - 36e40d93e8a3
+  - 1527f00ddf7f
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu

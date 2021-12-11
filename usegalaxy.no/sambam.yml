@@ -23,8 +23,8 @@ tools:
 - name: bamtools_split
   owner: devteam
   revisions:
-  - e2c1b62e1db1
   - 0a7b0989fa09
+  - e2c1b62e1db1
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -101,7 +101,7 @@ tools:
 - name: sam_to_bam
   owner: devteam
   revisions:
-  - 1e69848b596f
+  - 9bd1568619cd
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -122,7 +122,7 @@ tools:
 - name: samtools_calmd
   owner: devteam
   revisions:
-  - c147e3a10573
+  - 92ec40abcdcf
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -241,7 +241,7 @@ tools:
 - name: samtools_view
   owner: iuc
   revisions:
-  - df20f1fd453f
+  - c370440f901e
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
