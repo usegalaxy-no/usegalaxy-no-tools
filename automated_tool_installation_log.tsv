@@ -2547,3 +2547,5 @@ Update	91	11/12/21 14:46:31	sdf_to_tab	False	Installed	bgruening	4beb3e026bbb	4b
 Update	91	11/12/21 14:47:23	varscan_copynumber	False	Installed	iuc	9f8dbbbc0267	9f8dbbbc0267				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	91	11/12/21 14:48:13	varscan_mpileup	False	Installed	iuc	db94eadb92c1	db94eadb92c1				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	91	11/12/21 14:48:59	varscan_somatic	False	Installed	iuc	cf8ffc79db67	cf8ffc79db67				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	92	18/12/21 14:41:49	limma_voom	False	Installed	iuc	32511f586472	32511f586472				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	92	18/12/21 14:42:43	seqwish	False	Installed	iuc	36dc42da5687	36dc42da5687				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

@@ -240,7 +240,7 @@ tools:
 - name: ctb_rdkit_descriptors
   owner: bgruening
   revisions:
-  - a1c53f0533b0
+  - 0993ac4f4a23
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -65,7 +65,7 @@ tools:
 - name: mafft
   owner: rnateam
   revisions:
-  - 15974dd17515
+  - f1a5908ea2cb
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
   tool_shed_url: toolshed.g2.bx.psu.edu
