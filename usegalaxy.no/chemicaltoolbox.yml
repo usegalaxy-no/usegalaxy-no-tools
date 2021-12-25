@@ -58,7 +58,7 @@ tools:
 - name: autodock_vina
   owner: bgruening
   revisions:
-  - 7a871df65202
+  - 90ea16534012
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu

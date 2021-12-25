@@ -37,35 +37,35 @@ tools:
 - name: chira_collapse
   owner: iuc
   revisions:
-  - 75342b9ef628
+  - 05996586c8b3
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_extract
   owner: iuc
   revisions:
-  - e7ee3aadf1a5
+  - 73d2b7a8d94b
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_map
   owner: iuc
   revisions:
-  - 95ddee768b61
+  - 7925dd016f53
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_merge
   owner: iuc
   revisions:
-  - 6492560fe1b4
+  - 9930af9d17f8
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: chira_quantify
   owner: iuc
   revisions:
-  - 06ac35533793
+  - 38d2b1f38992
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -184,6 +184,7 @@ tools:
 - name: dexseq
   owner: iuc
   revisions:
+  - 2872c633f07e
   - 62adf13b86ea
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -205,7 +206,7 @@ tools:
 - name: edger
   owner: iuc
   revisions:
-  - 6e53e565fc6a
+  - f2843df56434
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -562,9 +563,9 @@ tools:
 - name: rseqc
   owner: nilesh
   revisions:
-  - daae0a118c36
-  - 1a052c827e88
   - 2e6190c29c54
+  - 1a052c827e88
+  - daae0a118c36
   - 09846d5169fa
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
@@ -621,7 +622,7 @@ tools:
 - name: seurat
   owner: iuc
   revisions:
-  - c4db6ec33fec
+  - bb9732cfcdbe
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

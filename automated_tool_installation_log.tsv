@@ -2549,3 +2549,39 @@ Update	91	11/12/21 14:48:13	varscan_mpileup	False	Installed	iuc	db94eadb92c1	db9
 Update	91	11/12/21 14:48:59	varscan_somatic	False	Installed	iuc	cf8ffc79db67	cf8ffc79db67				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	92	18/12/21 14:41:49	limma_voom	False	Installed	iuc	32511f586472	32511f586472				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	92	18/12/21 14:42:43	seqwish	False	Installed	iuc	36dc42da5687	36dc42da5687				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:41:42	autodock_vina	False	Installed	bgruening	90ea16534012	90ea16534012				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:42:40	chira_collapse	False	Installed	iuc	05996586c8b3	05996586c8b3				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:43:40	chira_extract	False	Installed	iuc	73d2b7a8d94b	73d2b7a8d94b				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:44:38	chira_map	False	Installed	iuc	7925dd016f53	7925dd016f53				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:45:34	chira_merge	False	Installed	iuc	9930af9d17f8	9930af9d17f8				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:46:40	chira_quantify	False	Installed	iuc	38d2b1f38992	38d2b1f38992				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:48:53	describe_samples	False	Installed	iuc	e3b16fd7dd08	e3b16fd7dd08				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:50:02	dexseq	False	Installed	iuc	2872c633f07e	2872c633f07e				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:51:03	edger	False	Installed	iuc	f2843df56434	f2843df56434				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:51:55	picrust_categorize	False	Installed	iuc	36e87158ef04	36e87158ef04				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:53:08	picrust_compare_biom	False	Installed	iuc	9168545e09df	9168545e09df				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:53:58	picrust_format_tree_and_trait_table	False	Installed	iuc	21999f3aeb04	21999f3aeb04				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:54:51	picrust_metagenome_contributions	False	Installed	iuc	f0f5028a3393	f0f5028a3393				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:55:58	picrust_predict_metagenomes	False	Errored	iuc	a38a0a966a4d	a38a0a966a4d	Production Installation			Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:56:52	plink	False	Installed	iuc	272aca44b3dd	272aca44b3dd				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:58:04	raceid_clustering	False	Installed	iuc	f911a64454fb	f911a64454fb				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 14:59:28	raceid_filtnormconf	False	Installed	iuc	c891d8b33ede	c891d8b33ede				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:00:40	raceid_inspectclusters	False	Installed	iuc	2b0d3e2f402a	2b0d3e2f402a				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:02:00	raceid_inspecttrajectory	False	Installed	iuc	df8e4e54d367	df8e4e54d367				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:03:18	raceid_trajectory	False	Installed	iuc	c92d0f9338c5	c92d0f9338c5				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:04:02	samtools_markdup	False	Installed	iuc	8c440c3002bc	8c440c3002bc				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:04:51	samtools_merge	False	Installed	iuc	b40e2d865d52	b40e2d865d52				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:05:46	samtools_mpileup	False	Installed	devteam	9da0311ab1dd	9da0311ab1dd				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:06:40	samtools_view	False	Installed	iuc	0dbf49c414ae	0dbf49c414ae				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:07:33	seurat	False	Installed	iuc	bb9732cfcdbe	bb9732cfcdbe				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:08:15	trinity	False	Installed	iuc	d2bc35f3d1c5	d2bc35f3d1c5				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:08:54	trinity_abundance_estimates_to_matrix	False	Installed	iuc	bcc5f03f1900	bcc5f03f1900				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:09:34	trinity_align_and_estimate_abundance	False	Installed	iuc	c2b82a94493e	c2b82a94493e				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:10:15	trinity_analyze_diff_expr	False	Installed	iuc	3f4094b6a565	3f4094b6a565				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:10:54	trinity_contig_exn50_statistic	False	Installed	iuc	be3f26533209	be3f26533209				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:11:32	trinity_define_clusters_by_cutting_tree	False	Installed	iuc	5192f657f305	5192f657f305				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:12:13	trinity_filter_low_expr_transcripts	False	Installed	iuc	1fdb25a8384d	1fdb25a8384d				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:12:52	trinity_gene_to_trans_map	False	Installed	iuc	964b7efe2639	964b7efe2639				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:13:31	trinity_run_de_analysis	False	Installed	iuc	eafea3083352	eafea3083352				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:14:10	trinity_samples_qccheck	False	Installed	iuc	3a4ac03d1266	3a4ac03d1266				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	93	25/12/21 15:14:49	trinity_super_transcripts	False	Installed	iuc	bdede464821e	bdede464821e				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
