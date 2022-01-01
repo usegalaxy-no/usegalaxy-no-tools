@@ -2585,3 +2585,4 @@ Update	93	25/12/21 15:12:52	trinity_gene_to_trans_map	False	Installed	iuc	964b7e
 Update	93	25/12/21 15:13:31	trinity_run_de_analysis	False	Installed	iuc	eafea3083352	eafea3083352				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	93	25/12/21 15:14:10	trinity_samples_qccheck	False	Installed	iuc	3a4ac03d1266	3a4ac03d1266				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	93	25/12/21 15:14:49	trinity_super_transcripts	False	Installed	iuc	bdede464821e	bdede464821e				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	94	01/01/22 14:43:55	picrust_predict_metagenomes	False	Installed	iuc	a38a0a966a4d	a38a0a966a4d				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
