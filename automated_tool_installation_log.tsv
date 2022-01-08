@@ -2586,3 +2586,9 @@ Update	93	25/12/21 15:13:31	trinity_run_de_analysis	False	Installed	iuc	eafea308
 Update	93	25/12/21 15:14:10	trinity_samples_qccheck	False	Installed	iuc	3a4ac03d1266	3a4ac03d1266				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	93	25/12/21 15:14:49	trinity_super_transcripts	False	Installed	iuc	bdede464821e	bdede464821e				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	94	01/01/22 14:43:55	picrust_predict_metagenomes	False	Installed	iuc	a38a0a966a4d	a38a0a966a4d				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	95	08/01/22 14:42:29	abyss	False	Installed	iuc	890b794c997d	890b794c997d				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	95	08/01/22 14:44:50	minia	False	Installed	iuc	734cd5f1c1b2	734cd5f1c1b2				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	95	08/01/22 14:45:50	minimap2	False	Installed	iuc	11a0d50a54e6	11a0d50a54e6				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	95	08/01/22 14:46:37	proteinortho	False	Installed	iuc	9b99159b2b23	9b99159b2b23				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	95	08/01/22 14:47:31	proteinortho_grab_proteins	False	Installed	iuc	d5e4450964f8	d5e4450964f8				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	95	08/01/22 14:48:23	proteinortho_summary	False	Installed	iuc	1883d2bffd14	1883d2bffd14				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
