@@ -416,8 +416,8 @@ tools:
 - name: last
   owner: iuc
   revisions:
-  - f5a5a2b39ff2
   - 19c265784f35
+  - f5a5a2b39ff2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

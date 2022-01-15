@@ -2592,3 +2592,4 @@ Update	95	08/01/22 14:45:50	minimap2	False	Installed	iuc	11a0d50a54e6	11a0d50a54
 Update	95	08/01/22 14:46:37	proteinortho	False	Installed	iuc	9b99159b2b23	9b99159b2b23				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	95	08/01/22 14:47:31	proteinortho_grab_proteins	False	Installed	iuc	d5e4450964f8	d5e4450964f8				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	95	08/01/22 14:48:23	proteinortho_summary	False	Installed	iuc	1883d2bffd14	1883d2bffd14				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	96	15/01/22 14:42:57	bwameth	False	Installed	iuc	62f5fab76dfb	62f5fab76dfb				Epigenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
