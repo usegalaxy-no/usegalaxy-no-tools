@@ -2593,3 +2593,11 @@ Update	95	08/01/22 14:46:37	proteinortho	False	Installed	iuc	9b99159b2b23	9b9915
 Update	95	08/01/22 14:47:31	proteinortho_grab_proteins	False	Installed	iuc	d5e4450964f8	d5e4450964f8				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	95	08/01/22 14:48:23	proteinortho_summary	False	Installed	iuc	1883d2bffd14	1883d2bffd14				Proteomics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	96	15/01/22 14:42:57	bwameth	False	Installed	iuc	62f5fab76dfb	62f5fab76dfb				Epigenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:36:42	crossmap_bam	False	Installed	iuc	158b5b2a164a	158b5b2a164a				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:37:21	crossmap_bed	False	Installed	iuc	ee86b27291b5	ee86b27291b5				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:37:58	crossmap_gff	False	Installed	iuc	42b239a32349	42b239a32349				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:38:35	crossmap_vcf	False	Installed	iuc	18f7e96459d2	18f7e96459d2				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:39:15	crossmap_wig	False	Installed	iuc	e72c320c17c1	e72c320c17c1				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:40:05	idr_download_by_ids	False	Installed	iuc	cbd605a24336	cbd605a24336				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:40:52	picard	False	Installed	devteam	881d7645d1bf	881d7645d1bf				Picard	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	97	22/01/22 14:41:44	seurat	False	Installed	iuc	b72d84f6941d	b72d84f6941d				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

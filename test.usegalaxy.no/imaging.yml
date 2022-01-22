@@ -268,7 +268,7 @@ tools:
 - name: idr_download_by_ids
   owner: iuc
   revisions:
-  - 4aed70472589
+  - cbd605a24336
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
   tool_shed_url: toolshed.g2.bx.psu.edu
