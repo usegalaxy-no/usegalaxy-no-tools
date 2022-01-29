@@ -2601,3 +2601,8 @@ Update	97	22/01/22 14:39:15	crossmap_wig	False	Installed	iuc	e72c320c17c1	e72c32
 Update	97	22/01/22 14:40:05	idr_download_by_ids	False	Installed	iuc	cbd605a24336	cbd605a24336				Imaging	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	97	22/01/22 14:40:52	picard	False	Installed	devteam	881d7645d1bf	881d7645d1bf				Picard	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	97	22/01/22 14:41:44	seurat	False	Installed	iuc	b72d84f6941d	b72d84f6941d				RNA Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	98	29/01/22 14:38:49	abyss	False	Installed	iuc	8f1b150a2487	8f1b150a2487				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	98	29/01/22 14:41:14	metaspades	False	Installed	nml	f338e9942b27	f338e9942b27				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	98	29/01/22 14:42:27	rnaspades	False	Installed	iuc	ef69617ecb42	ef69617ecb42				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	98	29/01/22 14:43:19	spades	False	Installed	nml	d2d1df21dfb9	d2d1df21dfb9				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	98	29/01/22 14:44:16	vardict_java	False	Installed	iuc	e0734e88a104	e0734e88a104				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

@@ -268,9 +268,9 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - e8adfc4c0a6b
-  - cfcf33df7fc0
   - 268d162b9c49
+  - cfcf33df7fc0
+  - e8adfc4c0a6b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -298,10 +298,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 2b3e65a4252f
-  - 09d6806c609e
-  - b04635ebfab0
   - 5fab4f81391d
+  - 09d6806c609e
+  - 2b3e65a4252f
+  - b04635ebfab0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -329,7 +329,7 @@ tools:
 - name: vardict_java
   owner: iuc
   revisions:
-  - d262577e04b0
+  - e0734e88a104
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -350,14 +350,14 @@ tools:
 - name: varscan_mpileup
   owner: iuc
   revisions:
-  - e3f170cc4f95
+  - db94eadb92c1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: varscan_somatic
   owner: iuc
   revisions:
-  - a57606054bd7
+  - cf8ffc79db67
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

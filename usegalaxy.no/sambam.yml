@@ -23,8 +23,8 @@ tools:
 - name: bamtools_split
   owner: devteam
   revisions:
-  - 0a7b0989fa09
   - e2c1b62e1db1
+  - 0a7b0989fa09
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -171,7 +171,7 @@ tools:
 - name: samtools_markdup
   owner: iuc
   revisions:
-  - d0a568e1904b
+  - 8c440c3002bc
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu

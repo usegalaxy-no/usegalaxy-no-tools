@@ -2,7 +2,7 @@ tools:
 - name: abyss
   owner: iuc
   revisions:
-  - 890b794c997d
+  - 8f1b150a2487
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -93,7 +93,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
-  - 3ca2d2a9068c
+  - f338e9942b27
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -156,7 +156,7 @@ tools:
 - name: rnaspades
   owner: iuc
   revisions:
-  - 1035adb112c0
+  - ef69617ecb42
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -177,7 +177,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
-  - b7829778729f
+  - d2d1df21dfb9
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -191,7 +191,7 @@ tools:
 - name: trinity
   owner: iuc
   revisions:
-  - 3772d9a10f27
+  - d2bc35f3d1c5
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

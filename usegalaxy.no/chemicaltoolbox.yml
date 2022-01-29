@@ -240,14 +240,14 @@ tools:
 - name: ctb_rdkit_descriptors
   owner: bgruening
   revisions:
-  - a1c53f0533b0
+  - 0993ac4f4a23
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: enumerate_charges
   owner: bgruening
   revisions:
-  - bbbf5fb356dd
+  - 67ee76f0e497
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -387,8 +387,8 @@ tools:
 - name: md_converter
   owner: chemteam
   revisions:
-  - 79e8ab8f1e81
   - d76bea4c85f3
+  - 79e8ab8f1e81
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -696,7 +696,7 @@ tools:
 - name: sdf_to_tab
   owner: bgruening
   revisions:
-  - 351fbd750a6d
+  - 4beb3e026bbb
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
   tool_shed_url: toolshed.g2.bx.psu.edu
