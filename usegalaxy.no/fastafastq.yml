@@ -142,7 +142,7 @@ tools:
 - name: fastp
   owner: iuc
   revisions:
-  - dbf9c561ef29
+  - 65b93b623c77
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -499,7 +499,7 @@ tools:
 - name: ucsc_fasplit
   owner: iuc
   revisions:
-  - 71f649c23021
+  - bf04bd405d5b
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu

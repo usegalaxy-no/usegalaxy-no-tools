@@ -2606,3 +2606,12 @@ Update	98	29/01/22 14:41:14	metaspades	False	Installed	nml	f338e9942b27	f338e994
 Update	98	29/01/22 14:42:27	rnaspades	False	Installed	iuc	ef69617ecb42	ef69617ecb42				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	98	29/01/22 14:43:19	spades	False	Installed	nml	d2d1df21dfb9	d2d1df21dfb9				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	98	29/01/22 14:44:16	vardict_java	False	Installed	iuc	e0734e88a104	e0734e88a104				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:33:15	artic_minion	False	Installed	iuc	f5643712dca7	f5643712dca7				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:34:14	bowtie2	False	Installed	devteam	cd659e8cc5fa	cd659e8cc5fa				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:36:45	fastp	False	Installed	iuc	65b93b623c77	65b93b623c77				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:37:43	merge_metaphlan_tables	False	Installed	iuc	ab1a9a932182	ab1a9a932182				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:39:02	shovill	False	Installed	iuc	2a9baa0c4316	2a9baa0c4316				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:40:01	spaln	False	Installed	iuc	32c11a4b5dbf	32c11a4b5dbf				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:40:57	ucsc_fasplit	False	Installed	iuc	bf04bd405d5b	bf04bd405d5b				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:41:52	ucsc_twobittofa	False	Installed	iuc	8067dfa00ed2	8067dfa00ed2				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	99	05/02/22 14:42:50	wtdbg	False	Installed	bgruening	2668027a533b	2668027a533b				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

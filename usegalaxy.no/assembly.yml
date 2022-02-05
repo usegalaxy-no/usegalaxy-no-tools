@@ -163,7 +163,7 @@ tools:
 - name: shovill
   owner: iuc
   revisions:
-  - 83ead2be47b2
+  - 2a9baa0c4316
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -212,7 +212,7 @@ tools:
 - name: wtdbg
   owner: bgruening
   revisions:
-  - e100f3f4d80e
+  - 2668027a533b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -397,7 +397,7 @@ tools:
 - name: spaln
   owner: iuc
   revisions:
-  - dd0cd2319ae5
+  - 32c11a4b5dbf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
