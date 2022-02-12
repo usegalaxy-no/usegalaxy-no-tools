@@ -2615,3 +2615,29 @@ Update	99	05/02/22 14:40:01	spaln	False	Installed	iuc	32c11a4b5dbf	32c11a4b5dbf	
 Update	99	05/02/22 14:40:57	ucsc_fasplit	False	Installed	iuc	bf04bd405d5b	bf04bd405d5b				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	99	05/02/22 14:41:52	ucsc_twobittofa	False	Installed	iuc	8067dfa00ed2	8067dfa00ed2				Convert Formats	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	99	05/02/22 14:42:50	wtdbg	False	Installed	bgruening	2668027a533b	2668027a533b				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:37:30	artic_minion	False	Installed	iuc	6f52ebc01098	6f52ebc01098				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:40:00	deeptools_alignmentsieve	False	Installed	bgruening	e5a296ce8fbb	e5a296ce8fbb				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:41:03	deeptools_bam_compare	False	Installed	bgruening	c89b665b45e4	c89b665b45e4				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:42:10	deeptools_bam_coverage	False	Installed	bgruening	4df95152a39e	4df95152a39e				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:43:11	deeptools_bam_pe_fragmentsize	False	Installed	bgruening	3f9dc453c0e8	3f9dc453c0e8				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:44:10	deeptools_bigwig_compare	False	Installed	bgruening	7989c6ddf634	7989c6ddf634				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:45:10	deeptools_compute_gc_bias	False	Installed	bgruening	56d5b797ce84	56d5b797ce84				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:46:17	deeptools_compute_matrix	False	Installed	bgruening	19bb3e6d9e31	19bb3e6d9e31				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:47:20	deeptools_compute_matrix_operations	False	Installed	bgruening	be95d48dd27f	be95d48dd27f				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:48:25	deeptools_correct_gc_bias	False	Installed	bgruening	00a71ff7c06b	00a71ff7c06b				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:49:32	deeptools_multi_bam_summary	False	Installed	bgruening	b4e53394fced	b4e53394fced				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:50:38	deeptools_multi_bigwig_summary	False	Installed	bgruening	459cfa861f0b	459cfa861f0b				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:51:45	deeptools_plot_correlation	False	Installed	bgruening	e44978659400	e44978659400				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:52:49	deeptools_plot_coverage	False	Installed	bgruening	7fda5607e777	7fda5607e777				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:53:59	deeptools_plot_enrichment	False	Installed	bgruening	88ce7fed1488	88ce7fed1488				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:55:02	deeptools_plot_fingerprint	False	Installed	bgruening	ca8a7f0ea872	ca8a7f0ea872				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:56:07	deeptools_plot_heatmap	False	Installed	bgruening	42cb23d80271	42cb23d80271				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:57:16	deeptools_plot_pca	False	Installed	bgruening	7784523d9743	7784523d9743				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:58:24	deeptools_plot_profile	False	Installed	bgruening	e9429e484e25	e9429e484e25				deepTools	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 14:59:19	maker	False	Installed	iuc	a444254e9a57	a444254e9a57				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 15:00:03	maker_map_ids	False	Installed	iuc	e906fa778440	e906fa778440				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 15:00:58	megahit	False	Installed	iuc	14ddfc8ffb93	14ddfc8ffb93				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 15:01:56	metaspades	False	Installed	nml	e731ea24e48d	e731ea24e48d				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 15:03:09	quast	False	Installed	iuc	875d0f36d66f	875d0f36d66f				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 15:04:05	rnaspades	False	Installed	iuc	53c2bc8c2ae3	53c2bc8c2ae3				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	100	12/02/22 15:05:01	spades	False	Installed	nml	7897763d14ec	7897763d14ec				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

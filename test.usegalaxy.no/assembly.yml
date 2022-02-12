@@ -93,7 +93,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
-  - f338e9942b27
+  - e731ea24e48d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -135,7 +135,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
-  - 7594365c546b
+  - 875d0f36d66f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -156,7 +156,7 @@ tools:
 - name: rnaspades
   owner: iuc
   revisions:
-  - ef69617ecb42
+  - 53c2bc8c2ae3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -177,7 +177,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
-  - d2d1df21dfb9
+  - 7897763d14ec
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -191,7 +191,7 @@ tools:
 - name: trinity
   owner: iuc
   revisions:
-  - 3772d9a10f27
+  - d2bc35f3d1c5
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

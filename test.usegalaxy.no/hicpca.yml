@@ -1,0 +1,8 @@
+tools:
+- name: hicexplorer_hicpca
+  owner: bgruening
+  revisions:
+  - 3b5b54ed6392
+  tool_panel_section_id: tool_toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hicpca/hicexplorer_hicpca/3.6+galaxy0
+  tool_panel_section_label: hicPCA
+  tool_shed_url: toolshed.g2.bx.psu.edu
