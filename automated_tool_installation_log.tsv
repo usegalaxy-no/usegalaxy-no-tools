@@ -2641,3 +2641,6 @@ Update	100	12/02/22 15:01:56	metaspades	False	Installed	nml	e731ea24e48d	e731ea2
 Update	100	12/02/22 15:03:09	quast	False	Installed	iuc	875d0f36d66f	875d0f36d66f				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	100	12/02/22 15:04:05	rnaspades	False	Installed	iuc	53c2bc8c2ae3	53c2bc8c2ae3				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	100	12/02/22 15:05:01	spades	False	Installed	nml	7897763d14ec	7897763d14ec				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	101	19/02/22 14:41:39	drep_compare	False	Installed	iuc	7157accd23d0	7157accd23d0				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	101	19/02/22 14:42:52	drep_dereplicate	False	Installed	iuc	ef7cd2e7bc05	ef7cd2e7bc05				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	101	19/02/22 14:44:28	pygenometracks	False	Installed	iuc	a1abfa420d9d	a1abfa420d9d				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
