@@ -359,7 +359,7 @@ tools:
 - name: filtlong
   owner: iuc
   revisions:
-  - a72af9de6bf5
+  - 41b2ad601cf0
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu

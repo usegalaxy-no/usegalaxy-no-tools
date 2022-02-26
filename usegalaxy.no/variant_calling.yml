@@ -23,63 +23,63 @@ tools:
 - name: bcftools_call
   owner: iuc
   revisions:
-  - 912a8ff07fc9
+  - d267bcfdc8fe
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_cnv
   owner: iuc
   revisions:
-  - 4891338c6c54
+  - 8d637025a905
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_concat
   owner: iuc
   revisions:
-  - 5ee777f9db23
+  - fc47ffec447e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_consensus
   owner: iuc
   revisions:
-  - 92182c270ce4
+  - edc3d484b99a
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_csq
   owner: iuc
   revisions:
-  - 8899a6d50699
+  - 68216882a410
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_merge
   owner: iuc
   revisions:
-  - 3e0e55c628b8
+  - 798c063f8fc9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_norm
   owner: iuc
   revisions:
-  - ff9e769ccd6c
+  - 481476814acc
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_plugin_color_chrs
   owner: iuc
   revisions:
-  - ebcd8649c621
+  - 4e85a3a5dbd1
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: bcftools_plugin_frameshifts
   owner: iuc
   revisions:
-  - c0b17fc737d4
+  - 58341ad4fb42
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -268,8 +268,8 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - cfcf33df7fc0
   - e8adfc4c0a6b
+  - cfcf33df7fc0
   - 268d162b9c49
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -299,8 +299,8 @@ tools:
   owner: iuc
   revisions:
   - 5fab4f81391d
-  - 2b3e65a4252f
   - b04635ebfab0
+  - 2b3e65a4252f
   - 09d6806c609e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

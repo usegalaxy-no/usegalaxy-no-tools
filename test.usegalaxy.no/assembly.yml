@@ -93,7 +93,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
-  - e731ea24e48d
+  - eb7a370f6588
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -156,7 +156,7 @@ tools:
 - name: rnaspades
   owner: iuc
   revisions:
-  - 53c2bc8c2ae3
+  - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -177,7 +177,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
-  - 7897763d14ec
+  - dd7ad84f3943
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu

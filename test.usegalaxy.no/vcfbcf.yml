@@ -16,15 +16,15 @@ tools:
 - name: bcftools
   owner: iuc
   revisions:
-  - bdd0cb7fbedf
   - e5e78d1e09a6
+  - bdd0cb7fbedf
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: freebayes
   owner: devteam
   revisions:
-  - 156b60c1530f
+  - a7c9782130e8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu
