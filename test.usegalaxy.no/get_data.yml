@@ -149,8 +149,8 @@ tools:
 - name: sra_tools
   owner: iuc
   revisions:
-  - f5ea3ce9b9b0
   - 69ebb7f46e45
+  - f5ea3ce9b9b0
   - 83c7d564b128
   tool_panel_section_id: getext
   tool_panel_section_label: Get Data
