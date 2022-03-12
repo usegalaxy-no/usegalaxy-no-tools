@@ -1,0 +1,8 @@
+tools:
+- name: hicexplorer_hiccorrelate
+  owner: bgruening
+  revisions:
+  - 340aa8042c7f
+  tool_panel_section_id: tool_toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hiccorrelate/hicexplorer_hiccorrelate/3.6+galaxy0
+  tool_panel_section_label: hicCorrelate
+  tool_shed_url: toolshed.g2.bx.psu.edu

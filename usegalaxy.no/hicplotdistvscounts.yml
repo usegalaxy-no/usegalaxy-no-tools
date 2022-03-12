@@ -1,0 +1,8 @@
+tools:
+- name: hicexplorer_hicplotdistvscounts
+  owner: bgruening
+  revisions:
+  - e2971589184b
+  tool_panel_section_id: tool_toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hicplotdistvscounts/hicexplorer_hicplotdistvscounts/3.6+galaxy0
+  tool_panel_section_label: hicPlotDistVsCounts
+  tool_shed_url: toolshed.g2.bx.psu.edu

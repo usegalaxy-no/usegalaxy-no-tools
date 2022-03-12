@@ -73,7 +73,7 @@ tools:
 - name: ggplot2_segment
   owner: hien
   revisions:
-  - a07c8dc0d1ba
+  - f626d5229922
   tool_panel_section_id: plots
   tool_panel_section_label: Graph/Display Data
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels

@@ -1,0 +1,8 @@
+tools:
+- name: hicexplorer_hicbuildmatrix
+  owner: bgruening
+  revisions:
+  - 9edf8894a22d
+  tool_panel_section_id: tool_toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hicbuildmatrix/hicexplorer_hicbuildmatrix/3.6+galaxy0
+  tool_panel_section_label: hicBuildMatrix
+  tool_shed_url: toolshed.g2.bx.psu.edu

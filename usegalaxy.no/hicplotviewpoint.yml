@@ -1,0 +1,8 @@
+tools:
+- name: hicexplorer_hicplotviewpoint
+  owner: bgruening
+  revisions:
+  - b637a1e3cb14
+  tool_panel_section_id: tool_toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hicplotviewpoint/hicexplorer_hicplotviewpoint/3.6+galaxy0
+  tool_panel_section_label: hicPlotViewpoint
+  tool_shed_url: toolshed.g2.bx.psu.edu

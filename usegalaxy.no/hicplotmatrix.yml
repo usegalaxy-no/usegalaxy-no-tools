@@ -1,0 +1,8 @@
+tools:
+- name: hicexplorer_hicplotmatrix
+  owner: bgruening
+  revisions:
+  - 7babd8a46fe0
+  tool_panel_section_id: tool_toolshed.g2.bx.psu.edu/repos/bgruening/hicexplorer_hicplotmatrix/hicexplorer_hicplotmatrix/3.6+galaxy0
+  tool_panel_section_label: hicPlotMatrix
+  tool_shed_url: toolshed.g2.bx.psu.edu
