@@ -404,7 +404,7 @@ tools:
 - name: tbprofiler
   owner: iuc
   revisions:
-  - 809dfc93d593
+  - ac8250086ac3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

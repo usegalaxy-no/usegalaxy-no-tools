@@ -276,8 +276,8 @@ tools:
   owner: iuc
   revisions:
   - 2b3e65a4252f
-  - 5fab4f81391d
   - b04635ebfab0
+  - 5fab4f81391d
   - 09d6806c609e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -299,7 +299,7 @@ tools:
 - name: tbvcfreport
   owner: iuc
   revisions:
-  - adc0645b945c
+  - 4934c0ac6197
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
