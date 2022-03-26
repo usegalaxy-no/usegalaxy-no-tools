@@ -374,7 +374,7 @@ tools:
 - name: kraken_taxonomy_report
   owner: iuc
   revisions:
-  - b11b3ac48bb9
+  - 27d65c78863c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

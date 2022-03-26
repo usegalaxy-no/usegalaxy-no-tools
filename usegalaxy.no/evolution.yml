@@ -23,7 +23,7 @@ tools:
 - name: structure
   owner: iuc
   revisions:
-  - 0080ad37f8a0
+  - 4bd5e5dbc6c5
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
   tool_shed_url: toolshed.g2.bx.psu.edu

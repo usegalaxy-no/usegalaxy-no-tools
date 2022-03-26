@@ -93,49 +93,49 @@ tools:
 - name: stacks_assembleperead
   owner: iuc
   revisions:
-  - 0c741f364d18
+  - 6eaf0f9836c8
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_clonefilter
   owner: iuc
   revisions:
-  - 5d12a1115770
+  - 3009a21724e7
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_cstacks
   owner: iuc
   revisions:
-  - dab92afa0c98
+  - be3df81c0353
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_denovomap
   owner: iuc
   revisions:
-  - eb1e95f88e96
+  - 9f9d39f582f3
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_genotypes
   owner: iuc
   revisions:
-  - 00f4a4e553ae
+  - 46f061f3cfeb
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_populations
   owner: iuc
   revisions:
-  - d504d945a655
+  - 95286af4139b
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_procrad
   owner: iuc
   revisions:
-  - 8fe258d72ff3
+  - be78e39d56b3
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -149,35 +149,35 @@ tools:
 - name: stacks_refmap
   owner: iuc
   revisions:
-  - 7c42e6768c41
+  - 1ba1185929c1
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_rxstacks
   owner: iuc
   revisions:
-  - 9d0ac63dcfcd
+  - 3e43e51b3c3b
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_sstacks
   owner: iuc
   revisions:
-  - e38d181d4e72
+  - 563af4497055
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_stats
   owner: iuc
   revisions:
-  - a89b5f7813ad
+  - 93b16407d6e9
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: stacks_ustacks
   owner: iuc
   revisions:
-  - b6de94f2edc0
+  - a4ec4f620a77
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
