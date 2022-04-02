@@ -142,7 +142,7 @@ tools:
 - name: stacks_pstacks
   owner: iuc
   revisions:
-  - ede5223bc7f1
+  - 67cbd80b83f5
   tool_panel_section_id: rad-seq
   tool_panel_section_label: RAD-seq
   tool_shed_url: toolshed.g2.bx.psu.edu
