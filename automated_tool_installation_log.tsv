@@ -2699,3 +2699,8 @@ Update	107	02/04/22 14:55:38	hyphy_relax	False	Installed	iuc	49885a825dc1	49885a
 Update	107	02/04/22 14:57:03	hyphy_slac	False	Installed	iuc	365e33adf3a4	365e33adf3a4				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	107	02/04/22 14:58:32	hyphy_sm19	False	Installed	iuc	00b4cf477625	00b4cf477625				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	107	02/04/22 14:59:36	ncbi_blast_plus	False	Installed	devteam	acf4e47b734c	acf4e47b734c				NCBI Blast	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	108	09/04/22 14:39:23	breseq	False	Installed	iuc	0d18a3ba2d1c	0d18a3ba2d1c				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	108	09/04/22 14:40:30	busco	False	Installed	iuc	e4bd1e99bacf	e4bd1e99bacf				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	108	09/04/22 14:45:05	macs2	False	Installed	iuc	640d3af5d833	640d3af5d833				Peak Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	108	09/04/22 14:47:06	pathview	False	Installed	iuc	fe154a7af404	fe154a7af404				Graph/Display Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	108	09/04/22 14:49:07	seqwish	False	Installed	iuc	6293a926066f	6293a926066f				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

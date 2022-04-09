@@ -97,6 +97,13 @@ tools:
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
+- name: breseq
+  owner: iuc
+  revisions:
+  - 0d18a3ba2d1c
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: control_freec
   owner: iuc
   revisions:
@@ -198,7 +205,7 @@ tools:
 - name: seqwish
   owner: iuc
   revisions:
-  - 36dc42da5687
+  - 6293a926066f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
