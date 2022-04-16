@@ -149,7 +149,7 @@ tools:
 - name: racon
   owner: bgruening
   revisions:
-  - d865b62f501c
+  - 39bed8de8017
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
