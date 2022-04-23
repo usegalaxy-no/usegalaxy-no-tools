@@ -16,8 +16,7 @@ tools:
 - name: diamond
   owner: bgruening
   revisions:
-  - f921014aba5a
-  - 54f751e413f4
+  - 1e3323a44643
   tool_panel_section_id: ncbi_blast
   tool_panel_section_label: NCBI Blast
   tool_shed_url: toolshed.g2.bx.psu.edu

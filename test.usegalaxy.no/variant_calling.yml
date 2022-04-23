@@ -205,7 +205,7 @@ tools:
 - name: seqwish
   owner: iuc
   revisions:
-  - 6293a926066f
+  - 0c415ba215e7
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
