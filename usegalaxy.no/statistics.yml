@@ -44,7 +44,7 @@ tools:
 - name: create_tool_recommendation_model
   owner: bgruening
   revisions:
-  - afec8c595124
+  - 4f7e6612906b
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
