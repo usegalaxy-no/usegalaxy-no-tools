@@ -100,28 +100,28 @@ tools:
 - name: keras_batch_models
   owner: bgruening
   revisions:
-  - 77c04469e8b8
+  - 68eb154fa0c6
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: keras_model_builder
   owner: bgruening
   revisions:
-  - 5b35833076f0
+  - 8611b3f52a38
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: keras_model_config
   owner: bgruening
   revisions:
-  - 2b8d85927742
+  - de19ef9ff031
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: keras_train_and_eval
   owner: bgruening
   revisions:
-  - 470aed90aa41
+  - b6ef6d0cb6b7
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -156,14 +156,14 @@ tools:
 - name: ml_visualization_ex
   owner: bgruening
   revisions:
-  - e88c782a127d
+  - 947c2eacccb8
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: model_prediction
   owner: bgruening
   revisions:
-  - 1e088aa741eb
+  - 1552b8cb4a94
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -219,7 +219,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
-  - daaa56720686
+  - a7067bbf1e58
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -261,7 +261,7 @@ tools:
 - name: sklearn_fitted_model_eval
   owner: bgruening
   revisions:
-  - c2a7717d96ce
+  - 2e69c6de354e
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -275,7 +275,7 @@ tools:
 - name: sklearn_model_fit
   owner: bgruening
   revisions:
-  - fb17e19b62a4
+  - 5dd3f77a2257
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -345,7 +345,7 @@ tools:
 - name: sklearn_train_test_eval
   owner: bgruening
   revisions:
-  - 443471b0a27a
+  - 10e2498ef07b
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
