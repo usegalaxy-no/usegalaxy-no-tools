@@ -114,7 +114,7 @@ tools:
 - name: keras_model_config
   owner: bgruening
   revisions:
-  - de19ef9ff031
+  - 0c933465d70e
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -156,14 +156,14 @@ tools:
 - name: ml_visualization_ex
   owner: bgruening
   revisions:
-  - 947c2eacccb8
+  - 4a229a7ad638
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: model_prediction
   owner: bgruening
   revisions:
-  - 1552b8cb4a94
+  - 60c726f5cc5e
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -261,7 +261,7 @@ tools:
 - name: sklearn_fitted_model_eval
   owner: bgruening
   revisions:
-  - 2e69c6de354e
+  - 61fb99c55558
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -275,7 +275,7 @@ tools:
 - name: sklearn_model_fit
   owner: bgruening
   revisions:
-  - 5dd3f77a2257
+  - 17999807dc1b
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -345,7 +345,7 @@ tools:
 - name: sklearn_train_test_eval
   owner: bgruening
   revisions:
-  - 10e2498ef07b
+  - caf7d2b71a48
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu

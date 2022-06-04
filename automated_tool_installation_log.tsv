@@ -2793,3 +2793,4 @@ Update	115	28/05/22 15:40:08	stacks2_shortreads	False	Installed	iuc	c287418eb288
 Update	115	28/05/22 15:41:32	stacks2_sstacks	False	Installed	iuc	a819ec3b362d	a819ec3b362d				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	115	28/05/22 15:42:48	stacks2_tsv2bam	False	Installed	iuc	2645575d1bf2	2645575d1bf2				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	115	28/05/22 15:44:11	stacks2_ustacks	False	Installed	iuc	912f904a6e1e	912f904a6e1e				RAD-seq	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	116	04/06/22 14:37:08	antismash	False	Installed	bgruening	e78e25d3b4bd	e78e25d3b4bd				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
