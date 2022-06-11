@@ -16,8 +16,8 @@ tools:
 - name: bcftools
   owner: iuc
   revisions:
-  - e5e78d1e09a6
   - bdd0cb7fbedf
+  - e5e78d1e09a6
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -25,7 +25,6 @@ tools:
   owner: devteam
   revisions:
   - a5937157062f
-  - a7c9782130e8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu
