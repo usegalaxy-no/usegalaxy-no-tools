@@ -9,28 +9,28 @@ tools:
 - name: basecoverage
   owner: devteam
   revisions:
-  - 2cedec3759e4
+  - 9c5ff4695c97
   tool_panel_section_id: bxops
   tool_panel_section_label: Operate on Genomic Intervals
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: cluster
   owner: devteam
   revisions:
-  - 05696474ee89
+  - a126ec6ea0e4
   tool_panel_section_id: bxops
   tool_panel_section_label: Operate on Genomic Intervals
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: complement
   owner: devteam
   revisions:
-  - 38c8bb402872
+  - 8b6c6ec55c6e
   tool_panel_section_id: bxops
   tool_panel_section_label: Operate on Genomic Intervals
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: concat
   owner: devteam
   revisions:
-  - 35a89f8cc96e
+  - 73ca13a7ec5f
   tool_panel_section_id: bxops
   tool_panel_section_label: Operate on Genomic Intervals
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -44,7 +44,7 @@ tools:
 - name: join
   owner: devteam
   revisions:
-  - a10f49d9218a
+  - 718d04143c31
   tool_panel_section_id: bxops
   tool_panel_section_label: Operate on Genomic Intervals
   tool_shed_url: toolshed.g2.bx.psu.edu

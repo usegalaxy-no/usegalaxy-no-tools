@@ -24,7 +24,6 @@ tools:
 - name: freebayes
   owner: devteam
   revisions:
-  - a5937157062f
   - a7c9782130e8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF

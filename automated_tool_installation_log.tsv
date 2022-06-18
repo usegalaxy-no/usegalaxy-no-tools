@@ -2797,3 +2797,17 @@ Update	116	04/06/22 14:37:08	antismash	False	Installed	bgruening	e78e25d3b4bd	e7
 Update	117	11/06/22 14:47:23	goseq	False	Installed	iuc	43798b4caee0	43798b4caee0				ChemicalToolBox	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	117	11/06/22 14:48:38	ncbi_blast_plus	False	Installed	devteam	0e3cf9594bb7	0e3cf9594bb7				NCBI Blast	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	117	11/06/22 14:51:09	spaln	False	Installed	iuc	2e92e1929cb1	2e92e1929cb1				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:46:16	basecoverage	False	Installed	devteam	9c5ff4695c97	9c5ff4695c97				Operate on Genomic Intervals	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:47:31	cluster	False	Installed	devteam	a126ec6ea0e4	a126ec6ea0e4				Operate on Genomic Intervals	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:48:56	complement	False	Installed	devteam	8b6c6ec55c6e	8b6c6ec55c6e				Operate on Genomic Intervals	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:50:05	concat	False	Installed	devteam	73ca13a7ec5f	73ca13a7ec5f				Operate on Genomic Intervals	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:51:11	coverage	False	Installed	devteam	e3363e087468	e3363e087468				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:56:54	ega_download_client	False	Installed	iuc	e82175804eb1	e82175804eb1				Get Data	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:58:25	flanking_features	False	Installed	devteam	9f12b7e500f1	9f12b7e500f1				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 14:59:44	intersect	False	Installed	devteam	69c10b56f46d	69c10b56f46d				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 15:01:16	join	False	Installed	devteam	718d04143c31	718d04143c31				Operate on Genomic Intervals	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 15:02:41	merge	False	Installed	devteam	debffd27642d	debffd27642d				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 15:04:07	mitos2	False	Installed	iuc	624606f7c996	624606f7c996				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 15:05:35	mlst	False	Installed	iuc	31812e7a1315	31812e7a1315				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 15:07:34	nanoplot	False	Installed	iuc	a3c4fe6f49ab	a3c4fe6f49ab				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	118	18/06/22 15:10:54	subtract	False	Installed	devteam	0427ca314f3d	0427ca314f3d				Join, Subtract and Group	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

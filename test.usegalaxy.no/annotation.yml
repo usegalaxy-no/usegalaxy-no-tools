@@ -2,8 +2,8 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
-  - b734db305578
   - c2ef298da409
+  - b734db305578
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -263,14 +263,14 @@ tools:
 - name: mitos2
   owner: iuc
   revisions:
-  - 80323066acd4
+  - 624606f7c996
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: mlst
   owner: iuc
   revisions:
-  - ded48b36f3b7
+  - 31812e7a1315
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu

@@ -256,14 +256,14 @@ tools:
 - name: mitos2
   owner: iuc
   revisions:
-  - 80323066acd4
+  - 624606f7c996
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: mlst
   owner: iuc
   revisions:
-  - ded48b36f3b7
+  - 31812e7a1315
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -347,8 +347,8 @@ tools:
 - name: segmentation_fold
   owner: yhoogstrate
   revisions:
-  - 09e921a25c68
   - 4d16cf9414cf
+  - 09e921a25c68
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
   tool_shed_url: toolshed.g2.bx.psu.edu
