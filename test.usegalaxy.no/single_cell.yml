@@ -9,28 +9,28 @@ tools:
 - name: anndata_export
   owner: iuc
   revisions:
-  - 707023fa62fe
+  - 0cb889db0910
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: anndata_import
   owner: iuc
   revisions:
-  - 55e35e9203cf
+  - fb9e030ffae4
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: anndata_inspect
   owner: iuc
   revisions:
-  - 688357ad5e61
+  - ee98d611afc6
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: anndata_manipulate
   owner: iuc
   revisions:
-  - 9bd945a03d7b
+  - 3d748954434b
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -44,7 +44,7 @@ tools:
 - name: modify_loom
   owner: iuc
   revisions:
-  - 05631436cdf1
+  - 4b0adaa31c95
   tool_panel_section_id: single-cell
   tool_panel_section_label: Single-cell
   tool_shed_url: toolshed.g2.bx.psu.edu

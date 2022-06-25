@@ -25,6 +25,7 @@ tools:
   owner: devteam
   revisions:
   - a7c9782130e8
+  - a5937157062f
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
   tool_shed_url: toolshed.g2.bx.psu.edu

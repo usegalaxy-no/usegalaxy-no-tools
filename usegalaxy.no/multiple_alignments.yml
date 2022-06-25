@@ -51,7 +51,7 @@ tools:
 - name: kc_align
   owner: iuc
   revisions:
-  - 0c0288a9d92c
+  - 97476dfde728
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
   tool_shed_url: toolshed.g2.bx.psu.edu

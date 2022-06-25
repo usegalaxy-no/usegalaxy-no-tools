@@ -2811,3 +2811,17 @@ Update	118	18/06/22 15:04:07	mitos2	False	Installed	iuc	624606f7c996	624606f7c99
 Update	118	18/06/22 15:05:35	mlst	False	Installed	iuc	31812e7a1315	31812e7a1315				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	118	18/06/22 15:07:34	nanoplot	False	Installed	iuc	a3c4fe6f49ab	a3c4fe6f49ab				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	118	18/06/22 15:10:54	subtract	False	Installed	devteam	0427ca314f3d	0427ca314f3d				Join, Subtract and Group	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:45:04	anndata_export	False	Installed	iuc	0cb889db0910	0cb889db0910				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:46:50	anndata_import	False	Installed	iuc	fb9e030ffae4	fb9e030ffae4				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:48:12	anndata_inspect	False	Installed	iuc	ee98d611afc6	ee98d611afc6				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:49:36	anndata_manipulate	False	Installed	iuc	3d748954434b	3d748954434b				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:54:04	data_manager_build_kraken2_database	False	Installed	iuc	9002633b4737	9002633b4737				None	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:55:17	kc_align	False	Installed	iuc	97476dfde728	97476dfde728				Multiple Alignments	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:56:25	modify_loom	False	Installed	iuc	4b0adaa31c95	4b0adaa31c95				Single-cell	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:57:32	nanocompore_db	False	Installed	iuc	35d3618b124b	35d3618b124b				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 14:58:40	nanocompore_sampcomp	False	Installed	iuc	c0fb573c1e8d	c0fb573c1e8d				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 15:01:02	samtools_markdup	False	Installed	iuc	887e02a45734	887e02a45734				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 15:02:18	samtools_stats	False	Installed	devteam	3a0efe14891f	3a0efe14891f				SAM/BAM	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 15:03:14	staramr	False	Installed	nml	be818ae858e4	be818ae858e4				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 15:04:19	vg_deconstruct	False	Installed	iuc	76d18b1e970b	76d18b1e970b				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	119	25/06/22 15:05:22	vg_view	False	Installed	iuc	ee62774bb5bd	ee62774bb5bd				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

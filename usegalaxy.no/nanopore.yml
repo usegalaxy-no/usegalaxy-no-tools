@@ -30,14 +30,14 @@ tools:
 - name: nanocompore_db
   owner: iuc
   revisions:
-  - ca9e70c0fef8
+  - 35d3618b124b
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: nanocompore_sampcomp
   owner: iuc
   revisions:
-  - b833eff63b10
+  - c0fb573c1e8d
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
   tool_shed_url: toolshed.g2.bx.psu.edu

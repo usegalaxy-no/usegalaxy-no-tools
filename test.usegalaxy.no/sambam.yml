@@ -171,7 +171,7 @@ tools:
 - name: samtools_markdup
   owner: iuc
   revisions:
-  - 8c440c3002bc
+  - 887e02a45734
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -234,7 +234,7 @@ tools:
 - name: samtools_stats
   owner: devteam
   revisions:
-  - 1cc79f49b8d5
+  - 3a0efe14891f
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
   tool_shed_url: toolshed.g2.bx.psu.edu

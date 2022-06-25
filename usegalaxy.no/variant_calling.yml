@@ -268,8 +268,8 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - e8adfc4c0a6b
   - 268d162b9c49
+  - e8adfc4c0a6b
   - cfcf33df7fc0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -298,10 +298,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 5fab4f81391d
-  - 09d6806c609e
   - 2b3e65a4252f
   - b04635ebfab0
+  - 09d6806c609e
+  - 5fab4f81391d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -532,14 +532,14 @@ tools:
 - name: vg_deconstruct
   owner: iuc
   revisions:
-  - a347dad1f305
+  - 76d18b1e970b
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: vg_view
   owner: iuc
   revisions:
-  - 95ec8f978762
+  - ee62774bb5bd
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
