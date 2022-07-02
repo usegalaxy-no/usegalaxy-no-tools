@@ -2825,3 +2825,13 @@ Update	119	25/06/22 15:02:18	samtools_stats	False	Installed	devteam	3a0efe14891f
 Update	119	25/06/22 15:03:14	staramr	False	Installed	nml	be818ae858e4	be818ae858e4				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	119	25/06/22 15:04:19	vg_deconstruct	False	Installed	iuc	76d18b1e970b	76d18b1e970b				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	119	25/06/22 15:05:22	vg_view	False	Installed	iuc	ee62774bb5bd	ee62774bb5bd				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 14:51:28	annotatemyids	False	Installed	iuc	4f2967b27e67	4f2967b27e67				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 14:55:01	datamash_ops	False	Installed	iuc	746e8e4bf929	746e8e4bf929				Join, Subtract and Group	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 14:56:06	datamash_reverse	False	Installed	iuc	f198773344e4	f198773344e4				Join, Subtract and Group	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 14:57:23	datamash_transpose	False	Installed	iuc	ac092723240d	ac092723240d				Join, Subtract and Group	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 14:58:50	drep_compare	False	Installed	iuc	54aa421c2911	54aa421c2911				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 15:00:18	drep_dereplicate	False	Installed	iuc	368cb4bef9d8	368cb4bef9d8				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 15:01:16	medaka_consensus	False	Installed	iuc	d6cddc06aeae	d6cddc06aeae				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 15:02:22	medaka_consensus_pipeline	False	Installed	iuc	cb34f00cc10f	cb34f00cc10f				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 15:03:34	medaka_variant	False	Installed	iuc	cc36773a3681	cc36773a3681				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	120	02/07/22 15:04:43	medaka_variant_pipeline	False	Installed	iuc	1d62240feff3	1d62240feff3				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

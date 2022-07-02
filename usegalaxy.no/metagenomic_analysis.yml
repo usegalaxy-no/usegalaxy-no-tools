@@ -163,14 +163,14 @@ tools:
 - name: drep_compare
   owner: iuc
   revisions:
-  - 7157accd23d0
+  - 54aa421c2911
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: drep_dereplicate
   owner: iuc
   revisions:
-  - ef7cd2e7bc05
+  - 368cb4bef9d8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -416,8 +416,8 @@ tools:
 - name: last
   owner: iuc
   revisions:
-  - f5a5a2b39ff2
   - 19c265784f35
+  - f5a5a2b39ff2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -641,8 +641,8 @@ tools:
 - name: vsearch
   owner: iuc
   revisions:
-  - b3c7199d8786
   - 9495df9dd6ef
+  - b3c7199d8786
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

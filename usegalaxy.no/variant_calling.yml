@@ -268,8 +268,8 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - 268d162b9c49
   - e8adfc4c0a6b
+  - 268d162b9c49
   - cfcf33df7fc0
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -298,9 +298,9 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
+  - 09d6806c609e
   - 2b3e65a4252f
   - b04635ebfab0
-  - 09d6806c609e
   - 5fab4f81391d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
