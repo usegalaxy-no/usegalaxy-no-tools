@@ -2835,3 +2835,12 @@ Update	120	02/07/22 15:01:16	medaka_consensus	False	Installed	iuc	d6cddc06aeae	d
 Update	120	02/07/22 15:02:22	medaka_consensus_pipeline	False	Installed	iuc	cb34f00cc10f	cb34f00cc10f				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	120	02/07/22 15:03:34	medaka_variant	False	Installed	iuc	cc36773a3681	cc36773a3681				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	120	02/07/22 15:04:43	medaka_variant_pipeline	False	Installed	iuc	1d62240feff3	1d62240feff3				Nanopore	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 14:47:40	antismash	False	Installed	bgruening	bc88856eddab	bc88856eddab				Annotation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 14:49:18	bowtie2	False	Installed	devteam	f6877ad76b00	f6877ad76b00				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 14:50:54	bracken	False	Installed	iuc	19035a7b1106	19035a7b1106				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 14:56:52	flash	False	Installed	iuc	01a4ebf1f237	01a4ebf1f237				FASTA/FASTQ	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 14:58:21	hisat2	False	Installed	iuc	f4af63aaf57a	f4af63aaf57a				Mapping	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 14:59:55	lofreq_alnqual	False	Installed	iuc	791f73caa0c8	791f73caa0c8				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 15:01:42	lofreq_call	False	Installed	iuc	4805fe3d8fda	4805fe3d8fda				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 15:03:16	lofreq_indelqual	False	Installed	iuc	971e07ca4456	971e07ca4456				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	121	09/07/22 15:06:49	split_file_on_column	False	Installed	bgruening	d4b5b70e82cb	d4b5b70e82cb				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt

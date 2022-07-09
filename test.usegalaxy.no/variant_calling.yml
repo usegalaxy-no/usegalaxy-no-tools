@@ -135,14 +135,14 @@ tools:
 - name: lofreq_alnqual
   owner: iuc
   revisions:
-  - e0e2fd665102
+  - 791f73caa0c8
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: lofreq_call
   owner: iuc
   revisions:
-  - e1461b5c52a0
+  - 4805fe3d8fda
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -156,7 +156,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
-  - 354b534eeab7
+  - 971e07ca4456
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -282,10 +282,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 5fab4f81391d
   - 09d6806c609e
-  - 2b3e65a4252f
   - b04635ebfab0
+  - 2b3e65a4252f
+  - 5fab4f81391d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

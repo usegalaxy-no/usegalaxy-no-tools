@@ -366,7 +366,7 @@ tools:
 - name: flash
   owner: iuc
   revisions:
-  - a27654fc4270
+  - 01a4ebf1f237
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu

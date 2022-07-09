@@ -10,15 +10,15 @@ tools:
 - name: blasr
   owner: hien
   revisions:
-  - ead68dd19206
   - 8d8223d9148b
+  - ead68dd19206
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: galaxy-ntnu.bioinfo.no/toolshed_nels
 - name: bowtie2
   owner: devteam
   revisions:
-  - 749c918495f7
+  - f6877ad76b00
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -60,7 +60,7 @@ tools:
 - name: hisat2
   owner: iuc
   revisions:
-  - 6c19daec423d
+  - f4af63aaf57a
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
