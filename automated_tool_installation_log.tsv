@@ -2844,3 +2844,29 @@ Update	121	09/07/22 14:59:55	lofreq_alnqual	False	Installed	iuc	791f73caa0c8	791
 Update	121	09/07/22 15:01:42	lofreq_call	False	Installed	iuc	4805fe3d8fda	4805fe3d8fda				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	121	09/07/22 15:03:16	lofreq_indelqual	False	Installed	iuc	971e07ca4456	971e07ca4456				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	121	09/07/22 15:06:49	split_file_on_column	False	Installed	bgruening	d4b5b70e82cb	d4b5b70e82cb				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:50:11	gemini_actionable_mutations	False	Installed	iuc	db47f4939381	db47f4939381				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:51:36	gemini_amend	False	Installed	iuc	334e946cacd4	334e946cacd4				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:52:51	gemini_annotate	False	Installed	iuc	cf0f0f05ba9f	cf0f0f05ba9f				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:54:12	gemini_burden	False	Installed	iuc	f0bf88e9e689	f0bf88e9e689				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:55:32	gemini_db_info	False	Installed	iuc	c2a413e47fe9	c2a413e47fe9				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:56:42	gemini_fusions	False	Installed	iuc	c00dcd1455a0	c00dcd1455a0				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:58:06	gemini_gene_wise	False	Installed	iuc	e57a1b0ac6be	e57a1b0ac6be				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 14:59:20	gemini_inheritance	False	Installed	iuc	2c68e29c3527	2c68e29c3527				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:00:37	gemini_interactions	False	Installed	iuc	f745f54638e5	f745f54638e5				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:01:58	gemini_load	False	Installed	iuc	2270a8b83c12	2270a8b83c12				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:03:12	gemini_lof_sieve	False	Installed	iuc	4b5123d51e8c	4b5123d51e8c				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:04:33	gemini_pathways	False	Installed	iuc	9551b3da9f5d	9551b3da9f5d				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:05:49	gemini_qc	False	Installed	iuc	20f2ecf46dcb	20f2ecf46dcb				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:07:00	gemini_query	False	Installed	iuc	77a1e60fd1de	77a1e60fd1de				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:08:19	gemini_roh	False	Installed	iuc	e8349da26ed5	e8349da26ed5				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:09:29	gemini_set_somatic	False	Installed	iuc	7814e39409d1	7814e39409d1				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:10:49	gemini_stats	False	Installed	iuc	b92cfa44f5be	b92cfa44f5be				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:12:07	gemini_windower	False	Installed	iuc	406d3552beca	406d3552beca				Gemini	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:13:20	ivar_consensus	False	Installed	iuc	e319b5b65879	e319b5b65879				Virology	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:14:24	ivar_filtervariants	False	Installed	iuc	0135f1d487a0	0135f1d487a0				Virology	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:15:43	ivar_removereads	False	Errored	iuc	ee29337f905c	ee29337f905c	Staging Installation			Virology	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:18:59	ivar_trim	False	Errored	iuc	5671e1d3d5ee	5671e1d3d5ee	Production Installation			Virology	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:20:04	ivar_variants	False	Installed	iuc	584beffa972b	584beffa972b				Virology	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:21:20	metaspades	False	Installed	nml	606b09cc9860	606b09cc9860				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:23:59	rnaspades	False	Installed	iuc	378e55aeeb25	378e55aeeb25				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	122	16/07/22 15:25:02	spades	False	Installed	nml	78ced22d09a2	78ced22d09a2				Assembly	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
