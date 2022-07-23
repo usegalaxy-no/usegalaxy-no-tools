@@ -198,7 +198,7 @@ tools:
 - name: scipy_sparse
   owner: bgruening
   revisions:
-  - e6893a4bcb7b
+  - f49aad8f79ea
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -212,7 +212,7 @@ tools:
 - name: sklearn_build_pipeline
   owner: bgruening
   revisions:
-  - 3f25f37ee3db
+  - aef56d0e7a61
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -226,35 +226,35 @@ tools:
 - name: sklearn_data_preprocess
   owner: bgruening
   revisions:
-  - add3c3a7c2b4
+  - 484a98c44f00
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_discriminant_classifier
   owner: bgruening
   revisions:
-  - 1bd039aca44f
+  - 78a60f884ac9
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
-  - 407495139a09
+  - 53616c8b0865
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_estimator_attributes
   owner: bgruening
   revisions:
-  - 5ae00d2908f2
+  - 375bbd555f4a
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_feature_selection
   owner: bgruening
   revisions:
-  - a7c667ff83fe
+  - e918f33f7d4f
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -268,7 +268,7 @@ tools:
 - name: sklearn_generalized_linear
   owner: bgruening
   revisions:
-  - c9969328b42f
+  - 2fc89dcd41c8
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -282,63 +282,63 @@ tools:
 - name: sklearn_model_validation
   owner: bgruening
   revisions:
-  - 65f18ab91132
+  - be4f389a95d9
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_nn_classifier
   owner: bgruening
   revisions:
-  - 309cc7c6af56
+  - 4cc980df6265
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
-  - e13a7c05b3a4
+  - 4bbaf77573ef
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_pairwise_metrics
   owner: bgruening
   revisions:
-  - 2a1afd3481ce
+  - d2da602b05cb
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_regression_metrics
   owner: bgruening
   revisions:
-  - 6000c1589f33
+  - 7acb9b46c066
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_sample_generator
   owner: bgruening
   revisions:
-  - 1fe020b2108f
+  - e6f4d3d9058c
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_searchcv
   owner: bgruening
   revisions:
-  - f0d2e8a3c575
+  - c6ae57f774c6
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_stacking_ensemble_models
   owner: bgruening
   revisions:
-  - d25127d5f4e0
+  - 59f53bbe6ba9
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: sklearn_svm_classifier
   owner: bgruening
   revisions:
-  - f458724cc317
+  - 4ed102b922cb
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -352,7 +352,7 @@ tools:
 - name: sklearn_train_test_split
   owner: bgruening
   revisions:
-  - 03611d7232f6
+  - 376dd641af44
   tool_panel_section_id: stats
   tool_panel_section_label: Statistics
   tool_shed_url: toolshed.g2.bx.psu.edu

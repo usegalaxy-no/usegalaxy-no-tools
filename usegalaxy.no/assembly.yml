@@ -58,21 +58,21 @@ tools:
 - name: idba_hybrid
   owner: iuc
   revisions:
-  - 5ece301faf6b
+  - 5c5806e23338
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: idba_tran
   owner: iuc
   revisions:
-  - 33f00ff1cb22
+  - 03de4e0f84c2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: idba_ud
   owner: iuc
   revisions:
-  - 694b0f55b744
+  - 1542a2fffe0c
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
   tool_shed_url: toolshed.g2.bx.psu.edu
