@@ -2880,3 +2880,15 @@ Update	123	23/07/22 15:09:17	ivar_trim	False	Installed	iuc	5671e1d3d5ee	5671e1d3
 Update	123	23/07/22 15:12:35	pureclip	False	Installed	iuc	75bf02d7d1c8	75bf02d7d1c8				Peak Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	123	23/07/22 15:14:10	raxml	False	Installed	iuc	29ff6a849eac	29ff6a849eac				Phylogenetics	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
 Update	123	23/07/22 15:15:42	split_file_on_column	False	Installed	bgruening	ff2a81aa3f08	ff2a81aa3f08				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 14:56:46	bcftools_call	False	Installed	iuc	c37b684e7f4e	c37b684e7f4e				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 14:57:51	bcftools_cnv	False	Installed	iuc	8627b2b383b4	8627b2b383b4				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 14:58:47	bcftools_concat	False	Installed	iuc	6b6c992d3a14	6b6c992d3a14				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 14:59:43	bcftools_consensus	False	Installed	iuc	d37e313a41be	d37e313a41be				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:00:41	bcftools_csq	False	Installed	iuc	64a8f7dae3ad	64a8f7dae3ad				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:01:39	bcftools_merge	False	Installed	iuc	86296490704e	86296490704e				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:02:36	bcftools_norm	False	Installed	iuc	021693fdadaa	021693fdadaa				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:03:31	bcftools_plugin_color_chrs	False	Installed	iuc	7ef488b08a23	7ef488b08a23				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:04:23	bcftools_plugin_frameshifts	False	Installed	iuc	03e6fb76e969	03e6fb76e969				Variant Calling	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:05:30	column_maker	False	Installed	devteam	6595517c2dd8	6595517c2dd8				Text Manipulation	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:10:37	ivar_removereads	False	Installed	iuc	ee29337f905c	ee29337f905c				Virology	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
+Update	124	30/07/22 15:12:22	nonpareil	False	Installed	iuc	45210df786b9	45210df786b9				Metagenomic Analysis	toolshed.g2.bx.psu.edu	/home/runner/galaxy_tool_automation/update_build_/install_log.txt
