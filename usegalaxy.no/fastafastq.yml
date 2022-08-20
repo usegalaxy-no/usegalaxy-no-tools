@@ -471,7 +471,7 @@ tools:
 - name: splitfasta
   owner: rnateam
   revisions:
-  - ae4d5733272f
+  - 733ca84b21ee
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
   tool_shed_url: toolshed.g2.bx.psu.edu

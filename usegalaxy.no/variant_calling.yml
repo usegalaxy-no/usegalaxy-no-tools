@@ -268,8 +268,8 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - 5c7b70713fb5
   - e8adfc4c0a6b
+  - 5c7b70713fb5
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -297,10 +297,10 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 2b3e65a4252f
-  - b04635ebfab0
   - 5fab4f81391d
+  - b04635ebfab0
   - 09d6806c609e
+  - 2b3e65a4252f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

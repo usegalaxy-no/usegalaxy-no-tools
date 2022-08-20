@@ -101,7 +101,7 @@ tools:
 - name: hyphy_relax
   owner: iuc
   revisions:
-  - 49885a825dc1
+  - 7207313de5a8
   tool_panel_section_id: phylogenetics
   tool_panel_section_label: Phylogenetics
   tool_shed_url: toolshed.g2.bx.psu.edu
