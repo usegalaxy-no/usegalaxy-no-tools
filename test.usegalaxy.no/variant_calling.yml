@@ -209,6 +209,13 @@ tools:
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sniffles
+  owner: iuc
+  revisions:
+  - 93c4b04a0769
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
 - name: snippy
   owner: iuc
   revisions:
@@ -283,10 +290,24 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
-  - 09d6806c609e
-  - 2b3e65a4252f
-  - b04635ebfab0
   - 5fab4f81391d
+  - 2b3e65a4252f
+  - 09d6806c609e
+  - b04635ebfab0
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: strelka_germline
+  owner: iuc
+  revisions:
+  - 19481653a22f
+  tool_panel_section_id: variant_calling
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: strelka_somatic
+  owner: iuc
+  revisions:
+  - edbdbc64b397
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
   tool_shed_url: toolshed.g2.bx.psu.edu

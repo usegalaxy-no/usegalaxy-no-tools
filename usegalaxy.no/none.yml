@@ -9,8 +9,8 @@ tools:
 - name: data_manager_build_bracken_database
   owner: iuc
   revisions:
-  - fd5830f88314
   - 3c7d2c84cb09
+  - fd5830f88314
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -33,8 +33,8 @@ tools:
   owner: bgruening
   revisions:
   - 4a08b7b76b78
-  - 5a0d0bee4f8d
   - ce62d0912b10
+  - 5a0d0bee4f8d
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -63,13 +63,6 @@ tools:
   owner: iuc
   revisions:
   - def511e8e005
-  tool_panel_section_id: None
-  tool_panel_section_label: None
-  tool_shed_url: toolshed.g2.bx.psu.edu
-- name: snpeff
-  owner: iuc
-  revisions:
-  - e8adfc4c0a6b
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
