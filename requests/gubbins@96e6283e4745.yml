@@ -1,0 +1,7 @@
+tools:
+- name: gubbins
+  owner: iuc
+  revisions:
+  - 96e6283e4745
+  tool_panel_section_label: Annotation
+  tool_shed_url: toolshed.g2.bx.psu.edu
