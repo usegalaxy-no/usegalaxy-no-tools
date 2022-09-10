@@ -9,16 +9,16 @@ tools:
 - name: data_manager_build_bracken_database
   owner: iuc
   revisions:
-  - 3c7d2c84cb09
   - fd5830f88314
+  - 3c7d2c84cb09
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: data_manager_build_kraken2_database
   owner: iuc
   revisions:
-  - 2f27f3b86827
   - 9002633b4737
+  - 2f27f3b86827
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -55,14 +55,14 @@ tools:
 - name: data_manager_gemini_database_downloader
   owner: iuc
   revisions:
-  - 52b6a4d98009
+  - 5bcf0e24f42c
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
 - name: data_manager_humann2_database_downloader
   owner: iuc
   revisions:
-  - ff9cf22838d4
+  - 9244804f69a7
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -76,7 +76,7 @@ tools:
 - name: data_manager_metaphlan2_database_downloader
   owner: iuc
   revisions:
-  - 83f07f40b200
+  - 9c4ad82be5bd
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu

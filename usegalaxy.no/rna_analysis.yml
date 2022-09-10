@@ -184,8 +184,8 @@ tools:
 - name: dexseq
   owner: iuc
   revisions:
-  - 2872c633f07e
   - b47c006d90c5
+  - 2872c633f07e
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -564,9 +564,9 @@ tools:
   owner: nilesh
   revisions:
   - 1a052c827e88
-  - 09846d5169fa
-  - daae0a118c36
   - 2e6190c29c54
+  - daae0a118c36
+  - 09846d5169fa
   tool_panel_section_id: rna_analysis
   tool_panel_section_label: RNA Analysis
   tool_shed_url: toolshed.g2.bx.psu.edu

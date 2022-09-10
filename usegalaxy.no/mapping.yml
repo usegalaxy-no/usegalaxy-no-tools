@@ -2,8 +2,8 @@ tools:
 - name: bismark
   owner: bgruening
   revisions:
-  - 120b7b35e442
   - 9d02cd7883ad
+  - 120b7b35e442
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -39,8 +39,8 @@ tools:
 - name: bwa
   owner: devteam
   revisions:
-  - 64f11cf59c6e
   - e188dc7a68e6
+  - 64f11cf59c6e
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
   tool_shed_url: toolshed.g2.bx.psu.edu
