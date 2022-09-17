@@ -1,0 +1,7 @@
+tools:
+- name: crossmap_vcf
+  owner: iuc
+  revisions:
+  - 18f7e96459d2
+  tool_panel_section_label: Convert Formats
+  tool_shed_url: toolshed.g2.bx.psu.edu
