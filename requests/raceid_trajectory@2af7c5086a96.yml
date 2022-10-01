@@ -1,0 +1,7 @@
+tools:
+- name: raceid_trajectory
+  owner: iuc
+  revisions:
+  - 2af7c5086a96
+  tool_panel_section_label: Single-cell
+  tool_shed_url: toolshed.g2.bx.psu.edu

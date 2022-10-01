@@ -1,0 +1,7 @@
+tools:
+- name: bcftools_plugin_color_chrs
+  owner: iuc
+  revisions:
+  - f88f74d5b1e9
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
