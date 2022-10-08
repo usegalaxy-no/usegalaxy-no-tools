@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: odgi_viz
+  owner: iuc
+  revisions:
+  - 911a3517b738
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu

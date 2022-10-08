@@ -1,0 +1,7 @@
+tools:
+- name: crossmap_wig
+  owner: iuc
+  revisions:
+  - e72c320c17c1
+  tool_panel_section_label: Convert Formats
+  tool_shed_url: toolshed.g2.bx.psu.edu
