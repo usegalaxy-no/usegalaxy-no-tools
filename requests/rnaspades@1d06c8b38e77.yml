@@ -1,0 +1,8 @@
+# [SKIP_TESTS]
+tools:
+- name: rnaspades
+  owner: iuc
+  revisions:
+  - 1d06c8b38e77
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu

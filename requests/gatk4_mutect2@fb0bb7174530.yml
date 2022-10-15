@@ -1,0 +1,7 @@
+tools:
+- name: gatk4_mutect2
+  owner: iuc
+  revisions:
+  - fb0bb7174530
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu

@@ -1,0 +1,7 @@
+tools:
+- name: bcftools_cnv
+  owner: iuc
+  revisions:
+  - 0238f68ad641
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
