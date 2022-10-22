@@ -17,8 +17,8 @@ tools:
 - name: data_manager_build_kraken2_database
   owner: iuc
   revisions:
-  - 2f27f3b86827
   - 9002633b4737
+  - 2f27f3b86827
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -33,8 +33,8 @@ tools:
   owner: bgruening
   revisions:
   - 4a08b7b76b78
-  - 5a0d0bee4f8d
   - ce62d0912b10
+  - 5a0d0bee4f8d
   tool_panel_section_id: None
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
@@ -97,8 +97,8 @@ tools:
 - name: snpeff
   owner: iuc
   revisions:
-  - 5c7b70713fb5
   - 268d162b9c49
+  - 5c7b70713fb5
   tool_panel_section_id: none
   tool_panel_section_label: None
   tool_shed_url: toolshed.g2.bx.psu.edu
