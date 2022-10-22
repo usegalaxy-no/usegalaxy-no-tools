@@ -1,0 +1,7 @@
+tools:
+- name: create_tool_recommendation_model
+  owner: bgruening
+  revisions:
+  - e94dc7945639
+  tool_panel_section_label: Statistics
+  tool_shed_url: toolshed.g2.bx.psu.edu

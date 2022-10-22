@@ -1,0 +1,7 @@
+tools:
+- name: unicycler
+  owner: iuc
+  revisions:
+  - d10bdad2fd17
+  tool_panel_section_label: Assembly
+  tool_shed_url: toolshed.g2.bx.psu.edu

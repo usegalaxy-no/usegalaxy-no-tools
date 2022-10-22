@@ -1,0 +1,7 @@
+tools:
+- name: odgi_build
+  owner: iuc
+  revisions:
+  - 6584dfcc7165
+  tool_panel_section_label: Variant Calling
+  tool_shed_url: toolshed.g2.bx.psu.edu
